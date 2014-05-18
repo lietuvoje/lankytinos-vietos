@@ -5,3 +5,4 @@
 
 Ateityje noriu duomenis irgi padaryti atvirus. [Google Fusion Tables](http://tables.googlelabs.com) atrodo įdomiai ir turi Google Maps API sluoksnių palaikymą.
 
+Komentarai ir pasiūlymai laukiami. Labiausiai PR pavidalu.
