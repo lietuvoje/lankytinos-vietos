@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>doc.kml</name>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin001">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin210">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0010">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl11">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin003">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0030">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Malūnai</name>
+		<open>1</open>
+		<Placemark>
+			<name>Stasinės vėjo malūno liekanos</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/54_01.jpg"/><a href="http://malunai.lt/data/foto_normal/54_01.jpg">http://malunai.lt/data/foto_normal/54_01.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.13628951009994</longitude>
+				<latitude>55.32445588622002</latitude>
+				<altitude>0</altitude>
+				<heading>0.0240640926008157</heading>
+				<tilt>0</tilt>
+				<range>640.02147770026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>24.13408525075011,55.32362725783907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ąžuolinių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/53_14.jpg"/><a href="http://malunai.lt/data/foto_normal/53_14.jpg">http://malunai.lt/data/foto_normal/53_14.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.60276717902233</longitude>
+				<latitude>54.42965265413322</latitude>
+				<altitude>0</altitude>
+				<heading>0.01116739426666135</heading>
+				<tilt>0</tilt>
+				<range>1183.425033295445</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.60162638148026,54.4299660257734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lazdininkų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/77763232.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.21899313765577</longitude>
+				<latitude>56.0073633879831</latitude>
+				<altitude>0</altitude>
+				<heading>0.1635232370412318</heading>
+				<tilt>10.28754020733735</tilt>
+				<range>1239.191599312975</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1011</styleUrl>
+			<Point>
+				<coordinates>21.21664530547725,56.00654825873834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vištyčio vėjo malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/59_15.jpg"/><a href="http://malunai.lt/data/foto_normal/59_15.jpg">http://malunai.lt/data/foto_normal/59_15.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.74858131826304</longitude>
+				<latitude>54.45488718632551</latitude>
+				<altitude>0</altitude>
+				<heading>0.008455130435490931</heading>
+				<tilt>0</tilt>
+				<range>1953.833939404428</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>22.73944324488171,54.45474807240004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Giedraičių kalvė ir vėjo malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/101_20.jpg"/><a href="http://malunai.lt/data/foto_normal/101_20.jpg">http://malunai.lt/data/foto_normal/101_20.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.54851203448116</longitude>
+				<latitude>55.56922445294389</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07773559746357742</heading>
+				<tilt>0</tilt>
+				<range>1302.88654658306</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.55111339360208,55.56716362418995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didžiuliškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/112_04.jpg"/><a href="http://malunai.lt/data/foto_normal/112_04.jpg">http://malunai.lt/data/foto_normal/112_04.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.00556999537856</longitude>
+				<latitude>55.65591423252553</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003580437686651808</heading>
+				<tilt>0</tilt>
+				<range>651.1436374588234</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>25.00423051338486,55.65585557414953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žiurlių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/115_13.jpg"/><a href="http://malunai.lt/data/foto_normal/115_13.jpg">http://malunai.lt/data/foto_normal/115_13.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.72847896595829</longitude>
+				<latitude>55.51350015883929</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002368130903522954</heading>
+				<tilt>0</tilt>
+				<range>1648.58434822095</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>24.73756148319754,55.51267814209957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mekių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/69_12.jpg"/><a href="http://malunai.lt/data/foto_normal/69_12.jpg">http://malunai.lt/data/foto_normal/69_12.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.54974992478163</longitude>
+				<latitude>56.1027338919079</latitude>
+				<altitude>0</altitude>
+				<heading>0.007235158897108964</heading>
+				<tilt>0</tilt>
+				<range>1000.843760885082</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.54587527241678,56.10264386852877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Melnių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/70_26.jpg"/><a href="http://malunai.lt/data/foto_normal/70_26.jpg">http://malunai.lt/data/foto_normal/70_26.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.72770097359647</longitude>
+				<latitude>56.2426763364025</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2120683411005056</heading>
+				<tilt>0</tilt>
+				<range>984.9334607434357</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.7271393664346,56.24239008779313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smilgių malūnas</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/19997086.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/19997086.jpg">http://mw2.google.com/mw-panoramio/photos/medium/19997086.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.24711730400854</longitude>
+				<latitude>54.87482099035906</latitude>
+				<altitude>0</altitude>
+				<heading>0.1167066314358171</heading>
+				<tilt>0</tilt>
+				<range>472.1724328731019</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.24575037003459,54.87496891393487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plikiškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/71_12.jpg"/><a href="http://malunai.lt/data/foto_normal/71_12.jpg">http://malunai.lt/data/foto_normal/71_12.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.66903023017929</longitude>
+				<latitude>56.33460973219567</latitude>
+				<altitude>0</altitude>
+				<heading>0.004655471864346514</heading>
+				<tilt>0</tilt>
+				<range>487.7177152730107</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.6682500546781,56.33474622021405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/73_13.jpg"/><a href="http://malunai.lt/data/foto_normal/73_13.jpg">http://malunai.lt/data/foto_normal/73_13.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.27087075633385</longitude>
+				<latitude>56.36540028693899</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09194397495308099</heading>
+				<tilt>0</tilt>
+				<range>974.8995750784695</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.26878729359529,56.36535670327034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kupiškio vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/60_11.jpg"/><a href="http://malunai.lt/data/foto_normal/60_11.jpg">http://malunai.lt/data/foto_normal/60_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.98317499989933</longitude>
+				<latitude>55.84126299983404</latitude>
+				<altitude>0</altitude>
+				<heading>-8.336869931052169e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000687630567</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>24.98323415865836,55.84159991003543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kupiškio vėjo malūnas - 2</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/61_11.jpg"/><a href="http://malunai.lt/data/foto_normal/61_11.jpg">http://malunai.lt/data/foto_normal/61_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.96857265015576</longitude>
+				<latitude>55.83828285645527</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003356574685202261</heading>
+				<tilt>0</tilt>
+				<range>1000.443453674452</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>24.96763474522236,55.83803138562983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Purplių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/111_13.jpg"/><a href="http://malunai.lt/data/foto_normal/111_13.jpg">http://malunai.lt/data/foto_normal/111_13.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.46394729594523</longitude>
+				<latitude>56.39864013836723</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002751211591006893</heading>
+				<tilt>0</tilt>
+				<range>913.8388237012405</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.46182655335397,56.39814200688627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Papiškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/116_11.jpg"/><a href="http://malunai.lt/data/foto_normal/116_11.jpg">http://malunai.lt/data/foto_normal/116_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.21187512541773</longitude>
+				<latitude>55.27012062032205</latitude>
+				<altitude>0</altitude>
+				<heading>4.944519831822347</heading>
+				<tilt>0</tilt>
+				<range>1746.360459721677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.20545520406138,55.27041192982468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aleknaičių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/75_11.jpg"/><a href="http://malunai.lt/data/foto_normal/75_11.jpg">http://malunai.lt/data/foto_normal/75_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.73441370193005</longitude>
+				<latitude>55.98318400541858</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8346641512081767</heading>
+				<tilt>0</tilt>
+				<range>1671.560529698625</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.72934129019123,55.9822450307409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bačiūnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/76_01.jpg"/><a href="http://malunai.lt/data/foto_normal/76_01.jpg">http://malunai.lt/data/foto_normal/76_01.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.76770782006958</longitude>
+				<latitude>55.91094302716694</latitude>
+				<altitude>0</altitude>
+				<heading>-3.002301016722559</heading>
+				<tilt>0</tilt>
+				<range>295.6770618096414</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.76637324234794,55.91064645405406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diržių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/78_10.jpg"/><a href="http://malunai.lt/data/foto_normal/78_10.jpg">http://malunai.lt/data/foto_normal/78_10.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.01231381994954</longitude>
+				<latitude>56.22058105196876</latitude>
+				<altitude>0</altitude>
+				<heading>0.1594959641449027</heading>
+				<tilt>0</tilt>
+				<range>1019.450069015589</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.00663206325605,56.22013171052043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gelčių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/80_16.jpg"/><a href="http://malunai.lt/data/foto_normal/80_16.jpg">http://malunai.lt/data/foto_normal/80_16.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.97082715916856</longitude>
+				<latitude>56.22624546941261</latitude>
+				<altitude>0</altitude>
+				<heading>0.00385555793759461</heading>
+				<tilt>0</tilt>
+				<range>3233.241486998343</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.96400920363823,56.22328388848603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guostagalio vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/81_05.jpg"/><a href="http://malunai.lt/data/foto_normal/81_05.jpg">http://malunai.lt/data/foto_normal/81_05.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.05815756964973</longitude>
+				<latitude>56.11615997126366</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006080864793844348</heading>
+				<tilt>0</tilt>
+				<range>3294.914359134213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.04945947251807,56.11255665025391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalpokų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/83_16.jpg"/><a href="http://malunai.lt/data/foto_normal/83_16.jpg">http://malunai.lt/data/foto_normal/83_16.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.9675068237383</longitude>
+				<latitude>56.07932388921239</latitude>
+				<altitude>0</altitude>
+				<heading>0.00522251470911837</heading>
+				<tilt>0</tilt>
+				<range>970.5945953998585</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.96530362138152,56.07884048783709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Janelionių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/82_14.jpg"/><a href="http://malunai.lt/data/foto_normal/82_14.jpg">http://malunai.lt/data/foto_normal/82_14.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.91496713595347</longitude>
+				<latitude>56.14982700816474</latitude>
+				<altitude>0</altitude>
+				<heading>0.002110427762115439</heading>
+				<tilt>0</tilt>
+				<range>6484.523538592585</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.88983048321832,56.15219435849155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meldinių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/85_15.jpg"/><a href="http://malunai.lt/data/foto_normal/85_15.jpg">http://malunai.lt/data/foto_normal/85_15.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.8822307662101</longitude>
+				<latitude>55.8560934111071</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1506150809373922</heading>
+				<tilt>0</tilt>
+				<range>1031.037349407435</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.88118169818669,55.8550504979962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/88_11.jpg"/><a href="http://malunai.lt/data/foto_normal/88_11.jpg">http://malunai.lt/data/foto_normal/88_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.88876606672456</longitude>
+				<latitude>55.99184570231097</latitude>
+				<altitude>0</altitude>
+				<heading>1.457247426282562</heading>
+				<tilt>0</tilt>
+				<range>1853.670035857366</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.88205078387393,55.99140359089418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pašvitinio vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/89_12.jpg"/><a href="http://malunai.lt/data/foto_normal/89_12.jpg">http://malunai.lt/data/foto_normal/89_12.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.82169598010107</longitude>
+				<latitude>56.16290156898456</latitude>
+				<altitude>0</altitude>
+				<heading>0.008155873738315649</heading>
+				<tilt>0</tilt>
+				<range>558.1417320110647</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.82133918942415,56.16308969811502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakalų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/90_22.jpg"/><a href="http://malunai.lt/data/foto_normal/90_22.jpg">http://malunai.lt/data/foto_normal/90_22.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.66879415674928</longitude>
+				<latitude>55.95327126382989</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04876450051742095</heading>
+				<tilt>0</tilt>
+				<range>432.4883990724065</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.66791215158152,55.9525178689691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sigutėnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/91_09.jpg"/><a href="http://malunai.lt/data/foto_normal/91_09.jpg">http://malunai.lt/data/foto_normal/91_09.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.83929942115869</longitude>
+				<latitude>55.98390782023191</latitude>
+				<altitude>0</altitude>
+				<heading>0.006453009756766722</heading>
+				<tilt>0</tilt>
+				<range>1116.829126835341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.84061589065778,55.98294856976676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stačiūnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/92_23.jpg"/><a href="http://malunai.lt/data/foto_normal/92_23.jpg">http://malunai.lt/data/foto_normal/92_23.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.63026429203601</longitude>
+				<latitude>55.93907526288885</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001287979909292671</heading>
+				<tilt>0</tilt>
+				<range>605.8736808750191</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.62989982930889,55.93935412411014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Starkonių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/93_20.jpg"/><a href="http://malunai.lt/data/foto_normal/93_20.jpg">http://malunai.lt/data/foto_normal/93_20.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.77796411741574</longitude>
+				<latitude>56.11407670426419</latitude>
+				<altitude>0</altitude>
+				<heading>0.03421661986714226</heading>
+				<tilt>0</tilt>
+				<range>604.6405929400681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.77726972656582,56.11380460616812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Steigvilių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/94_16.jpg"/><a href="http://malunai.lt/data/foto_normal/94_16.jpg">http://malunai.lt/data/foto_normal/94_16.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.00989176298957</longitude>
+				<latitude>56.19781824148951</latitude>
+				<altitude>0</altitude>
+				<heading>0.04376834584872089</heading>
+				<tilt>0</tilt>
+				<range>1013.23398716493</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.00382768546862,56.19707906389698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ūdekų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/95_17.jpg"/><a href="http://malunai.lt/data/foto_normal/95_17.jpg">http://malunai.lt/data/foto_normal/95_17.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.01773402182401</longitude>
+				<latitude>56.15236028492798</latitude>
+				<altitude>0</altitude>
+				<heading>0.00526677635666365</heading>
+				<tilt>0</tilt>
+				<range>290.2606315368921</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.01729476371846,56.15194706947324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaišvydžių vjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/96_11.jpg"/><a href="http://malunai.lt/data/foto_normal/96_11.jpg">http://malunai.lt/data/foto_normal/96_11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93409783460802</longitude>
+				<latitude>55.98001157914325</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003944335253537217</heading>
+				<tilt>0</tilt>
+				<range>477.1120051211343</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.93517770258801,55.9799822000448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio vėjo malūnas</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55289&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55289&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55289&width=400</a>]]></description>
+			<LookAt>
+				<longitude>24.37071784436863</longitude>
+				<latitude>55.71593520213861</latitude>
+				<altitude>0</altitude>
+				<heading>0.002365426865651405</heading>
+				<tilt>0</tilt>
+				<range>1000.886148275011</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.36882330240028,55.71545618552256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio vėjo malūnas 2</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55252&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55252&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=55252&width=400</a>]]></description>
+			<LookAt>
+				<longitude>24.37039061482263</longitude>
+				<latitude>55.71654864502094</latitude>
+				<altitude>0</altitude>
+				<heading>0.1437233352531922</heading>
+				<tilt>0</tilt>
+				<range>960.7653233333417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.3695687405069,55.71503589122624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mikėnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/63_13.jpg"/><a href="http://malunai.lt/data/foto_normal/63_13.jpg">http://malunai.lt/data/foto_normal/63_13.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.48352997464541</longitude>
+				<latitude>55.49315946561933</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04728404527399761</heading>
+				<tilt>0</tilt>
+				<range>1067.268078593024</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.48176933914946,55.49351799102193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pumpėnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/65_10.jpg"/><a href="http://malunai.lt/data/foto_normal/65_10.jpg">http://malunai.lt/data/foto_normal/65_10.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.34444075837455</longitude>
+				<latitude>55.93585042027711</latitude>
+				<altitude>0</altitude>
+				<heading>0.006082704436004676</heading>
+				<tilt>0</tilt>
+				<range>1970.061486336846</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.33702657491006,55.93500140755171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/67_08.jpg"/><a href="http://malunai.lt/data/foto_normal/67_08.jpg">http://malunai.lt/data/foto_normal/67_08.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.21280510133119</longitude>
+				<latitude>56.16614243516958</latitude>
+				<altitude>0</altitude>
+				<heading>0.05649374510894362</heading>
+				<tilt>0</tilt>
+				<range>1045.00829784132</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.2092503164161,56.1656236059523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baisiogalos vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/99_14.jpg"/><a href="http://malunai.lt/data/foto_normal/99_14.jpg">http://malunai.lt/data/foto_normal/99_14.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.71570170322609</longitude>
+				<latitude>55.63615412040004</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006013077750814762</heading>
+				<tilt>0</tilt>
+				<range>723.0030056371219</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>23.71326207758705,55.63515951394349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/107_12.jpg"/><a href="http://malunai.lt/data/foto_normal/107_12.jpg">http://malunai.lt/data/foto_normal/107_12.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.13150967025651</longitude>
+				<latitude>56.09131044395364</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3544525272614248</heading>
+				<tilt>0</tilt>
+				<range>953.9844776085533</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>23.12466968487473,56.09079400950911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažeikių kaimo vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/108_24.jpg"/><a href="http://malunai.lt/data/foto_normal/108_24.jpg">http://malunai.lt/data/foto_normal/108_24.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.11370931157975</longitude>
+				<latitude>56.09409877000169</latitude>
+				<altitude>0</altitude>
+				<heading>0.01549614368628493</heading>
+				<tilt>0</tilt>
+				<range>329.2495214386962</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>23.11277891612321,56.09398758621843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meškučių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/109_29.jpg"/><a href="http://malunai.lt/data/foto_normal/109_29.jpg">http://malunai.lt/data/foto_normal/109_29.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.48554975736507</longitude>
+				<latitude>56.06517918899397</latitude>
+				<altitude>0</altitude>
+				<heading>-0.166335291585766</heading>
+				<tilt>0</tilt>
+				<range>1277.60940812004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>23.48299101896487,56.06319612026415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žarėnų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/110_16.jpg"/><a href="http://malunai.lt/data/foto_normal/110_16.jpg">http://malunai.lt/data/foto_normal/110_16.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.05462855865748</longitude>
+				<latitude>56.1800886786079</latitude>
+				<altitude>0</altitude>
+				<heading>0.007260465106892982</heading>
+				<tilt>0</tilt>
+				<range>577.4846880395534</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>23.05175094511229,56.18002040264749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gudgalio vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/62_16.jpg"/><a href="http://malunai.lt/data/foto_normal/62_16.jpg">http://malunai.lt/data/foto_normal/62_16.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.73916185340096</longitude>
+				<latitude>55.8218152635508</latitude>
+				<altitude>0</altitude>
+				<heading>0.006168952945823258</heading>
+				<tilt>0</tilt>
+				<range>3269.509822283281</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.74559344744834,55.82124094053793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vencavų vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/117_14.jpg"/><a href="http://malunai.lt/data/foto_normal/117_14.jpg">http://malunai.lt/data/foto_normal/117_14.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.96793643100647</longitude>
+				<latitude>55.70003350947901</latitude>
+				<altitude>0</altitude>
+				<heading>0.001209056939699585</heading>
+				<tilt>0</tilt>
+				<range>1642.682053947409</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>25.96319739864318,55.69910693742295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sodeliškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/64_18.jpg"/><a href="http://malunai.lt/data/foto_normal/64_18.jpg">http://malunai.lt/data/foto_normal/64_18.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.43615903168088</longitude>
+				<latitude>55.63110152355333</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3910549436828028</heading>
+				<tilt>0</tilt>
+				<range>483.3001925122406</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10100</styleUrl>
+			<Point>
+				<coordinates>24.43484549834763,55.63113303286541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alksniupių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/98_21.jpg"/><a href="http://malunai.lt/data/foto_normal/98_21.jpg">http://malunai.lt/data/foto_normal/98_21.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.7791254796224</longitude>
+				<latitude>55.82125073407717</latitude>
+				<altitude>0</altitude>
+				<heading>0.003886933588996134</heading>
+				<tilt>0</tilt>
+				<range>1039.088062354138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1010</styleUrl>
+			<Point>
+				<coordinates>23.77578396735527,55.82048002369525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleboniškių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/102_19.jpg"/><a href="http://malunai.lt/data/foto_normal/102_19.jpg">http://malunai.lt/data/foto_normal/102_19.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.85267370768169</longitude>
+				<latitude>55.77031700404354</latitude>
+				<altitude>0</altitude>
+				<heading>0.7095299309679709</heading>
+				<tilt>0</tilt>
+				<range>579.2792480889464</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10101</styleUrl>
+			<Point>
+				<coordinates>23.85068645397817,55.77020907676027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baltosios vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/100_17.jpg"/><a href="http://malunai.lt/data/foto_normal/100_17.jpg">http://malunai.lt/data/foto_normal/100_17.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.77088295458737</longitude>
+				<latitude>55.73532054025914</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6303054565200866</heading>
+				<tilt>0</tilt>
+				<range>534.7183665434802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10101</styleUrl>
+			<Point>
+				<coordinates>23.76780844081054,55.73518613778187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žaliūkių vėjo malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/106_36.jpg"/><a href="http://malunai.lt/data/foto_normal/106_36.jpg">http://malunai.lt/data/foto_normal/106_36.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.27594866218735</longitude>
+				<latitude>55.92283624723034</latitude>
+				<altitude>0</altitude>
+				<heading>0.01103879423510621</heading>
+				<tilt>0</tilt>
+				<range>750.4618785228809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10101</styleUrl>
+			<Point>
+				<coordinates>23.27159414209318,55.92358302996075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Voskonių vėjo malūnas</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/105_13.jpg"/><a href="http://malunai.lt/data/foto_normal/105_13.jpg">http://malunai.lt/data/foto_normal/105_13.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.5644940745901</longitude>
+				<latitude>55.87743024852657</latitude>
+				<altitude>0</altitude>
+				<heading>0.004745246446387885</heading>
+				<tilt>0</tilt>
+				<range>655.1867024207963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10101</styleUrl>
+			<Point>
+				<coordinates>23.56179832914894,55.87703083277761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės malūnas 2</name>
+			<description><![CDATA[<img src="http://malunai.lt/data/foto_normal/74_12.jpg"/><a href="http://malunai.lt/data/foto_normal/74_12.jpg">http://malunai.lt/data/foto_normal/74_12.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.25258081255037</longitude>
+				<latitude>56.35838385310179</latitude>
+				<altitude>0</altitude>
+				<heading>-0.990376966153079</heading>
+				<tilt>0</tilt>
+				<range>1533.045326003957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin101</styleUrl>
+			<Point>
+				<coordinates>23.24563051604722,56.35879149887244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>šeduvos malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67191247.jpg"/><a href="http://www.seduvosmalunas.lt/lt">http://www.seduvosmalunas.lt/lt</a>]]></description>
+			<LookAt>
+				<longitude>23.74915878158445</longitude>
+				<latitude>55.76124343152642</latitude>
+				<altitude>0</altitude>
+				<heading>0.3035330828340268</heading>
+				<tilt>0</tilt>
+				<range>1544.205120047908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<Point>
+				<coordinates>23.74322153857536,55.76117108468126,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

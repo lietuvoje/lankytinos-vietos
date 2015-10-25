@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>saugomos teritorijos panoramio.kmz</name>
+	<StyleMap id="msn_ltblu-blank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-circle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank10">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-circle2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle02">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ltblu-blank3">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-circle00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank70">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ms_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ms_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank000">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank6">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ltblu-blank1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank11">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank3">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>330000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-blank">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank6">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank60">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank7">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-circle1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0220">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle4">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-circle0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank30">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank100">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>330000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank100">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank20">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin022">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-circle01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Pažintiniai takai</name>
+		<open>1</open>
+		<Placemark>
+			<name>Kunigaikščių ąžuolų alėja</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157067.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.11112603494619</longitude>
+				<latitude>54.52926147376662</latitude>
+				<altitude>0</altitude>
+				<heading>-3.193917044123673</heading>
+				<tilt>0</tilt>
+				<range>8848.5481107628</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.08465480693822,54.51401680737524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasakų takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157109.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.0408916025837</longitude>
+				<latitude>54.50841158384996</latitude>
+				<altitude>0</altitude>
+				<heading>-4.707128275588277</heading>
+				<tilt>8.744044892511615</tilt>
+				<range>741.569207311298</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.03977768168754,54.50733333901103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žaltės slėnis - skulptūrų parkas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157310.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.10351195027886</longitude>
+				<latitude>54.51932735302592</latitude>
+				<altitude>0</altitude>
+				<heading>-4.862006611452722</heading>
+				<tilt>6.370228236161066</tilt>
+				<range>2886.905721676303</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>24.09820048994622,54.52009084436268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Takas į Radžiūnų piliakalnį</name>
+			<description>Takas į Radžiūnų piliakalnį</description>
+			<LookAt>
+				<longitude>24.0100506315138</longitude>
+				<latitude>54.3800385963018</latitude>
+				<altitude>0</altitude>
+				<heading>-2.717762902254095</heading>
+				<tilt>16.66748873116065</tilt>
+				<range>483.2787360855343</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank010</styleUrl>
+			<Point>
+				<coordinates>24.00857352903056,54.38031751251746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Danielynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156807.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.17035544398213</longitude>
+				<latitude>55.67175416633199</latitude>
+				<altitude>0</altitude>
+				<heading>-5.522658730629273</heading>
+				<tilt>0</tilt>
+				<range>1076.314808651921</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>25.16689842708435,55.67109504344011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miško pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157194.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.89213807351279</longitude>
+				<latitude>55.56864667717196</latitude>
+				<altitude>0</altitude>
+				<heading>0.0020058176084635</heading>
+				<tilt>0</tilt>
+				<range>4948.817586334089</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.87296079188832,55.57549634478578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muziejaus girios aidas takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156914.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.00541061022033</longitude>
+				<latitude>54.00759872518505</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1212699435092015</heading>
+				<tilt>8.972414751020217</tilt>
+				<range>584.5500042681555</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>24.00349364579639,54.00718222951549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kadagių slėnis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156981.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.18919742497406</longitude>
+				<latitude>54.81487643287066</latitude>
+				<altitude>0</altitude>
+				<heading>3.423237685877583</heading>
+				<tilt>0</tilt>
+				<range>3075.782900519112</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>24.1792534143968,54.81470880813274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skulptūrų takas - pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157227.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.10088764990239</longitude>
+				<latitude>55.33443598933842</latitude>
+				<altitude>0</altitude>
+				<heading>0.04886760855262061</heading>
+				<tilt>0</tilt>
+				<range>1350.957503980345</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>26.10010333353619,55.33284616503477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skulptūrų takas - pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157217.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.10088764990239</longitude>
+				<latitude>55.33443598933842</latitude>
+				<altitude>0</altitude>
+				<heading>0.04886760855262061</heading>
+				<tilt>0</tilt>
+				<range>1350.957503980345</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>26.10606015197029,55.33192791626735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Takas - Jonavos smėlynai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156946.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.31463054349447</longitude>
+				<latitude>54.99996597748471</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2738346469538941</heading>
+				<tilt>0</tilt>
+				<range>896.4413521534655</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>24.31110665085364,54.99805447236806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kairiojo Neries kranto turistinė trasa; trasos ilgis ~10 km</name>
+			<description>Kairiojo Neries kranto turistinė trasa</description>
+			<LookAt>
+				<longitude>24.95684763657169</longitude>
+				<latitude>54.75696607557902</latitude>
+				<altitude>0</altitude>
+				<heading>9.54020863236212</heading>
+				<tilt>0</tilt>
+				<range>619.0143026092472</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank60</styleUrl>
+			<Point>
+				<coordinates>24.95755488087897,54.75603878064728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karmėlavos pėsčiųjų - dviratininkų takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157028.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.95922423007927</longitude>
+				<latitude>54.93653407913259</latitude>
+				<altitude>0</altitude>
+				<heading>1.017989716464882</heading>
+				<tilt>0</tilt>
+				<range>651.475190469169</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>23.95954519284561,54.93549926732562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kulautuvos takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66783046.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64652376368558</longitude>
+				<latitude>54.94310691791805</latitude>
+				<altitude>0</altitude>
+				<heading>0.1394132665287307</heading>
+				<tilt>0</tilt>
+				<range>774.1461513024988</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank6</styleUrl>
+			<Point>
+				<coordinates>23.64593347596468,54.94291575695816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rekreacinis poilsinis takas - pradžia</name>
+			<description>Rekreacinis poilsinis takas - pradžia</description>
+			<LookAt>
+				<longitude>23.64370351014216</longitude>
+				<latitude>54.8019367202706</latitude>
+				<altitude>0</altitude>
+				<heading>0.1127580888441825</heading>
+				<tilt>0</tilt>
+				<range>600.228769366625</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank6</styleUrl>
+			<Point>
+				<coordinates>23.64306360857145,54.80181099165166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rekreacinis poilsinis takas - pabaiga</name>
+			<description>Rekreacinis poilsinis takas - pabaiga</description>
+			<LookAt>
+				<longitude>23.64370351014216</longitude>
+				<latitude>54.8019367202706</latitude>
+				<altitude>0</altitude>
+				<heading>0.1127580888441825</heading>
+				<tilt>0</tilt>
+				<range>600.228769366625</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank6</styleUrl>
+			<Point>
+				<coordinates>23.64202653188264,54.80237248808059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gamtos pažinimo takas</name>
+			<description>Gamtos pažinimo takas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.07977188252086</longitude>
+				<latitude>55.7964069669038</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0279425683606552</heading>
+				<tilt>0</tilt>
+				<range>2327.432619349837</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.0725171705073,55.79444187911583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miškas visiems - takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157083.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.12633032265486</longitude>
+				<latitude>56.04010854317812</latitude>
+				<altitude>0</altitude>
+				<heading>0.7206466904161814</heading>
+				<tilt>0</tilt>
+				<range>946.4065976672318</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>21.12294139068709,56.03868325855638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buktos gamtinis- pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156679.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.42549238522832</longitude>
+				<latitude>54.44112694514228</latitude>
+				<altitude>0</altitude>
+				<heading>2.318081234850475</heading>
+				<tilt>0</tilt>
+				<range>1397.23952851051</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>23.41865367095069,54.43937436544307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilelio takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157175.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.76737862010382</longitude>
+				<latitude>54.40745327985087</latitude>
+				<altitude>0</altitude>
+				<heading>7.070523722043591</heading>
+				<tilt>0</tilt>
+				<range>691.1568195006403</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>22.76439637533952,54.40724918327707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Škėvonių gamtos takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157209.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.00875524917233</longitude>
+				<latitude>54.60514200776672</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1124855244879442</heading>
+				<tilt>0</tilt>
+				<range>781.6959077181668</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>24.00755312830558,54.60429633730986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velniabliūdžio gamtos takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157276.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.96722499570397</longitude>
+				<latitude>54.63107034603203</latitude>
+				<altitude>0</altitude>
+				<heading>-1.966088068121241</heading>
+				<tilt>0</tilt>
+				<range>833.6627616781142</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>23.96518935874937,54.63003415816808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žvėrinčiaus dviračių-pėsčiųjų takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157339.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.01993770559108</longitude>
+				<latitude>54.61276744496462</latitude>
+				<altitude>0</altitude>
+				<heading>-2.732583214862471</heading>
+				<tilt>20.44354806039954</tilt>
+				<range>883.0502244611097</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#ms_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>24.01698859252069,54.6126671088656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jūkainių pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156955.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.93046327550931</longitude>
+				<latitude>55.42792372026952</latitude>
+				<altitude>0</altitude>
+				<heading>0.6089058454650327</heading>
+				<tilt>0</tilt>
+				<range>1875.800115743678</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>22.92218655147076,55.42643962942054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lekėčių pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157080.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.5119264101037</longitude>
+				<latitude>54.99757074217239</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02479857834876579</heading>
+				<tilt>0</tilt>
+				<range>676.346480300516</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>23.51030724909169,54.99728525341382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plokščių pažintinis takas</name>
+			<description><![CDATA[Gatvė - upelis; Tai kelias grystas upelio vaga.
+<img src="http://tic.sesupe.lt/imgz/Lietuva/Upe.jpg"/><a href="http://tic.sesupe.lt/imgz/Lietuva/Upe.jpg">http://tic.sesupe.lt/imgz/Lietuva/Upe.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.17984048829917</longitude>
+				<latitude>55.08553316090874</latitude>
+				<altitude>0</altitude>
+				<heading>0.06915596156435747</heading>
+				<tilt>0</tilt>
+				<range>2613.949962468424</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank10</styleUrl>
+			<Point>
+				<coordinates>23.17702951894325,55.08332333567782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gelgaudiškio pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156894.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.9825501948707</longitude>
+				<latitude>55.07902380948742</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6626969642245359</heading>
+				<tilt>0</tilt>
+				<range>722.5356850249544</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>22.97961336913406,55.07853461516083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gaujos mokomasis takas</name>
+			<description>Gaujos mokomasis takas</description>
+			<LookAt>
+				<longitude>25.66003251461923</longitude>
+				<latitude>54.18047673255219</latitude>
+				<altitude>0</altitude>
+				<heading>-1.791961414124485</heading>
+				<tilt>0</tilt>
+				<range>1254.795625166054</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank110</styleUrl>
+			<Point>
+				<coordinates>25.65950278979505,54.17893210567319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dviračių takas - pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156888.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.13047544109733</longitude>
+				<latitude>55.84763707540103</latitude>
+				<altitude>0</altitude>
+				<heading>-0.188093093913639</heading>
+				<tilt>0</tilt>
+				<range>682.550831979847</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>23.12742332544387,55.8468493685391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dviračių takas - pabaiga</name>
+			<description>Dviračių takas - pabaiga</description>
+			<LookAt>
+				<longitude>23.09320532019579</longitude>
+				<latitude>55.83123979449567</latitude>
+				<altitude>0</altitude>
+				<heading>0.01141276548464106</heading>
+				<tilt>0</tilt>
+				<range>5174.781640487128</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank110</styleUrl>
+			<Point>
+				<coordinates>23.0737577763087,55.82286280153633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštumalos pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156660.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.36486064398219</longitude>
+				<latitude>55.38344786113576</latitude>
+				<altitude>0</altitude>
+				<heading>0.1080210057286545</heading>
+				<tilt>0</tilt>
+				<range>1667.912893440828</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>21.36296446578767,55.38238257866368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kintų pažintinės rekreacijos takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157057.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.22221911939505</longitude>
+				<latitude>55.37454847407048</latitude>
+				<altitude>0</altitude>
+				<heading>-3.638987127765604</heading>
+				<tilt>0</tilt>
+				<range>579.4193521243423</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>21.21933396028857,55.37412026658885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žalgirių pažintinis ekologinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157300.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.43758904973288</longitude>
+				<latitude>55.31453058904712</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000184083759290015</heading>
+				<tilt>0</tilt>
+				<range>1380.560025329723</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>21.43390446187762,55.31487780520781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cirkliškio pažintinis takas</name>
+			<description>Cirkliškio pažintinis takas</description>
+			<LookAt>
+				<longitude>26.14289676624172</longitude>
+				<latitude>55.11910674051244</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1223475887721228</heading>
+				<tilt>0</tilt>
+				<range>805.9612130367826</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank00</styleUrl>
+			<Point>
+				<coordinates>26.13898202512117,55.11858001898468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peršokšnos gamtinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66785595.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.84435512317781</longitude>
+				<latitude>55.16507175362953</latitude>
+				<altitude>0</altitude>
+				<heading>0.4856374112415655</heading>
+				<tilt>0</tilt>
+				<range>847.098782979769</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank00</styleUrl>
+			<Point>
+				<coordinates>25.84214190972598,55.16447691257371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dabrupio pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66785682.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.11239408620866</longitude>
+				<latitude>55.32494071976298</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009213248836593071</heading>
+				<tilt>0</tilt>
+				<range>2972.500469061512</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank00</styleUrl>
+			<Point>
+				<coordinates>22.10692506474318,55.32871925277101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ilgio ežero takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156929.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.17604463437355</longitude>
+				<latitude>55.97172757438608</latitude>
+				<altitude>0</altitude>
+				<heading>0.06556682070635558</heading>
+				<tilt>0</tilt>
+				<range>1242.881594414312</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>22.17404588002722,55.97088926999346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					22.17406450971711,55.97098505395982,0 22.17315751207516,55.9737628830276,0 22.17217445245557,55.97415124373285,0 22.17094754325879,55.97315057194576,0 22.17134615974435,55.97121557329638,0 22.17265709597362,55.96974879379899,0 22.17449209804899,55.96991022742713,0 22.17408113903116,55.97089832600076,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Plokštinės pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157152.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.90884624015009</longitude>
+				<latitude>56.02937884439875</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8094153069397748</heading>
+				<tilt>0</tilt>
+				<range>757.4931757313758</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>21.90485801178763,56.02979182324299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šeirės gamtos takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156487.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.82842079199384</longitude>
+				<latitude>56.04873572273178</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5027416465004349</heading>
+				<tilt>0</tilt>
+				<range>305.2665019476292</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>21.82721257339987,56.04846028514774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiluvos poilsinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157236.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.21530400486777</longitude>
+				<latitude>55.53134159785033</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007998819625411423</heading>
+				<tilt>0</tilt>
+				<range>760.8283965544763</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>23.21300091156164,55.53106857009693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apie strėvos įgriuvą - takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156639.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.69464917436379</longitude>
+				<latitude>54.585249442638</latitude>
+				<altitude>0</altitude>
+				<heading>10.87030692052787</heading>
+				<tilt>6.364292703276859</tilt>
+				<range>323.458388213954</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>24.69278696912708,54.58489463770003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saidės pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157159.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.04377693841042</longitude>
+				<latitude>54.72046847038227</latitude>
+				<altitude>0</altitude>
+				<heading>0.005133160251221122</heading>
+				<tilt>0</tilt>
+				<range>476.3323522563971</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>25.04294416844921,54.71990335556382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varnikų pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157261.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.96091342786314</longitude>
+				<latitude>54.64878126922667</latitude>
+				<altitude>0</altitude>
+				<heading>0.004755428950239545</heading>
+				<tilt>0</tilt>
+				<range>2751.152610631081</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blansaugomos_teritorijosk0</styleUrl>
+			<Point>
+				<coordinates>24.96425697884232,54.64744364613512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kernavės turistinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157041.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.83117732251539</longitude>
+				<latitude>54.88726281332497</latitude>
+				<altitude>0</altitude>
+				<heading>0.3362123474953649</heading>
+				<tilt>0</tilt>
+				<range>760.75372388612</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.82806803717406,54.88746183211613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mūšios rekreacinė zona - takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157101.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.84157726094733</longitude>
+				<latitude>55.29997814648229</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05500882284540191</heading>
+				<tilt>0</tilt>
+				<range>541.5859466999523</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.84050624694547,55.30047971502045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.84054469703842,55.30054780442355,0 24.83979583312106,55.30125299297254,0 24.83560112272629,55.30316244678441,0 24.83228629251998,55.30372887272728,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Dubingių gamtos pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156844.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.45216916281517</longitude>
+				<latitude>55.06251804131203</latitude>
+				<altitude>0</altitude>
+				<heading>0.002926551609350905</heading>
+				<tilt>0</tilt>
+				<range>1316.421993797204</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>25.44699132291813,55.06347724005955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dubingių piliavietės pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156825.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.45291361826797</longitude>
+				<latitude>55.05927374470313</latitude>
+				<altitude>0</altitude>
+				<heading>0.2127930810312604</heading>
+				<tilt>0</tilt>
+				<range>2130.19546845581</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>25.44200883360967,55.06179216972031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					25.44197020516957,55.06183349801322,0 25.43976705766979,55.06138609809258,0 25.44421516742412,55.05788301109401,0 25.44657905525362,55.05808589216407,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157140.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.84150961314629</longitude>
+				<latitude>54.35202406727272</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2670736463289676</heading>
+				<tilt>0</tilt>
+				<range>359.6239204479553</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.84091425803446,54.35154841891303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Giraitės takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156903.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.57509907200531</longitude>
+				<latitude>54.24762088972302</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00928853158160517</heading>
+				<tilt>0</tilt>
+				<range>893.2506213226158</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>23.57379903255782,54.24827952889102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kapčiamiesčio gamtos pažinimo takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156998.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64451809304904</longitude>
+				<latitude>54.00579393531967</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2222813675810726</heading>
+				<tilt>0</tilt>
+				<range>865.6527552857327</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>23.64326183674412,54.00538637064544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaikystės sodas - takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157246.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.67810786234199</longitude>
+				<latitude>54.10579456060396</latitude>
+				<altitude>0</altitude>
+				<heading>-1.218757384707613</heading>
+				<tilt>0</tilt>
+				<range>982.4411587761255</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>23.67594064281015,54.10464758392975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dūkštos pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156852.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.92295108498857</longitude>
+				<latitude>54.81362707468257</latitude>
+				<altitude>0</altitude>
+				<heading>0.006030735935232462</heading>
+				<tilt>0</tilt>
+				<range>1291.733220854766</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>24.91767025744577,54.81292781040461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.91777342001094,54.81316872607534,0 24.92617067140377,54.81799583958953,0 24.93983686284513,54.8229583492905,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Dūkštų ąžuolyno takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156867.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.95323464985513</longitude>
+				<latitude>54.83401533380141</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01498612758066239</heading>
+				<tilt>0</tilt>
+				<range>1727.205063878859</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>24.95081724296657,54.83332276504532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karmazinų pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157014.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.97083066540662</longitude>
+				<latitude>54.81087246888712</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04311352572756733</heading>
+				<tilt>0</tilt>
+				<range>1890.170880765653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>24.96393991543613,54.80986042118013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Degučių pažintinis takas</name>
+			<description>Degučių pažintinis takas</description>
+			<LookAt>
+				<longitude>26.05584197220295</longitude>
+				<latitude>55.65489997005169</latitude>
+				<altitude>0</altitude>
+				<heading>11.86764290701981</heading>
+				<tilt>0</tilt>
+				<range>453.0899088511664</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#ms_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>26.05407998971004,55.6548452378266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					26.05416145357433,55.65486362418704,0 26.0526863586585,55.65380709768612,0 26.0526744089232,55.65221830921047,0 26.05024217600752,55.65168617708968,0 26.05165595335855,55.65064412740231,0 26.05248382046178,55.64966330249788,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ilgašilio pelkės pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156921.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.87538999205042</longitude>
+				<latitude>55.77675421583718</latitude>
+				<altitude>0</altitude>
+				<heading>0.1188982158724967</heading>
+				<tilt>0</tilt>
+				<range>1377.311214642809</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank</styleUrl>
+			<Point>
+				<coordinates>25.87307153994902,55.77656882353524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					25.87302913126539,55.77664350570866,0 25.87254101044067,55.77697013137085,0 25.8730718254813,55.77786017278254,0 25.87395385128943,55.77777377446622,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jaskoniškių pažintinis takas</name>
+			<description>Jaskoniškių pažintinis takas</description>
+			<LookAt>
+				<longitude>25.83870394898995</longitude>
+				<latitude>55.77767245252063</latitude>
+				<altitude>0</altitude>
+				<heading>0.01655461191196416</heading>
+				<tilt>0</tilt>
+				<range>2618.247289269163</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#ms_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>25.83276557722312,55.77667510016993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šavašos pažintinis takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157171.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.86424879514748</longitude>
+				<latitude>55.64412885668957</latitude>
+				<altitude>0</altitude>
+				<heading>0.06915125733351506</heading>
+				<tilt>0</tilt>
+				<range>929.9065346452824</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>25.86428712142563,55.64392318589349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viešvilės rezervato takas ~ koordinatės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157288.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.46922434330828</longitude>
+				<latitude>55.17982011176784</latitude>
+				<altitude>0</altitude>
+				<heading>0.3154148692700182</heading>
+				<tilt>0</tilt>
+				<range>780.2155123848313</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>22.46683365589074,55.17984600213881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čepkelių pažintinis takas ~ koordinatės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156769.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.47443422691873</longitude>
+				<latitude>54.01783579935611</latitude>
+				<altitude>0</altitude>
+				<heading>0.6845171187542967</heading>
+				<tilt>0</tilt>
+				<range>9954.43255709485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank11</styleUrl>
+			<Point>
+				<coordinates>24.42658277147702,54.02158219623503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilelio miško takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157194.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.95409790826771</longitude>
+				<latitude>55.97339795373942</latitude>
+				<altitude>0</altitude>
+				<heading>0.007054059990071439</heading>
+				<tilt>0</tilt>
+				<range>891.2664850828401</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank01</styleUrl>
+			<Point>
+				<coordinates>22.95157275596707,55.97293131413025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riedulyno-kadagyno takas</name>
+			<description>Riedulyno-kadagyno takas</description>
+			<LookAt>
+				<longitude>21.59548535139602</longitude>
+				<latitude>56.12846356399264</latitude>
+				<altitude>0</altitude>
+				<heading>-2.112179534109627</heading>
+				<tilt>0</tilt>
+				<range>1339.160858018016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank20</styleUrl>
+			<Point>
+				<coordinates>21.59033609552091,56.12643911841027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šaltinėlio takas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157162.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.7885557685371</longitude>
+				<latitude>54.40645419707015</latitude>
+				<altitude>0</altitude>
+				<heading>7.028402416211669</heading>
+				<tilt>0</tilt>
+				<range>5151.270758648181</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>22.76976749415058,54.4000991587391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pašilių stumbrynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157129.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.22752251602289</longitude>
+				<latitude>55.5476396523984</latitude>
+				<altitude>0</altitude>
+				<heading>0.4719946669518678</heading>
+				<tilt>0</tilt>
+				<range>2008.910107520869</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-blank0</styleUrl>
+			<Point>
+				<coordinates>24.21775749033613,55.54569294198399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žvėrinčius</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69157352.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.49377149829548</longitude>
+				<latitude>56.03662167313641</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002589924626970716</heading>
+				<tilt>0</tilt>
+				<range>12416.50935544705</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#ms_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>22.44825701349363,56.03444208725314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepavadinta Kelias</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.95373621916793,54.76086867413298,0 24.93336436600348,54.77282402241752,0 24.96407239607789,54.79687134907207,0 24.9469279115401,54.80644632396407,0 24.92742042750037,54.80750530625686,0 24.929396146987,54.79075674476871,0 24.91333966133502,54.77700267113438,0 24.95294841434795,54.75816255307922,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

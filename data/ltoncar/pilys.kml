@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pilys..kmz</name>
+	<Style id="sh_red-circle">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_red-circle">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_red-circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_red-circle0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_red-circle0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_red-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-circle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Pilys</name>
+		<open>1</open>
+		<Placemark>
+			<name>Baltadvario bastioninė pilis - liekanos</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160552.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.24662653148885</longitude>
+				<latitude>55.22681228262503</latitude>
+				<altitude>0</altitude>
+				<heading>0.01615019834547869</heading>
+				<tilt>0</tilt>
+				<range>1620.976752591049</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>25.23987779986613,55.22677499623576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160537.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.75563447417516</longitude>
+				<latitude>56.20601316612545</latitude>
+				<altitude>0</altitude>
+				<heading>-3.056239311795669</heading>
+				<tilt>0</tilt>
+				<range>1517.653160945399</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>24.75292737941257,56.20516439387959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno pilis - liekanos</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160559.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88943276591803</longitude>
+				<latitude>54.90029158786575</latitude>
+				<altitude>0</altitude>
+				<heading>0.277275283971846</heading>
+				<tilt>0</tilt>
+				<range>1380.434606944479</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>23.88468467120676,54.89915094116633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos pilies ir bastionų kompleksas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160531.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.13156726790717</longitude>
+				<latitude>55.70543585406421</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1313448122726536</heading>
+				<tilt>0</tilt>
+				<range>2094.520769767942</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>21.12847408623919,55.70591673043035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Medininkų pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160542.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.65047195285225</longitude>
+				<latitude>54.54033987065254</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0344406914072589</heading>
+				<tilt>0</tilt>
+				<range>972.00126995218</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>25.64924264211797,54.53995072413255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panemunės pilis, vad. Gelgaudų, Vytėnų</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160562.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.98743265513755</longitude>
+				<latitude>55.09853317319148</latitude>
+				<altitude>0</altitude>
+				<heading>0.0176252147407297</heading>
+				<tilt>0</tilt>
+				<range>782.0654285228247</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>22.98632820833963,55.09900741208406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gedemino pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69161172.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29418569250819</longitude>
+				<latitude>54.68597968200754</latitude>
+				<altitude>0</altitude>
+				<heading>-2.663854257837589</heading>
+				<tilt>0</tilt>
+				<range>1866.308685160947</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>25.29094835413441,54.68670633305079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragės pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160547.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.2886910193396</longitude>
+				<latitude>55.25427763667247</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5527663371104266</heading>
+				<tilt>0</tilt>
+				<range>793.0564064489555</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>22.2845306543329,55.2535501810563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudonės pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160567.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.13088770123073</longitude>
+				<latitude>55.09687273891518</latitude>
+				<altitude>0</altitude>
+				<heading>0.306402126611751</heading>
+				<tilt>0</tilt>
+				<range>347.7694894372605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>23.13054334461651,55.0970635972273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senųjų Trakų piliavietė su papiliu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160601.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.98334865051396</longitude>
+				<latitude>54.60562523136284</latitude>
+				<altitude>0</altitude>
+				<heading>0.003747998486259097</heading>
+				<tilt>0</tilt>
+				<range>1817.049131292862</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>24.98400077854303,54.60532473258918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų salos pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160603.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.9371856057911</longitude>
+				<latitude>54.65082429819049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01781044014281851</heading>
+				<tilt>0</tilt>
+				<range>1897.111014452393</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>24.93365338873493,54.65224838983476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų pusiasalio pilis - liekanos</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160523.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.93978065634578</longitude>
+				<latitude>54.64567380040909</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5632348045001067</heading>
+				<tilt>0</tilt>
+				<range>824.1924335394579</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>24.93704587636058,54.64610088312971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Norviliškių pilis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160545.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.76946856292713</longitude>
+				<latitude>54.23684492441281</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07945176015134456</heading>
+				<tilt>0</tilt>
+				<range>2211.593042181419</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>25.78194903043963,54.23502376812376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gelderno bastionas</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1020&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1020&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1020&width=400</a>]]></description>
+			<LookAt>
+				<longitude>21.14560266503075</longitude>
+				<latitude>55.71081055491425</latitude>
+				<altitude>0</altitude>
+				<heading>0.4258395915090001</heading>
+				<tilt>0</tilt>
+				<range>1997.916441433737</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>21.13981252806377,55.7096426429517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus bastėja</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69160528.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29404838382828</longitude>
+				<latitude>54.67746427756567</latitude>
+				<altitude>0</altitude>
+				<heading>0.2743979674542835</heading>
+				<tilt>0</tilt>
+				<range>507.0008964449363</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle0</styleUrl>
+			<Point>
+				<coordinates>25.29288308986366,54.67715287090615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Purmarko bastionas</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1022&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1022&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=1022&width=400</a>]]></description>
+			<LookAt>
+				<longitude>21.141245233571</longitude>
+				<latitude>55.70492547411907</latitude>
+				<altitude>0</altitude>
+				<heading>0.422239118340785</heading>
+				<tilt>0</tilt>
+				<range>965.6798385726831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>21.13869742053285,55.70341626025541,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

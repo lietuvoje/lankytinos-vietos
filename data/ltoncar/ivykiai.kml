@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>įvykiai...kmz</name>
+	<Style id="sn_wht-blank">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank30">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank00100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank3111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank0010">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank00100">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank310">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank1010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank3110">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank000">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank001000">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank001">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank001000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank311">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank31">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank3">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank3110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank300">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-blank0011">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank3111">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank0011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank0010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank311</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>įvykiai</name>
+		<open>1</open>
+		<Placemark>
+			<name>Zarasų miesto šventė; rugpjūčio vidurys</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/lt/2/26/Zarasai.gif"/><a href="http://upload.wikimedia.org/wikipedia/lt/2/26/Zarasai.gif">http://upload.wikimedia.org/wikipedia/lt/2/26/Zarasai.gif</a>]]></description>
+			<LookAt>
+				<longitude>26.2536394361229</longitude>
+				<latitude>55.7361529220664</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1052853216607913</heading>
+				<tilt>0</tilt>
+				<range>4062.954892022217</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>26.24669550915871,55.73186332274426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaziuko mugė Vilniuje; 03-02</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69152521.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.30020354935803</longitude>
+				<latitude>54.68534169264272</latitude>
+				<altitude>0</altitude>
+				<heading>0.6610787512294081</heading>
+				<tilt>0</tilt>
+				<range>2690.944414286096</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>25.28467546827593,54.68614109007487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaziuko mugė Kaune; 03-09</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148160.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.91513810256772</longitude>
+				<latitude>54.89985256488592</latitude>
+				<altitude>0</altitude>
+				<heading>0.6706139885012111</heading>
+				<tilt>0</tilt>
+				<range>2831.135010162055</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>23.90936414299438,54.89748858728644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaziuko mugė simne; 03-11</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147973.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64864830801754</longitude>
+				<latitude>54.38293991168982</latitude>
+				<altitude>0</altitude>
+				<heading>-2.022172951246988</heading>
+				<tilt>0</tilt>
+				<range>966.9396030934302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>23.64586159578752,54.3832000963646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Džiazo festivalis Birštone - kovo paskutinis savaitgalis; lyginiais metais</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.0308080007003</longitude>
+				<latitude>54.60507001648679</latitude>
+				<altitude>0</altitude>
+				<heading>0.004316955257721987</heading>
+				<tilt>0</tilt>
+				<range>4057.109015250641</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>24.02908317845875,54.60512457414761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joninės arba Rasos - trumpiausia naktis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147964.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.2876204427193</longitude>
+				<latitude>55.0750192824931</latitude>
+				<altitude>0</altitude>
+				<heading>0.006969213749749663</heading>
+				<tilt>0</tilt>
+				<range>12791.31596794341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.27531081284566,55.07599353265159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joninės arba Rasos - trumpiausia naktis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69152532.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.85624261179962</longitude>
+				<latitude>54.88691086214007</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003162429824898632</heading>
+				<tilt>0</tilt>
+				<range>3267.115027480429</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.85433327082773,54.88698406792551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dainų šventė;liepos pradžia, kas keturi metai - artimiausia 2013</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147950.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29500075955139</longitude>
+				<latitude>54.68338057790484</latitude>
+				<altitude>0</altitude>
+				<heading>0.2309111849377014</heading>
+				<tilt>0</tilt>
+				<range>9147.406205279756</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank100</styleUrl>
+			<Point>
+				<coordinates>25.23837830999061,54.68247263255881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muzikos ir meno festivalis „Be2gether“; 07-15</name>
+			<description><![CDATA[<a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a><img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.76946856292713</longitude>
+				<latitude>54.23684492441281</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07945176015134456</heading>
+				<tilt>0</tilt>
+				<range>2211.593042181419</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>25.76680555058171,54.23571811308012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gatvės muzikos diena Vilniuje; Gegužės 19</name>
+			<description><![CDATA[<a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a><img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29874601234006</longitude>
+				<latitude>54.67546220140991</latitude>
+				<altitude>0</altitude>
+				<heading>1.037618112813683</heading>
+				<tilt>0</tilt>
+				<range>4467.756630669339</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank</styleUrl>
+			<Point>
+				<coordinates>25.28389714406041,54.67919935121047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gatvės muzikos diena Kaune; Gegužės 1-as šeštadienis</name>
+			<description><![CDATA[<a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a><img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.98103045877681</longitude>
+				<latitude>54.93397989699998</latitude>
+				<altitude>0</altitude>
+				<heading>0.3112160277488459</heading>
+				<tilt>0</tilt>
+				<range>35307.38531061664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>23.93571567913734,54.89509368995158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vargonų vasara; birželio pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148157.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.00936777121551</longitude>
+				<latitude>55.30933303668485</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1234634093712192</heading>
+				<tilt>0</tilt>
+				<range>920.4865649753112</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>21.00712924512761,55.30913846106938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų Viduramžių Šventė; Birželio I - oji pusė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148116.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.94368442427629</longitude>
+				<latitude>54.64997011705231</latitude>
+				<altitude>0</altitude>
+				<heading>0.02010164934259428</heading>
+				<tilt>0</tilt>
+				<range>3166.759728898891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.93774166999056,54.64612084055155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tebūnie naktis!; 06-18</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69152529.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.3095734345828</longitude>
+				<latitude>54.68104916322515</latitude>
+				<altitude>0</altitude>
+				<heading>0.273348018976081</heading>
+				<tilt>0</tilt>
+				<range>3778.674543965632</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>25.29701895798214,54.68318747414681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deltuvos mūšis; Birželio 2-a pusė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147955.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.66887767726834</longitude>
+				<latitude>55.23988886836729</latitude>
+				<altitude>0</altitude>
+				<heading>1.400505823231603</heading>
+				<tilt>0</tilt>
+				<range>4247.1228904199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>24.66712918161819,55.2387849431121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bliuzo naktys; liepos pirmas savaitgalis</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.34637815436298</longitude>
+				<latitude>55.72869158976747</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2390297620984218</heading>
+				<tilt>0</tilt>
+				<range>30556.92456821137</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>22.338555768498,55.72653709705656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žvejo šventė; 07-14</name>
+			<description><![CDATA[<i<img src="http://static.panoramio.com/photos/medium/69148196.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.129045859264</longitude>
+				<latitude>55.53707177429772</latitude>
+				<altitude>0</altitude>
+				<heading>0.07443325229473884</heading>
+				<tilt>0</tilt>
+				<range>2626.506145777286</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>21.11817444851659,55.534060093061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gyvosios archeologijos dienos; 07-08</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69152507.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.86536424583048</longitude>
+				<latitude>54.88544803513763</latitude>
+				<altitude>0</altitude>
+				<heading>0.2814763879418121</heading>
+				<tilt>0</tilt>
+				<range>4570.353237289507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.85424470160497,54.88567022734731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos Jūros šventė; liepos pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147966.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.13180600043686</longitude>
+				<latitude>55.71080300279203</latitude>
+				<altitude>0</altitude>
+				<heading>3.608434702760802e-010</heading>
+				<tilt>0</tilt>
+				<range>17210.98580021811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>21.129955327977,55.71232674389577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galapagai/Roko Naktys; 08-03</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.13180600043686</longitude>
+				<latitude>55.71080300279203</latitude>
+				<altitude>0</altitude>
+				<heading>3.608434702760802e-010</heading>
+				<tilt>0</tilt>
+				<range>17210.98580021811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>26.22907,55.73395277777779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Live music beach; rugpjūčio vidurys</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.08236636287592</longitude>
+				<latitude>55.80826658786117</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3473619364395194</heading>
+				<tilt>0</tilt>
+				<range>4259.977481977419</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>21.07570501023463,55.80547573651442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Country festivalis; 08-17</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147915.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.42216517983425</longitude>
+				<latitude>55.59174705992695</latitude>
+				<altitude>0</altitude>
+				<heading>3.227876723336245</heading>
+				<tilt>0</tilt>
+				<range>10680.23268910851</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>26.434693191389,55.59743387704523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senųjų amatų šventė; 08-18</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148107.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.94335264545689</longitude>
+				<latitude>54.65339286979344</latitude>
+				<altitude>0</altitude>
+				<heading>1.737122874566361</heading>
+				<tilt>0</tilt>
+				<range>2384.279722844711</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.93369572067228,54.65239492659465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mėnuo Juodaragis; paskutinis vasaros savaitgalis</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.20324474403278</longitude>
+				<latitude>55.73792993502183</latitude>
+				<altitude>0</altitude>
+				<heading>4.461261632579015</heading>
+				<tilt>0</tilt>
+				<range>6840.096592301517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>26.22494605497555,55.73559007316177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apuolės festivalis; rugpjūčio pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147934.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.67899044365544</longitude>
+				<latitude>56.24643338346508</latitude>
+				<altitude>0</altitude>
+				<heading>0.3570714587200105</heading>
+				<tilt>0</tilt>
+				<range>370.0086273481583</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1</styleUrl>
+			<Point>
+				<coordinates>21.67775588054824,56.24639573819294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sartų lenktynės; vasario pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148066.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.87131065217653</longitude>
+				<latitude>55.78516292365213</latitude>
+				<altitude>0</altitude>
+				<heading>0.03273067831737589</heading>
+				<tilt>0</tilt>
+				<range>26547.69717996286</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>25.84483130326973,55.75147369659837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kilkim žaibu; 06-22</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.38405850508841</longitude>
+				<latitude>55.72790067775409</latitude>
+				<altitude>0</altitude>
+				<heading>0.01020072319453799</heading>
+				<tilt>0</tilt>
+				<range>14266.53837888962</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>22.32942132566681,55.72757420284585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tomo Mano menų festivalis; Liepos pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147913.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.06573073423845</longitude>
+				<latitude>55.31490753564591</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5042383522388988</heading>
+				<tilt>0</tilt>
+				<range>9142.341603001958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>21.00537241727869,55.30365105567033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palangos stinta; vasario 13</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147916.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.06897589794065</longitude>
+				<latitude>55.91611588447892</latitude>
+				<altitude>0</altitude>
+				<heading>0.02910276533808343</heading>
+				<tilt>0</tilt>
+				<range>2662.128827096135</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>21.05796613865848,55.91854148421913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užgavėnės; 46 dienos iki Velykų</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147925.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.22887332113194</longitude>
+				<latitude>54.87634679724948</latitude>
+				<altitude>0</altitude>
+				<heading>0.4783869840514572</heading>
+				<tilt>0</tilt>
+				<range>8508.885807427987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1</styleUrl>
+			<Point>
+				<coordinates>24.19335149338542,54.8650969920832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užgavėnės; 46 dienos iki Velykų</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147939.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.81606400097104</longitude>
+				<latitude>56.04303100233342</latitude>
+				<altitude>0</altitude>
+				<heading>8.054404869791395e-010</heading>
+				<tilt>0</tilt>
+				<range>2180.168193450029</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1</styleUrl>
+			<Point>
+				<coordinates>21.81510150798808,56.04315806965246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skamba skamba kankliai; paskutinis gegužės savaitgalis</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.28248561630023</longitude>
+				<latitude>54.68153525914774</latitude>
+				<altitude>0</altitude>
+				<heading>0.06467937872981537</heading>
+				<tilt>0</tilt>
+				<range>4458.085496752087</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>25.28743023640294,54.68115205743018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gatvės teatro festivalis „Šermukšnis“; birželio mėnesį, nelyginias metais</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66847665.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.17646725577024</longitude>
+				<latitude>55.71666424549066</latitude>
+				<altitude>0</altitude>
+				<heading>-3.2774472826319</heading>
+				<tilt>0</tilt>
+				<range>9486.540994913967</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>21.13431026305683,55.70792329111689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tundra - elektroninės muzikos festivalis; Liepos pradžia</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.96263191271238</longitude>
+				<latitude>55.79599743828442</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1369662866594473</heading>
+				<tilt>0</tilt>
+				<range>5048.25798593509</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>25.95266710903429,55.78756042290984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ledų šventė; paskutinis liepos savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147988.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.98479163006835</longitude>
+				<latitude>55.28825697961795</latitude>
+				<altitude>0</altitude>
+				<heading>0.008266379241159218</heading>
+				<tilt>0</tilt>
+				<range>5792.14639641471</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>23.97607421171153,55.28713981753427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agurkų šventė; liepos 14</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147941.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97205383194295</longitude>
+				<latitude>55.28625224212578</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5902721101045838</heading>
+				<tilt>0</tilt>
+				<range>2964.930295091199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1</styleUrl>
+			<Point>
+				<coordinates>23.96491876372142,55.28553392685294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hanza Kaunas; 08-21</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66848082.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.9188767346014</longitude>
+				<latitude>54.89711718928808</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08103989291783519</heading>
+				<tilt>0</tilt>
+				<range>1258.719566840339</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>23.91633485363205,54.89718845750943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varėnos grybų šventė; rugsėjo pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147907.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.58308513131817</longitude>
+				<latitude>54.21399209560578</latitude>
+				<altitude>0</altitude>
+				<heading>-1.899170916711409</heading>
+				<tilt>0</tilt>
+				<range>1790.438407261687</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>24.57574420369707,54.21337740699126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės vyšnių festivalis; liepos 12-15</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148187.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.25600973014928</longitude>
+				<latitude>56.36137924072836</latitude>
+				<altitude>0</altitude>
+				<heading>0.001081270475114543</heading>
+				<tilt>0</tilt>
+				<range>3830.52411061871</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>23.25132907200577,56.36002263411179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sostinės dienos; rugsėjo pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148167.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28116290411439</longitude>
+				<latitude>54.68971353573337</latitude>
+				<altitude>0</altitude>
+				<heading>3.605347870324401</heading>
+				<tilt>15.01237651221064</tilt>
+				<range>851.8191026314486</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>25.2798203178898,54.6876214536027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atataria vamzdžiai ir trakų dienos; 06-08</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148126.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.9453529701501</longitude>
+				<latitude>54.64031749795587</latitude>
+				<altitude>0</altitude>
+				<heading>4.336612936369417</heading>
+				<tilt>0</tilt>
+				<range>2747.525965398195</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.93601432376077,54.63899179228646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos miesto šventė; 06-05</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Kretinga.gif"/>]]></description>
+			<LookAt>
+				<longitude>21.24809717505445</longitude>
+				<latitude>55.88825291758712</latitude>
+				<altitude>0</altitude>
+				<heading>0.004501721791863258</heading>
+				<tilt>0</tilt>
+				<range>9388.263763858529</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>21.24412009717415,55.88736929923757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių miesto šventė; pirmas rugpjūčio savaitgalis</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Utena_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>23.98479163006835</longitude>
+				<latitude>55.28825697961795</latitude>
+				<altitude>0</altitude>
+				<heading>0.008266379241159218</heading>
+				<tilt>0</tilt>
+				<range>5792.14639641471</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>23.97379646604306,55.28589320136749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Utenos diena;  paskutinis rugsėjo šeštadienis</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Utena_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>25.59670598556955</longitude>
+				<latitude>55.49823200204</latitude>
+				<altitude>0</altitude>
+				<heading>-1.189226570394489e-008</heading>
+				<tilt>0</tilt>
+				<range>53850.48136776969</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>25.61844123736163,55.50619475099739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių dienos-776; 09-07</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Siauliai_city_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>23.32246634411791</longitude>
+				<latitude>55.93521996686784</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01183721049817437</heading>
+				<tilt>0</tilt>
+				<range>6289.113332572205</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>23.310669447961,55.929958341759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus miesto šventė; birželio antras savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147945.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05157368467589</longitude>
+				<latitude>54.39621183053118</latitude>
+				<altitude>0</altitude>
+				<heading>-2.194036797684859</heading>
+				<tilt>0</tilt>
+				<range>1355.579572887585</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank100</styleUrl>
+			<Point>
+				<coordinates>24.04740296936372,54.39610044560436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anykščių miesto šventė; liepos pabaiga</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Anyksciai_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>25.12571657172884</longitude>
+				<latitude>55.52628634247871</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7504652248033538</heading>
+				<tilt>0</tilt>
+				<range>4979.557155195265</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>25.10406546038664,55.523773575666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>vilniaus knygų mugė; vasario pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147912.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.3092507659349</longitude>
+				<latitude>54.68759634084678</latitude>
+				<altitude>0</altitude>
+				<heading>0.9896827586438945</heading>
+				<tilt>0</tilt>
+				<range>4181.946199794549</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>25.28665471773473,54.68513992287329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno dienos; 05-20</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147970.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.95245764386836</longitude>
+				<latitude>54.90887322283283</latitude>
+				<altitude>0</altitude>
+				<heading>2.370922126830126</heading>
+				<tilt>0</tilt>
+				<range>9993.090439097892</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>23.92032742330826,54.89979818414163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų miesto šventė; gegužės pabaiga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147946.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.00689856201669</longitude>
+				<latitude>54.02518599691899</latitude>
+				<altitude>0</altitude>
+				<heading>0.601129369808509</heading>
+				<tilt>0</tilt>
+				<range>6812.695573148025</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank100</styleUrl>
+			<Point>
+				<coordinates>23.97508963340129,54.01874286123559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragės miesto šventė; gegužės pabaiga</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Taurage_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>22.43016336872209</longitude>
+				<latitude>55.2717787939103</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1055641628279302</heading>
+				<tilt>0</tilt>
+				<range>22295.40534501164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>22.28161026046884,55.25263165050292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio miesto šventė; rugsėjo pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147929.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.40069043662481</longitude>
+				<latitude>55.7368849589199</latitude>
+				<altitude>0</altitude>
+				<heading>1.118164587885491</heading>
+				<tilt>0</tilt>
+				<range>13067.41286404328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.36572158561954,55.72736472654347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijampolės miesto šventė; paskutinis gegužės savaitgalis</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/514px-Marijampole_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>23.35953216741361</longitude>
+				<latitude>54.55671389623137</latitude>
+				<altitude>0</altitude>
+				<heading>0.1185082055599304</heading>
+				<tilt>1.561143390444236</tilt>
+				<range>3503.718096218738</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>23.35397500226174,54.56093000482709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokiškio miesto šventė; rugsėjo pabaiga</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/New%20folder/Taurage_COA.gif"/>]]></description>
+			<LookAt>
+				<longitude>25.59273698399881</longitude>
+				<latitude>55.96307660566313</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5283537948725174</heading>
+				<tilt>0</tilt>
+				<range>8394.981154225578</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank10</styleUrl>
+			<Point>
+				<coordinates>25.59013691968215,55.96174604126741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenės miesto šentė; rugpjūčio vidurys</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147944.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.88006499887066</longitude>
+				<latitude>56.32199199787169</latitude>
+				<altitude>0</altitude>
+				<heading>-9.398666305911952e-010</heading>
+				<tilt>0</tilt>
+				<range>5664.955927608931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank100</styleUrl>
+			<Point>
+				<coordinates>22.88066037125249,56.32333794083754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės miesto šventė; paskutinis gegužės šeštadienis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147931.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.46977714512917</longitude>
+				<latitude>55.33976840667464</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05705981118124609</heading>
+				<tilt>0</tilt>
+				<range>11492.13954916947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1</styleUrl>
+			<Point>
+				<coordinates>21.47258302243675,55.3408516443563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Telšių miesto dienos; antras birželio savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148093.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.3084494180231</longitude>
+				<latitude>55.97154688573829</latitude>
+				<altitude>0</altitude>
+				<heading>0.04776828659767823</heading>
+				<tilt>0</tilt>
+				<range>12119.63872039105</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>22.25033431135528,55.98453631281151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcinkonių kaimo šventė; rugpjūčio 25</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4f/Marcinkonys_COA.gif"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4f/Marcinkonys_COA.gif">http://upload.wikimedia.org/wikipedia/commons/4/4f/Marcinkonys_COA.gif</a>]]></description>
+			<LookAt>
+				<longitude>24.40576085967206</longitude>
+				<latitude>54.05225434052247</latitude>
+				<altitude>0</altitude>
+				<heading>0.003287472102315136</heading>
+				<tilt>0</tilt>
+				<range>1707.644643723708</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank103</styleUrl>
+			<Point>
+				<coordinates>24.40222580243964,54.05174134110622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalėdų eglės įžiebimas; gruodžio pirmas savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147921.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05157368474448</longitude>
+				<latitude>54.39621183070139</latitude>
+				<altitude>0</altitude>
+				<heading>-2.19403679762907</heading>
+				<tilt>0</tilt>
+				<range>1355.581726100232</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>24.04689698564254,54.39592807815894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karšto oro balionų festivalis ir birštono šventė; birželio antras savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147906.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.02932900997335</longitude>
+				<latitude>54.60575701056384</latitude>
+				<altitude>0</altitude>
+				<heading>8.130089348991498e-009</heading>
+				<tilt>0</tilt>
+				<range>21244.19896322492</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>23.98958390117637,54.61358364519367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gardūs tie dzūkų grybai; rugsėjo 26</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148076.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.03655020944524</longitude>
+				<latitude>54.21456863646232</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1031341021569295</heading>
+				<tilt>0</tilt>
+				<range>4184.040024931062</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.02221723384413,54.21411454068647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tytuvėnų miesto šventė; birželio 5</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148098.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.19873372583631</longitude>
+				<latitude>55.59593048817717</latitude>
+				<altitude>0</altitude>
+				<heading>0.000371884900093883</heading>
+				<tilt>0</tilt>
+				<range>1455.553071881858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>23.19854601836481,55.59563219934622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus cirko festivalis; kovas-balandis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147918.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.03863469383711</longitude>
+				<latitude>54.39428015442238</latitude>
+				<altitude>0</altitude>
+				<heading>0.2890914330966137</heading>
+				<tilt>0</tilt>
+				<range>296.9671386913333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1010</styleUrl>
+			<Point>
+				<coordinates>24.0365219945167,54.39433838388234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liaudies meno šventė; paskutinis gegužės savaitgalis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147989.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.95314836379103</longitude>
+				<latitude>55.63132071404796</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006303696577775446</heading>
+				<tilt>0</tilt>
+				<range>9896.18363366692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>22.95314836379102,55.63132071404796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linas; liepos 3</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147996.jpg"/><img src="http://static.panoramio.com/photos/medium/69148003.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.23602599956279</longitude>
+				<latitude>55.6217299994631</latitude>
+				<altitude>0</altitude>
+				<heading>-3.60862553604169e-010</heading>
+				<tilt>0</tilt>
+				<range>1138.585143028916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>23.23576891513292,55.62142411634617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Piliakalnis senas mums praeitį mena; rugpjūčio 14</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69148051.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.03780845636328</longitude>
+				<latitude>55.66453232960295</latitude>
+				<altitude>0</altitude>
+				<heading>9.662048934437964</heading>
+				<tilt>0</tilt>
+				<range>397.3390671865319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>23.03809969069589,55.6641371373589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gatvės muzikos diena; gegužės 19</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg">http://upload.wikimedia.org/wikipedia/commons/4/4a/Violin_peg_strings.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.13998838959637</longitude>
+				<latitude>55.71050785765915</latitude>
+				<altitude>0</altitude>
+				<heading>0.006758154270398544</heading>
+				<tilt>0</tilt>
+				<range>2328.632790580356</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank</styleUrl>
+			<Point>
+				<coordinates>21.13521988742106,55.70677480370271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvystės pleneras Keturi vėjai; gegužės vidurys</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147967.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.13700906291876</longitude>
+				<latitude>55.70724560147198</latitude>
+				<altitude>0</altitude>
+				<heading>0.02955931553357793</heading>
+				<tilt>0</tilt>
+				<range>1663.547411482499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>21.12875916937775,55.70555427212604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos miesto gimtadienis; rugpjūčio 1</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147948.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.13700906291876</longitude>
+				<latitude>55.70724560147198</latitude>
+				<altitude>0</altitude>
+				<heading>0.02955931553357793</heading>
+				<tilt>0</tilt>
+				<range>1663.547411482499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>21.13210978179597,55.70861982882054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos rajono derliaus šventė; pirmas spalio šeštadienis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69147959.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.24650817373034</longitude>
+				<latitude>55.88600777823323</latitude>
+				<altitude>0</altitude>
+				<heading>0.03792291857952874</heading>
+				<tilt>0</tilt>
+				<range>7349.24095555391</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>21.2450809269921,55.88972142864947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Molio šventė Viekšniuose; rugpjūčio 15</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66849992.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.51788976257483</longitude>
+				<latitude>56.23295887700044</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001348690817119919</heading>
+				<tilt>0</tilt>
+				<range>1290.96086982937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank101</styleUrl>
+			<Point>
+				<coordinates>22.51698149100951,56.23299996374993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės miesto šventė; gegužės pabaiga</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/e/e6/Ukmerge_COA.gif"/><a href="http://upload.wikimedia.org/wikipedia/commons/e/e6/Ukmerge_COA.gif">http://upload.wikimedia.org/wikipedia/commons/e/e6/Ukmerge_COA.gif</a>]]></description>
+			<LookAt>
+				<longitude>24.77034710688378</longitude>
+				<latitude>55.24580846356631</latitude>
+				<altitude>0</altitude>
+				<heading>0.00439825094044532</heading>
+				<tilt>0</tilt>
+				<range>10675.50974207074</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1000</styleUrl>
+			<Point>
+				<coordinates>24.76932478471968,55.24556568566108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pabaisko mūšio paminėjimo šventė; rugsėjo pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66850066.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76433624426913</longitude>
+				<latitude>55.16725238956302</latitude>
+				<altitude>0</altitude>
+				<heading>4.583093983161153</heading>
+				<tilt>0</tilt>
+				<range>237.5794876586971</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank102</styleUrl>
+			<Point>
+				<coordinates>24.76499548099492,55.16703862646025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tradicinė ukmergės miesto mugė; spalio pradžia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66850106.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76936595310777</longitude>
+				<latitude>55.24929647442777</latitude>
+				<altitude>0</altitude>
+				<heading>-6.321775038171232</heading>
+				<tilt>1.871656207125028</tilt>
+				<range>1197.011708312028</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank1000</styleUrl>
+			<Point>
+				<coordinates>24.76611092669433,55.25065716225502,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

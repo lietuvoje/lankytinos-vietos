@@ -1,8 +1,11 @@
-Įvairių vietų Lietuvoje žemėlapis
-=================================
+Įvairių vietų Lietuvoje žemėlapių duomenys
+==========================================
 
-Įkvėpimas ir duomenys iš [ltoncar](http://www.ltoncar.lt/) puslapio.
+Žemėlapius galima rasti:
 
-Ateityje noriu duomenis irgi padaryti atvirus. [Google Fusion Tables](http://tables.googlelabs.com) atrodo įdomiai ir turi Google Maps API sluoksnių palaikymą.
+* [Numeris 1](https://www.google.com/maps/d/edit?mid=z_dyyN3Kux7s.kw0X6MDaZuBg&usp=sharing)
+* [Numeris 2](https://www.google.com/maps/d/edit?mid=z_dyyN3Kux7s.kbG08Fum-OO4&usp=sharing)
 
-Komentarai ir pasiūlymai laukiami. Labiausiai PR pavidalu.
+Duomenys paimti iš įvairių šaltinių internete. Daugiau informacijos prie pačių duomenų.
+
+Komentarai, pasiūlymai ir duomenų pataisymai ar papildymai laukiami. Labiausiai PR pavidalu.

@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>saugomos teritorijos panoramio.kmz</name>
+	<StyleMap id="msn_ltblu-blank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-circle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank10">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-circle2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle02">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ltblu-blank3">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-circle00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank70">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ms_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ms_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-blank000">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank6">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ltblu-blank1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank11">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank3">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>330000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-blank">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank6">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank60">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank7">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-circle1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0220">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-circle00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle4">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3300aa55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-circle0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-blank30">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank100">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000aa55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>330000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ltblu-blank100">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank20">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin022">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-circle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-circle01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-circle2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-circle01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-blank010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-circle1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Lankytojų centrai</name>
+		<open>1</open>
+		<Placemark>
+			<name>Viešvilės rezervato lankytojų centras</name>
+			<description>http://www.viesvile.lt/direkcija.php</description>
+			<LookAt>
+				<longitude>22.47704528651862</longitude>
+				<latitude>55.17943776618579</latitude>
+				<altitude>0</altitude>
+				<heading>0.3545342349642081</heading>
+				<tilt>0</tilt>
+				<range>2164.379485644576</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle2</styleUrl>
+			<Point>
+				<coordinates>22.47023097001654,55.17764955699218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čepkelių lankytojų centras</name>
+			<description>http://www.cepkeliai.lt/kontaktai.php</description>
+			<LookAt>
+				<longitude>24.4062497674264</longitude>
+				<latitude>54.04567897855566</latitude>
+				<altitude>0</altitude>
+				<heading>0.4462341895903532</heading>
+				<tilt>0</tilt>
+				<range>525.7527183611409</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle2</styleUrl>
+			<Point>
+				<coordinates>24.40439079446445,54.04616958821384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žuvinto rezervato lankytojų centras</name>
+			<open>1</open>
+			<description><![CDATA[http://www.zuvintas.lt/m7_.php<img src="http://static.panoramio.com/photos/medium/69157315.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64292700369457</longitude>
+				<latitude>54.45749475749057</latitude>
+				<altitude>0</altitude>
+				<heading>0.9284848724322593</heading>
+				<tilt>0</tilt>
+				<range>1290.312280839484</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle1</styleUrl>
+			<Point>
+				<coordinates>23.63978903417572,54.45711689858291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kamanų lankytojų centras</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69156991.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.73175758218614</longitude>
+				<latitude>56.25018477178104</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3365987176771277</heading>
+				<tilt>0</tilt>
+				<range>335.9327810051414</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle</styleUrl>
+			<Point>
+				<coordinates>22.73162414287327,56.25014795165469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Labanoro regioninio parko lankytojų centras</name>
+			<description><![CDATA[<img src="http://www.labanoroparkas.lt/img/illustrations/gallery/1216464697_t.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.7756850004639</longitude>
+				<latitude>55.26663400074201</latitude>
+				<altitude>0</altitude>
+				<heading>3.811831174640395e-010</heading>
+				<tilt>0</tilt>
+				<range>1658.007421538377</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>25.7756850004639,55.266634000742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asvejos regioninio parko direkcija</name>
+			<description>http://www.asvejosparkas.lt/index.php/kontaktai</description>
+			<LookAt>
+				<longitude>25.47003085751302</longitude>
+				<latitude>55.05519331667606</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4299130213814661</heading>
+				<tilt>0</tilt>
+				<range>4825.548809416325</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>25.45333403661439,55.05815932217862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemuno deltos regioninio parko direkcija</name>
+			<description>http://www.nemunodelta.lt/16960/apie-parka.html</description>
+			<LookAt>
+				<longitude>21.46239699994613</longitude>
+				<latitude>55.34151799981973</latitude>
+				<altitude>0</altitude>
+				<heading>-4.437509891577899e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000350646167</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>21.46239699994613,55.34151799981973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurtuvėnų parko direkcija</name>
+			<description>http://www.kurtuva.lt/direkcija.php</description>
+			<LookAt>
+				<longitude>23.04850900002766</longitude>
+				<latitude>55.82723200005537</latitude>
+				<altitude>0</altitude>
+				<heading>2.289999370653732e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000317711508</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.04850900002766,55.82723200005536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neringos nacionalinio parko Lankytojų centras</name>
+			<description>http://www.nerija.lt/informacija-turistams</description>
+			<LookAt>
+				<longitude>21.11290553610074</longitude>
+				<latitude>55.70877997073779</latitude>
+				<altitude>0</altitude>
+				<heading>0.002285922967867562</heading>
+				<tilt>0</tilt>
+				<range>1047.005729444413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle00</styleUrl>
+			<Point>
+				<coordinates>21.11009135316376,55.70893665413041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaitijos nacionalinio parko lankytojų centras</name>
+			<description>http://www.zemaitijosnp.lt/lt/informacija-lankytojams/</description>
+			<LookAt>
+				<longitude>21.81538799957708</longitude>
+				<latitude>56.04229600024697</latitude>
+				<altitude>0</altitude>
+				<heading>-3.50850167466922e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000482893396</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>21.81538799957708,56.04229600024698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varnių regioninis parkas</name>
+			<description>http://www.varniuparkas.lt/view.php?id=kontaktai</description>
+			<LookAt>
+				<longitude>22.38341799989639</longitude>
+				<latitude>55.73190300004305</latitude>
+				<altitude>0</altitude>
+				<heading>-8.567460145458272e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00119741674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.38341799989639,55.73190300004305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rambyno regioninio parko direkcija</name>
+			<description>http://www.rambynoparkas.lt/</description>
+			<LookAt>
+				<longitude>22.04560699952456</longitude>
+				<latitude>55.08182100051759</latitude>
+				<altitude>0</altitude>
+				<heading>-3.898755734084794e-010</heading>
+				<tilt>0</tilt>
+				<range>6664.084026203811</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.04560699952456,55.08182100051759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventos regioninio parko direkcija</name>
+			<description>http://www.ventosparkas.lt/index.php?LID=0&amp;TID=102</description>
+			<LookAt>
+				<longitude>22.51752100020361</longitude>
+				<latitude>56.23317300012125</latitude>
+				<altitude>0</altitude>
+				<heading>1.692500368193996e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000658612078</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.51752100020361,56.23317300012125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pagramančio regioninio parko lankytojų centras</name>
+			<description>http://www.prparkas.tinkle.lt/</description>
+			<LookAt>
+				<longitude>22.23324899999205</longitude>
+				<latitude>55.36529599963421</latitude>
+				<altitude>0</altitude>
+				<heading>-6.637817620214357e-012</heading>
+				<tilt>0</tilt>
+				<range>1653.870530072402</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.23324899999205,55.36529599963421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salantų regioninio parko direkcija</name>
+			<description>http://www.salanturp.lt/14527/salantai/kontaktai.html</description>
+			<LookAt>
+				<longitude>21.57372200058338</longitude>
+				<latitude>56.06060400003234</latitude>
+				<altitude>0</altitude>
+				<heading>4.839500197768073e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00047110423</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>21.57372200058338,56.06060400003234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės regioninis parkas</name>
+			<description>http://zagaresrp.am.lt/VI/index.php#a/181</description>
+			<LookAt>
+				<longitude>23.25767404577404</longitude>
+				<latitude>56.35347300893879</latitude>
+				<altitude>0</altitude>
+				<heading>0.0277258748999956</heading>
+				<tilt>0</tilt>
+				<range>6968.010449790022</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.25504488020098,56.35889793862986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų regioninio parko direkcija</name>
+			<description>http://www.birzuparkas.lt/lt/kontaktai/</description>
+			<LookAt>
+				<longitude>24.75554099977668</longitude>
+				<latitude>56.20233799972691</latitude>
+				<altitude>0</altitude>
+				<heading>-1.856298934289367e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.0017566958</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.75554099977668,56.2023379997269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštadvario regioninio parko direkcija</name>
+			<description>http://www.arp.lt/index.php/kontaktai</description>
+			<LookAt>
+				<longitude>24.52386500036424</longitude>
+				<latitude>54.57899600034462</latitude>
+				<altitude>0</altitude>
+				<heading>2.967680156633164e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000815686272</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.52386500036424,54.57899600034462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dubysos regioninio parko direkcija</name>
+			<description>http://www.dubysa.info/</description>
+			<LookAt>
+				<longitude>23.11694999972648</longitude>
+				<latitude>55.3805549993556</latitude>
+				<altitude>0</altitude>
+				<heading>-2.251673686742097e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00240814736</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.11694999972648,55.3805549993556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tytuvėnų regioninio parko direkcija</name>
+			<description>http://trp.lt/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=78&amp;lang=lt</description>
+			<LookAt>
+				<longitude>23.20022400010014</longitude>
+				<latitude>55.60100500007827</latitude>
+				<altitude>0</altitude>
+				<heading>8.253539398397826e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000503787912</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.20022400010014,55.60100500007827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sirvėtos regioninio parko direkcija</name>
+			<description>http://www.sirveta.lt/index.php?option=com_contact&amp;Itemid=3</description>
+			<LookAt>
+				<longitude>26.16007099966613</longitude>
+				<latitude>55.1338580002001</latitude>
+				<altitude>0</altitude>
+				<heading>-2.739729802612672e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000349277741</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>26.16007099966612,55.13385800020011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gražutės regioninio parko direkcija</name>
+			<description>http://www.grazute.lt/index.php?topic=Content&amp;page_id=73&amp;menu_id=strukt%C5%AAra%20ir%20kontaktai</description>
+			<LookAt>
+				<longitude>26.13406000008559</longitude>
+				<latitude>55.5800900001024</latitude>
+				<altitude>0</altitude>
+				<heading>7.05542444989052e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000374349761</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>26.13406000008559,55.5800900001024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno marių regioninio parko direkcija</name>
+			<description>http://www.kaunomarios.lt/?con=contacts</description>
+			<LookAt>
+				<longitude>24.04315600012671</longitude>
+				<latitude>54.84325600018789</latitude>
+				<altitude>0</altitude>
+				<heading>1.035620409831336e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00024083203</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.04315600012671,54.84325600018789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panemunių regioninis parkas</name>
+			<description>http://www.prpd.lt/</description>
+			<LookAt>
+				<longitude>22.96520899987961</longitude>
+				<latitude>55.09599100029045</latitude>
+				<altitude>0</altitude>
+				<heading>-9.87562228594422e-011</heading>
+				<tilt>0</tilt>
+				<range>1665.09861309778</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.96520899987961,55.09599100029045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krekenavos regioninis parkas</name>
+			<description>http://krpd.am.lt/VI/index.php#r/199</description>
+			<LookAt>
+				<longitude>24.15539176778228</longitude>
+				<latitude>55.54148457324281</latitude>
+				<altitude>0</altitude>
+				<heading>0.004732173553102345</heading>
+				<tilt>0</tilt>
+				<range>25771.82035781579</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.10085559808317,55.54182172877325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemuno kilpų regioninio parko direkcija</name>
+			<description>http://www.nemunokilpos.lt/?pg=50&amp;lang=1&amp;menu_id=2</description>
+			<LookAt>
+				<longitude>24.0254679996609</longitude>
+				<latitude>54.60790100000715</latitude>
+				<altitude>0</altitude>
+				<heading>-2.764410906940829e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000336514106</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.0254679996609,54.60790100000715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dzūkijos nacionalinio parko lankytojų centras</name>
+			<description><![CDATA[<a href="http://www.dzukijosparkas.lt/marsrutai.htm#centrai">http://www.dzukijosparkas.lt/marsrutai.htm#centrai</a>]]></description>
+			<LookAt>
+				<longitude>24.40512424211337</longitude>
+				<latitude>54.04674023984577</latitude>
+				<altitude>0</altitude>
+				<heading>1.621723571421091</heading>
+				<tilt>0</tilt>
+				<range>566.5787757745095</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle10</styleUrl>
+			<Point>
+				<coordinates>24.40427237518129,54.04600616152122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dzūkijos nacionalinio parko lankytojų centras</name>
+			<description><![CDATA[<a href="http://www.dzukijosparkas.lt/index.html">http://www.dzukijosparkas.lt/index.html</a>]]></description>
+			<LookAt>
+				<longitude>24.18622499990408</longitude>
+				<latitude>54.16310400033878</latitude>
+				<altitude>0</altitude>
+				<heading>-7.781227028200494e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000160542037</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle10</styleUrl>
+			<Point>
+				<coordinates>24.18622499990408,54.16310400033878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Metelių regioninis parkas</name>
+			<description>http://www.meteliuparkas.lt/?id=35</description>
+			<LookAt>
+				<longitude>23.73855899974257</longitude>
+				<latitude>54.30003999913239</latitude>
+				<altitude>0</altitude>
+				<heading>-2.090355953298267e-010</heading>
+				<tilt>0</tilt>
+				<range>1698.086993757179</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.73855899974257,54.3000399991324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vištyčio regioninis parkas</name>
+			<description>http://www.vistytis.lt/pradinis-ifram.htm</description>
+			<LookAt>
+				<longitude>22.71054400002567</longitude>
+				<latitude>54.45507300028727</latitude>
+				<altitude>0</altitude>
+				<heading>2.085489704635628e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000154788002</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>22.71054400002566,54.45507300028728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anykščių regioninio parko direkcija</name>
+			<description>http://www.anyksciuparkas.lt/?id=10</description>
+			<LookAt>
+				<longitude>25.12062600013163</longitude>
+				<latitude>55.52868799991291</latitude>
+				<altitude>0</altitude>
+				<heading>1.08498261848765e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000579597763</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>25.12062600013163,55.5286879999129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų istorinis nacionalinis parkas</name>
+			<description>http://www.seniejitrakai.lt/kontaktai/</description>
+			<LookAt>
+				<longitude>24.93583199908985</longitude>
+				<latitude>54.64546000532902</latitude>
+				<altitude>0</altitude>
+				<heading>-7.423414626535844e-010</heading>
+				<tilt>0</tilt>
+				<range>17113.94414640791</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.93583199908985,54.64546000532903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sartų regioninis parkas</name>
+			<description>http://www.sartai.info/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=108</description>
+			<LookAt>
+				<longitude>25.8408269999812</longitude>
+				<latitude>55.74731699959673</latitude>
+				<altitude>0</altitude>
+				<heading>-1.560062071257855e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000547604027</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>25.8408269999812,55.74731699959673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavilnių ir verkių parkų direkcija</name>
+			<description>http://www.pavilniai-verkiai.lt/lt/?pid=77</description>
+			<LookAt>
+				<longitude>25.2943210001497</longitude>
+				<latitude>54.75023600015192</latitude>
+				<altitude>0</altitude>
+				<heading>1.222509802914132e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000179468222</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>25.2943210001497,54.75023600015193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neries regioninio parko direkcija</name>
+			<description>http://www.neriesparkas.lt/?id=88&amp;l=1</description>
+			<LookAt>
+				<longitude>24.97446199995425</longitude>
+				<latitude>54.82092900017274</latitude>
+				<altitude>0</altitude>
+				<heading>-3.74255869367812e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00050809595</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>24.97446199995425,54.82092900017275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veisiejų regioninio parko direkcija</name>
+			<description>http://www.veisiejuparkas.lt/node/6</description>
+			<LookAt>
+				<longitude>23.69422300018129</longitude>
+				<latitude>54.09979200020467</latitude>
+				<altitude>0</altitude>
+				<heading>1.467825985495412e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000963578702</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>23.69422300018129,54.09979200020467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštaitijos nacionalinio ir labanoro parko direkcija</name>
+			<description>http://www.anp.lt/</description>
+			<LookAt>
+				<longitude>26.10200200163634</longitude>
+				<latitude>55.32857800053544</latitude>
+				<altitude>0</altitude>
+				<heading>1.34572767182871e-009</heading>
+				<tilt>0</tilt>
+				<range>3311.039493463022</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-circle000</styleUrl>
+			<Point>
+				<coordinates>26.10200200163633,55.32857800053545,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

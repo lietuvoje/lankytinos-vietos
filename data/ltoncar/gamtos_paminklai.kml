@@ -1,0 +1,5310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>gamtos stebuklai.kmz</name>
+	<Style id="sn_ltblu-pushpin40">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin11000">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin03</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin70">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin0200">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin310">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin60">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin9">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin1">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin500">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin30">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin1000">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin160">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin02">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin02">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin21">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin19">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin03">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin16">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1100">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>4cffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin7">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl01001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin03">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin50">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin03000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin0200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin3">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin3100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin30">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin18">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0100">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin5">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin31">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin2">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin3">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin3100">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin20">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin22">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin7">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin04">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin41">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin4">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin110">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin4">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin41">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin13">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin20">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin2">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin14">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin11">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin10">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl31">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin101">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin13">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin12">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin010">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin15">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl400">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin6">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin020">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin14">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin6">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin100">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin020">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin110">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin01">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin21">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin200">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin040">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin5">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin11">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin8">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin31">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ltblu-pushpin9">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl01001">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin04</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>4cffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin17">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin100">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin10">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin80">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin00">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin51">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin16">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin04">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin22">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin15">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin12">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin40">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin8">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin70">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Gamtos paminklai</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>24.93509480146425</longitude>
+			<latitude>55.02707154797666</latitude>
+			<altitude>0</altitude>
+			<heading>1.098172231058004</heading>
+			<tilt>0</tilt>
+			<range>363550.1632804832</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>Agilos kopa</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250684.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.25792110160695</longitude>
+				<latitude>56.36233022639187</latitude>
+				<altitude>0</altitude>
+				<heading>1.987287872805584</heading>
+				<tilt>0</tilt>
+				<range>12912.73272169173</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>21.084875,55.43946666666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aklaežeris Vokštelis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66752199.jpg"/><a href="http://static.panoramio.com/photos/medium/66752199.jpg">http://static.panoramio.com/photos/medium/66752199.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.36299236924502</longitude>
+				<latitude>55.87277170111788</latitude>
+				<altitude>0</altitude>
+				<heading>11.31047587824822</heading>
+				<tilt>0</tilt>
+				<range>3078.811176415192</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>22.3563422575453,55.87485320794956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenės akmuo</name>
+			<description>Akmenės akmuo</description>
+			<LookAt>
+				<longitude>23.28383632517599</longitude>
+				<latitude>55.52276795249129</latitude>
+				<altitude>0</altitude>
+				<heading>0.2138960229346324</heading>
+				<tilt>0</tilt>
+				<range>3264.087358127259</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin100</styleUrl>
+			<Point>
+				<coordinates>23.26966321725772,55.51922539205392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenų ruožas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731836.jpg"/><a href="http://static.panoramio.com/photos/medium/66731836.jpg">http://static.panoramio.com/photos/medium/66731836.jpg</a>Akmenų ruožas]]></description>
+			<LookAt>
+				<longitude>23.25754696432026</longitude>
+				<latitude>55.6723844397727</latitude>
+				<altitude>0</altitude>
+				<heading>1.27958537008171</heading>
+				<tilt>0</tilt>
+				<range>5598.333615667722</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>23.21883810554343,55.67309216417962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenų ruožo didžiausias akmuo</name>
+			<description>Akmenų ruožo didžiausias akmuo</description>
+			<LookAt>
+				<longitude>24.14585789886024</longitude>
+				<latitude>55.34609167588366</latitude>
+				<altitude>0</altitude>
+				<heading>-2.724122641588335</heading>
+				<tilt>0</tilt>
+				<range>317906.9307506681</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>23.17179444444444,55.63497222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmuo Dievo stalas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66729540.jpg"/><a href="http://static.panoramio.com/photos/medium/66729540.jpg">http://static.panoramio.com/photos/medium/66729540.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.12373530211538</longitude>
+				<latitude>55.86927893334775</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7256876247601095</heading>
+				<tilt>0</tilt>
+				<range>1809.79688394891</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.11320007099513,55.86932522897554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmuo Puntukas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250686.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.0601964053536</longitude>
+				<latitude>55.48430123319904</latitude>
+				<altitude>0</altitude>
+				<heading>3.431104181671823</heading>
+				<tilt>0</tilt>
+				<range>373.7690908891544</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>25.05875456215199,55.48435191315001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmuo Puntuko brolis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250693.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.08238957252277</longitude>
+				<latitude>55.51293922784403</latitude>
+				<altitude>0</altitude>
+				<heading>-2.547916353071665</heading>
+				<tilt>0</tilt>
+				<range>2133.922398614227</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>25.07109386692199,55.51234153983462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmuo Velnio pėda</name>
+			<description>Akmuo Velnio pėda</description>
+			<LookAt>
+				<longitude>24.27199713689318</longitude>
+				<latitude>55.57982650061713</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02921919212882617</heading>
+				<tilt>0</tilt>
+				<range>1348.386856956924</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.26560379569358,55.57914266244936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alangos atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250735.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:25:45.297944229Z</begin>
+					<end>2012-01-24T14:25:45.497952048Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>25.16275436656263</longitude>
+				<latitude>55.45221739085639</latitude>
+				<altitude>0</altitude>
+				<heading>2.236604088035907</heading>
+				<tilt>0</tilt>
+				<range>534426.7532145487</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>22.22591666666667,55.30105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albinabos duobė</name>
+			<description>Albinabos duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.50195555555556,54.59601666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alkaičio, Žaliosios akmuo</name>
+			<description>Alkaičio, Žaliosios akmuo</description>
+			<LookAt>
+				<longitude>24.64787229363962</longitude>
+				<latitude>54.51812635460856</latitude>
+				<altitude>0</altitude>
+				<heading>2.609625896535221</heading>
+				<tilt>0</tilt>
+				<range>1201.754780087331</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin30</styleUrl>
+			<Point>
+				<coordinates>24.64284218705408,54.51643472293947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alkūnų ąžuolas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250749.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.54586310458311</longitude>
+				<latitude>55.10131946948781</latitude>
+				<altitude>0</altitude>
+				<heading>-2.730175631421714</heading>
+				<tilt>0</tilt>
+				<range>3858.841612865694</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>25.54809292123501,55.10181337652061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alovės atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725397.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.09927480684107</longitude>
+				<latitude>54.35814322642251</latitude>
+				<altitude>0</altitude>
+				<heading>9.365246925609494</heading>
+				<tilt>0</tilt>
+				<range>749.432945379026</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.09540515827865,54.35858287667847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amerikos luobas (dauba)</name>
+			<description>Amerikos luobas (dauba)</description>
+			<LookAt>
+				<longitude>24.49108567763974</longitude>
+				<latitude>54.59869056493659</latitude>
+				<altitude>0</altitude>
+				<heading>-2.11701498482668</heading>
+				<tilt>0</tilt>
+				<range>1188.0487405553</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>24.48529542490743,54.59855046053225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andruškonių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725399.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.48285432088492</longitude>
+				<latitude>54.76640230366812</latitude>
+				<altitude>0</altitude>
+				<heading>11.78036707280141</heading>
+				<tilt>0</tilt>
+				<range>640264.1141670365</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.10796944444445,55.01901944444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Angių kalnas</name>
+			<description>Angių kalnas</description>
+			<LookAt>
+				<longitude>21.03137648237085</longitude>
+				<latitude>55.32166020347523</latitude>
+				<altitude>0</altitude>
+				<heading>1.367796880362255</heading>
+				<tilt>0</tilt>
+				<range>4625.996413378121</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>21.00058854476725,55.31620948321867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antaveršio duobė</name>
+			<description>Antaveršio duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.46918055555555,54.61230833333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apšriutų kalnas</name>
+			<description>Apšriutų kalnas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.80506711012239</longitude>
+				<latitude>55.23820265602706</latitude>
+				<altitude>0</altitude>
+				<heading>2.75527805061463</heading>
+				<tilt>0</tilt>
+				<range>332359.1931618293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>22.41190555555555,55.08087222222224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atodanga ožkų pečius</name>
+			<description>Atodanga ožkų pečius</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:08.061713593Z</begin>
+					<end>2012-01-24T14:46:08.261721901Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.07245225155691</longitude>
+				<latitude>54.61040551632746</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3835573562291588</heading>
+				<tilt>0</tilt>
+				<range>1113.400141992689</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.06939060661436,54.61192481262408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auksalės pusiasalis</name>
+			<description>Auksalės pusiasalis</description>
+			<LookAt>
+				<longitude>21.85630949070944</longitude>
+				<latitude>56.02181989466165</latitude>
+				<altitude>0</altitude>
+				<heading>-6.155027825121263e-005</heading>
+				<tilt>0</tilt>
+				<range>3509.828767286597</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin90</styleUrl>
+			<Point>
+				<coordinates>21.84227437317851,56.01796748813549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukščiausia Lietuvos eglė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250750.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.01266581523756</longitude>
+				<latitude>54.29151919813199</latitude>
+				<altitude>0</altitude>
+				<heading>0.3515747301216995</heading>
+				<tilt>0</tilt>
+				<range>5701.795156360443</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>23.98647388614665,54.28148333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajorės rėva</name>
+			<description>Bajorės rėva</description>
+			<LookAt>
+				<longitude>24.1787338757596</longitude>
+				<latitude>54.11859410995016</latitude>
+				<altitude>0</altitude>
+				<heading>0.035047089098836</heading>
+				<tilt>0</tilt>
+				<range>10270.70134265761</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>24.14338876632388,54.11384948361444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balbieriškio atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725403.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.48285432088492</longitude>
+				<latitude>54.76640230366812</latitude>
+				<altitude>0</altitude>
+				<heading>11.78036707280141</heading>
+				<tilt>0</tilt>
+				<range>640264.1141670365</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>23.88505,54.53626388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balbieriškio versmės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731473.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88917642287985</longitude>
+				<latitude>54.52525291083384</latitude>
+				<altitude>0</altitude>
+				<heading>4.419972451274581</heading>
+				<tilt>30.03716184050627</tilt>
+				<range>246.7441439110807</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.88780994021469,54.52505815585979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baltasis šaltinis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66730988.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.55086847904504</longitude>
+				<latitude>55.95813344366392</latitude>
+				<altitude>0</altitude>
+				<heading>-4.738142353964971</heading>
+				<tilt>0</tilt>
+				<range>3469.479149371368</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.54444886230401,55.9588018744394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baluošo ilgasalė</name>
+			<description>Baluošo ilgasalė</description>
+			<LookAt>
+				<longitude>26.055745265648</longitude>
+				<latitude>55.39544712770101</latitude>
+				<altitude>0</altitude>
+				<heading>0.01844778991899262</heading>
+				<tilt>0</tilt>
+				<range>4690.205609664826</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin90</styleUrl>
+			<Point>
+				<coordinates>26.05060282288117,55.39366235147764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barboros akmuo</name>
+			<description>Barboros akmuo</description>
+			<LookAt>
+				<longitude>24.9229525018923</longitude>
+				<latitude>55.53855245386142</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4325564419203812</heading>
+				<tilt>0</tilt>
+				<range>11260.60898194552</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin100</styleUrl>
+			<Point>
+				<coordinates>24.86460118420701,55.53561560974311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beugnio ežeras</name>
+			<description>Bedugnio ežeras</description>
+			<LookAt>
+				<longitude>24.0031942340007</longitude>
+				<latitude>54.19103233927298</latitude>
+				<altitude>0</altitude>
+				<heading>1.430584262083031</heading>
+				<tilt>0</tilt>
+				<range>3456.060175816092</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin4</styleUrl>
+			<Point>
+				<coordinates>23.98513614922072,54.18586586157555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bevardės Griovos kriokliai</name>
+			<description>Bevardės Griovos kriokliai</description>
+			<LookAt>
+				<longitude>24.98390432565226</longitude>
+				<latitude>54.80204700658743</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3352580258334627</heading>
+				<tilt>0</tilt>
+				<range>3268.121384142992</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin03</styleUrl>
+			<Point>
+				<coordinates>24.97637097695701,54.79825239276307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daubos kūlis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69251033.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.34100994960702</longitude>
+				<latitude>56.42229171849886</latitude>
+				<altitude>0</altitude>
+				<heading>0.987431950430124</heading>
+				<tilt>0</tilt>
+				<range>170626.729273138</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin7</styleUrl>
+			<Point>
+				<coordinates>21.27279444444444,56.12137222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daumėnų įgriuva ~ koordinatė</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/Vilko%20%C5%A1altinis.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.64527002015764</longitude>
+				<latitude>56.17237547533963</latitude>
+				<altitude>0</altitude>
+				<heading>1.810030537629944</heading>
+				<tilt>0</tilt>
+				<range>6563.262187040575</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin04</styleUrl>
+			<Point>
+				<coordinates>24.62288843802698,56.16443985587656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didysis akmuo</name>
+			<description>Didysis akmuo</description>
+			<LookAt>
+				<longitude>23.15736152424131</longitude>
+				<latitude>55.66751363685418</latitude>
+				<altitude>0</altitude>
+				<heading>-2.173482596596016</heading>
+				<tilt>0</tilt>
+				<range>688.3718364875549</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.15439375212297,55.66658165708063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didysis dzūkijos akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250777.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.38363088754104</longitude>
+				<latitude>55.19386352474128</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04395747189176139</heading>
+				<tilt>0</tilt>
+				<range>599725.0932538161</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>24.02021944444444,54.27243888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didžioji akmenės rėva</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66752456.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.24528990069174</longitude>
+				<latitude>55.42351539335233</latitude>
+				<altitude>0</altitude>
+				<heading>0.1047427368995012</heading>
+				<tilt>0</tilt>
+				<range>736.2553582463949</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>22.24024198178451,55.42305007657231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didžioji jonionių griova</name>
+			<description>Didžioji jonionių griova</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.15052624119184</longitude>
+				<latitude>54.16582406797267</latitude>
+				<altitude>0</altitude>
+				<heading>2.375659820888604</heading>
+				<tilt>0</tilt>
+				<range>14313.82983394342</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin05</styleUrl>
+			<Point>
+				<coordinates>24.11473247505735,54.15798104861327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dieveniškių akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66729538.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.59031760797466</longitude>
+				<latitude>54.2006995201873</latitude>
+				<altitude>0</altitude>
+				<heading>1.438812752149962</heading>
+				<tilt>0</tilt>
+				<range>2597.012709980242</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin70</styleUrl>
+			<Point>
+				<coordinates>25.57849395670244,54.2004415249626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dringio ragas</name>
+			<description>Dringio ragas</description>
+			<LookAt>
+				<longitude>26.1143781391564</longitude>
+				<latitude>55.37082878739469</latitude>
+				<altitude>0</altitude>
+				<heading>0.01019031600959965</heading>
+				<tilt>0</tilt>
+				<range>5196.461505497836</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin90</styleUrl>
+			<Point>
+				<coordinates>26.10688584414368,55.36638592256725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskelės šaltinis</name>
+			<description>Druskelės šaltinis</description>
+			<LookAt>
+				<longitude>24.00792476080427</longitude>
+				<latitude>54.27408862995609</latitude>
+				<altitude>0</altitude>
+				<heading>-4.956375053013606</heading>
+				<tilt>0</tilt>
+				<range>4143.37926104867</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.99868505384915,54.27344264057167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drąseikių atodanga</name>
+			<description>Drąseikių atodanga</description>
+			<LookAt>
+				<longitude>26.48285432088492</longitude>
+				<latitude>54.76640230366812</latitude>
+				<altitude>0</altitude>
+				<heading>11.78036707280141</heading>
+				<tilt>0</tilt>
+				<range>640264.1141670365</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin50</styleUrl>
+			<Point>
+				<coordinates>24.09960555555555,55.00670277777779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dūdiškių akmuo</name>
+			<description>Dūdiškių akmuo</description>
+			<LookAt>
+				<longitude>24.31942920323062</longitude>
+				<latitude>54.52120800787389</latitude>
+				<altitude>0</altitude>
+				<heading>5.261480226366579</heading>
+				<tilt>0</tilt>
+				<range>1173.551175332305</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin100</styleUrl>
+			<Point>
+				<coordinates>24.31441490742541,54.51985898787686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dūkštų atodanga</name>
+			<description>Dūkštų atodanga</description>
+			<LookAt>
+				<longitude>24.94511032632237</longitude>
+				<latitude>54.82606326831003</latitude>
+				<altitude>0</altitude>
+				<heading>2.350989665636637</heading>
+				<tilt>7.043753381922653</tilt>
+				<range>716.6708007138759</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin03000</styleUrl>
+			<Point>
+				<coordinates>24.94197420570917,54.82600911510204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ešerinio ežerėliai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250782.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.07425046662781</longitude>
+				<latitude>55.37055735809558</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8727411754027635</heading>
+				<tilt>0</tilt>
+				<range>11822.48774347478</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin160</styleUrl>
+			<Point>
+				<coordinates>26.06909338965911,55.37162531650609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ešerinio ežerėliai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250783.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.07425046662781</longitude>
+				<latitude>55.37055735809558</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8727411754027635</heading>
+				<tilt>0</tilt>
+				<range>11822.48774347478</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin160</styleUrl>
+			<Point>
+				<coordinates>26.06952826823202,55.3692975007173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gastilionių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725411.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:26:59.864472964Z</begin>
+					<end>2012-01-24T14:27:00.064481761Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.157678669402</longitude>
+				<latitude>54.87731976091857</latitude>
+				<altitude>0</altitude>
+				<heading>-6.363179135268871</heading>
+				<tilt>0</tilt>
+				<range>3452.326034153688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.14784907034215,54.8718939827455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gelionių duobė</name>
+			<description>Gelionių duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.46895833333333,54.61260555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geologų duobė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250788.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<coordinates>24.6929,56.2101638888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Girutiškio akmuo su iškaltais senovinias ženklais</name>
+			<description>Girutiškio akmuo su iškaltais senovinias ženklais</description>
+			<LookAt>
+				<longitude>26.35753122011714</longitude>
+				<latitude>55.60929470726831</latitude>
+				<altitude>0</altitude>
+				<heading>2.2401624161205</heading>
+				<tilt>0</tilt>
+				<range>5835.585714397078</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>26.32745861409437,55.60226345212067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grimzdų šaltinis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250792.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.95636508661167</longitude>
+				<latitude>55.58680140108636</latitude>
+				<altitude>0</altitude>
+				<heading>1.975332838225397</heading>
+				<tilt>0</tilt>
+				<range>937.8236830553493</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<coordinates>21.95454037983238,55.5861338406489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gumbakių atodanga</name>
+			<description>Gumbakių atodanga</description>
+			<LookAt>
+				<longitude>22.81938845428016</longitude>
+				<latitude>56.13371885147358</latitude>
+				<altitude>0</altitude>
+				<heading>-3.264300528765768</heading>
+				<tilt>0</tilt>
+				<range>2283.701974884961</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0300</styleUrl>
+			<Point>
+				<coordinates>22.81256777720322,56.13050257718334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gyvakarų akmuo Velnio pėda</name>
+			<description>Gyvakarų akmuo Velnio pėda</description>
+			<LookAt>
+				<longitude>24.90041040926105</longitude>
+				<latitude>55.9167110586065</latitude>
+				<altitude>0</altitude>
+				<heading>0.5005695153826894</heading>
+				<tilt>0</tilt>
+				<range>929.2574739969587</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.89521819312028,55.91558219198041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ievos duobė ir ola (smegduobė)</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726532.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.89553925484876</longitude>
+				<latitude>55.7736586186536</latitude>
+				<altitude>0</altitude>
+				<heading>-3.077161959285162</heading>
+				<tilt>0</tilt>
+				<range>282661.4786907212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.69664444444445,56.20498888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jaronio karstinė įgriuva</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250795.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.85418714545974</longitude>
+				<latitude>55.47991556599239</latitude>
+				<altitude>0</altitude>
+				<heading>0.7925831926081931</heading>
+				<tilt>0</tilt>
+				<range>450088.8595369599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<coordinates>24.55697222222224,56.17373611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jocių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250799.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.21794208591161</longitude>
+				<latitude>55.31011152674159</latitude>
+				<altitude>0</altitude>
+				<heading>2.171344561044637</heading>
+				<tilt>0</tilt>
+				<range>1987.462773013467</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<coordinates>22.20805546570739,55.30575090598936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodasis meilės akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66730246.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.4848319991844</longitude>
+				<latitude>56.23247153808101</latitude>
+				<altitude>0</altitude>
+				<heading>-1.443074635470759</heading>
+				<tilt>0</tilt>
+				<range>2256.766446564971</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.47456938191021,56.23169141370774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodkrantės kopos</name>
+			<description>Juodkrantės kopos</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>21.11533888888889,55.54377777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodžionių riedulynas</name>
+			<description>Juodžionių riedulynas</description>
+			<LookAt>
+				<longitude>24.89074509145013</longitude>
+				<latitude>56.24658548251229</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4125071435554615</heading>
+				<tilt>0</tilt>
+				<range>1807.955569662963</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>24.88089274667797,56.24407115788807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juozapinės kalva - aukščiausia Lietuvos vieta</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250802.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.62928626723493</longitude>
+				<latitude>54.5319552946712</latitude>
+				<altitude>0</altitude>
+				<heading>0.4760784775696764</heading>
+				<tilt>0</tilt>
+				<range>598.4912214508871</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin8</styleUrl>
+			<Point>
+				<coordinates>25.62670329309868,54.53124139135692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juraklanio griovos atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725423.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:16:12.698916572Z</begin>
+					<end>2012-01-24T14:16:12.89892488Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>25.13823415900646</longitude>
+				<latitude>55.8443300637522</latitude>
+				<altitude>0</altitude>
+				<heading>2.22568447560142</heading>
+				<tilt>0</tilt>
+				<range>534563.8144028289</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>22.78196388888889,56.14523888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karalgirio akmuo</name>
+			<description>Karalgirio akmuo</description>
+			<LookAt>
+				<longitude>25.28100982500607</longitude>
+				<latitude>55.5063253810054</latitude>
+				<altitude>0</altitude>
+				<heading>0.1410046250709938</heading>
+				<tilt>0</tilt>
+				<range>668747.230987413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.68782222222222,55.13671388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kareiviškių pusiasalis</name>
+			<description>Kareiviškių pusiasalis</description>
+			<LookAt>
+				<longitude>21.86781161779654</longitude>
+				<latitude>56.02830636213483</latitude>
+				<altitude>0</altitude>
+				<heading>0.009469267562690372</heading>
+				<tilt>0</tilt>
+				<range>6269.946956808831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin90</styleUrl>
+			<Point>
+				<coordinates>21.84745604476973,56.02743160541921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karmazinų atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725427.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.77571447657834</longitude>
+				<latitude>56.06281938195716</latitude>
+				<altitude>0</altitude>
+				<heading>1.936437822391874</heading>
+				<tilt>0</tilt>
+				<range>617504.4071114443</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.93235277777778,54.81978055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karvaičių kopa</name>
+			<description>Karvaičių kopa</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>24.05136965680874,55.44079608654638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karvės ola (smegduobė)</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69251024.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.89553925484876</longitude>
+				<latitude>55.7736586186536</latitude>
+				<altitude>0</altitude>
+				<heading>-3.077161959285162</heading>
+				<tilt>0</tilt>
+				<range>282661.4786907212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin7</styleUrl>
+			<Point>
+				<coordinates>24.69439166666668,56.20689166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaubrėtosios kopos</name>
+			<description>Kaubrėtosios kopos</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>21.09921111111111,55.47176666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno marių atodanga</name>
+			<description>Kauno marių atodanga</description>
+			<LookAt>
+				<longitude>24.23569013028066</longitude>
+				<latitude>54.83346895711407</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5282394304469773</heading>
+				<tilt>5.403196591981647</tilt>
+				<range>1973.906476846056</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin21</styleUrl>
+			<Point>
+				<coordinates>24.22858271603979,54.8322680099883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klevų duobė (smegduobė)</name>
+			<description>Klevų duobė (smegduobė)</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.85418714545974</longitude>
+				<latitude>55.47991556599239</latitude>
+				<altitude>0</altitude>
+				<heading>0.7925831926081931</heading>
+				<tilt>0</tilt>
+				<range>450088.8595369599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.69049166666667,56.20751111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kokmaniškės kalnas</name>
+			<description>Kokmaniškės kalnas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.80506711012239</longitude>
+				<latitude>55.23820265602706</latitude>
+				<altitude>0</altitude>
+				<heading>2.75527805061463</heading>
+				<tilt>0</tilt>
+				<range>332359.1931618293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>23.24019166666667,55.59080555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kriaučiaus akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66729579.jpg"/><a href="http://static.panoramio.com/photos/medium/66729579.jpg">http://static.panoramio.com/photos/medium/66729579.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.34100994960702</longitude>
+				<latitude>56.42229171849886</latitude>
+				<altitude>0</altitude>
+				<heading>0.987431950430124</heading>
+				<tilt>0</tilt>
+				<range>170626.729273138</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.76045555555555,55.54541388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kruopinės kalnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250814.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.80506711012239</longitude>
+				<latitude>55.23820265602706</latitude>
+				<altitude>0</altitude>
+				<heading>2.75527805061463</heading>
+				<tilt>0</tilt>
+				<range>332359.1931618293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>25.48365277777778,54.543125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kruopio duobė ir ola</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250821.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.85418714545974</longitude>
+				<latitude>55.47991556599239</latitude>
+				<altitude>0</altitude>
+				<heading>0.7925831926081931</heading>
+				<tilt>0</tilt>
+				<range>450088.8595369599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>24.68055833333333,56.20929166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krušonių skardis</name>
+			<description>Krušonių skardis</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.22872417661477</longitude>
+				<latitude>54.12332160200051</latitude>
+				<altitude>0</altitude>
+				<heading>-1.439335704709251</heading>
+				<tilt>0</tilt>
+				<range>15573.02365902427</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.15743305482035,54.10784426940441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kulalių skaldyklos akmenynas</name>
+			<description>Kulalių skaldyklos akmenynas</description>
+			<LookAt>
+				<longitude>25.28100982500607</longitude>
+				<latitude>55.5063253810054</latitude>
+				<altitude>0</altitude>
+				<heading>0.1410046250709938</heading>
+				<tilt>0</tilt>
+				<range>668747.230987413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin040</styleUrl>
+			<Point>
+				<coordinates>21.63715,56.12983333333332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kunigiškių akmuo</name>
+			<description>Kunigiškių akmuo</description>
+			<LookAt>
+				<longitude>22.0229137185618</longitude>
+				<latitude>55.45399265905588</latitude>
+				<altitude>0</altitude>
+				<heading>-0.828656491849059</heading>
+				<tilt>0</tilt>
+				<range>1342.408489409532</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.01702864738402,55.45265320103925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ladakalnis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250826.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.5380076943712</longitude>
+				<latitude>55.01715576535678</latitude>
+				<altitude>0</altitude>
+				<heading>2.048662436115086</heading>
+				<tilt>0</tilt>
+				<range>337138.1994545189</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>25.99030833333334,55.366675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapgirio ozas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66728440.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.10301905859233</longitude>
+				<latitude>55.44425687425141</latitude>
+				<altitude>0</altitude>
+				<heading>0.5337545684685831</heading>
+				<tilt>0</tilt>
+				<range>2086.331313983543</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>23.66368611111111,55.90540833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapės ola</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250832.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.85418714545974</longitude>
+				<latitude>55.47991556599239</latitude>
+				<altitude>0</altitude>
+				<heading>0.7925831926081931</heading>
+				<tilt>0</tilt>
+				<range>450088.8595369599</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>24.69135277777778,56.21023888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laumės akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66730114.jpg"/><a href="http://static.panoramio.com/photos/medium/66730114.jpg">http://static.panoramio.com/photos/medium/66730114.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.07417764381539</longitude>
+				<latitude>55.36165169535469</latitude>
+				<altitude>0</altitude>
+				<heading>-1.13434568800578</heading>
+				<tilt>0</tilt>
+				<range>518999.779790167</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.89473888888889,55.90240833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lašinių konglomerato atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725435.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:29:52.697866816Z</begin>
+					<end>2012-01-24T14:29:52.897874636Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>25.3438484076675</longitude>
+				<latitude>55.29296091711341</latitude>
+				<altitude>0</altitude>
+				<heading>2.382257276220048</heading>
+				<tilt>0</tilt>
+				<range>534667.787047605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.25865555555556,54.80991944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Likėnų šaltinis</name>
+			<description>Likėnų šaltinis</description>
+			<LookAt>
+				<longitude>25.64771779260257</longitude>
+				<latitude>55.08578017096363</latitude>
+				<altitude>0</altitude>
+				<heading>0.7103708635366177</heading>
+				<tilt>0</tilt>
+				<range>656713.6447633464</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.61869444444445,56.19514444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lino verdenė - šaltinis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250835.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.25011347750831</longitude>
+				<latitude>55.16329865310065</latitude>
+				<altitude>0</altitude>
+				<heading>8.393201790194935</heading>
+				<tilt>0</tilt>
+				<range>575.2225787711365</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>26.24746655174008,55.16281984295616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lygumų akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731984.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.20036095581502</longitude>
+				<latitude>55.83025062214723</latitude>
+				<altitude>0</altitude>
+				<heading>-1.299096347840459</heading>
+				<tilt>0</tilt>
+				<range>752.8959199056928</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>26.19688515916004,55.8316705195537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mardasavo skardis</name>
+			<description>Mardasavo skardis</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.31626158531496</longitude>
+				<latitude>54.14031600888753</latitude>
+				<altitude>0</altitude>
+				<heading>-6.167087065129027</heading>
+				<tilt>0</tilt>
+				<range>1853.152429189854</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.30821995589759,54.1390365432022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marių mergelių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725441.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.9241877928637</longitude>
+				<latitude>55.30395724592334</latitude>
+				<altitude>0</altitude>
+				<heading>9.070872340829268</heading>
+				<tilt>0</tilt>
+				<range>491619.6731813657</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>20.99888333333334,55.29293888888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meilės sala, Nemune prie merkinės</name>
+			<description>Meilės sala, Nemune prie merkinės</description>
+			<LookAt>
+				<longitude>24.18762928531476</longitude>
+				<latitude>54.1560422532552</latitude>
+				<altitude>0</altitude>
+				<heading>0.006152505583534401</heading>
+				<tilt>0</tilt>
+				<range>8813.158970667439</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>24.16930707845019,54.16320722829763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Menčiagirės skardžiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66727064.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.47077825815556</longitude>
+				<latitude>54.12125152193165</latitude>
+				<altitude>0</altitude>
+				<heading>2.224672541513614</heading>
+				<tilt>0</tilt>
+				<range>1458.903750059048</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin120</styleUrl>
+			<Point>
+				<coordinates>24.46189241788371,54.12030215258423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Menčiagirės skardžiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66727062.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.46928475482979</longitude>
+				<latitude>54.12021929157152</latitude>
+				<altitude>0</altitude>
+				<heading>2.223462553125967</heading>
+				<tilt>0</tilt>
+				<range>3828.15774012996</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin120</styleUrl>
+			<Point>
+				<coordinates>24.46314630672035,54.12179475321615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Menčiagirės skardžiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66727061.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.46928475482979</longitude>
+				<latitude>54.12021929157152</latitude>
+				<altitude>0</altitude>
+				<heading>2.223462553125967</heading>
+				<tilt>0</tilt>
+				<range>3828.15774012996</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin120</styleUrl>
+			<Point>
+				<coordinates>24.46273028551319,54.11948380778414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mudrių šaltinis</name>
+			<description>Mudrių šaltinis</description>
+			<LookAt>
+				<longitude>23.11639993098779</longitude>
+				<latitude>54.48680768700128</latitude>
+				<altitude>0</altitude>
+				<heading>4.219965607874811</heading>
+				<tilt>0</tilt>
+				<range>1901.303414740214</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.10734558735985,54.48519205954191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naglio kalnas</name>
+			<description>Naglio kalnas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.0764688444312</longitude>
+				<latitude>55.93413690433737</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6190326284046669</heading>
+				<tilt>0</tilt>
+				<range>2414.91699473667</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>21.06183140716734,55.93285959444497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Napoleono akmuo</name>
+			<description>Napoleono akmuo</description>
+			<LookAt>
+				<longitude>26.10491292197351</longitude>
+				<latitude>55.57601145179134</latitude>
+				<altitude>0</altitude>
+				<heading>2.29952845970421</heading>
+				<tilt>0</tilt>
+				<range>1905.298612608855</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>26.09229225995485,55.57430639372597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujoji griovos atodanga</name>
+			<description>Naujoji griovos atodanga</description>
+			<LookAt>
+				<longitude>24.77571447657834</longitude>
+				<latitude>56.06281938195716</latitude>
+				<altitude>0</altitude>
+				<heading>1.936437822391874</heading>
+				<tilt>0</tilt>
+				<range>617504.4071114443</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin03000</styleUrl>
+			<Point>
+				<coordinates>24.93262777777778,54.81975833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemunaičio atodangos</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726355.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.04996452065888</longitude>
+				<latitude>54.31027685127301</latitude>
+				<altitude>0</altitude>
+				<heading>3.124537749052459</heading>
+				<tilt>0</tilt>
+				<range>2108.183494079549</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.04081840357071,54.30955081187484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemunaičio mineralinė versmė</name>
+			<description>Nemunaičio mineralinė versmė</description>
+			<LookAt>
+				<longitude>23.99888935557195</longitude>
+				<latitude>54.28492459615618</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1449385491570165</heading>
+				<tilt>14.65674965808605</tilt>
+				<range>999.563767428353</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.99832377432755,54.28438433909599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Netiesų ežerėliai</name>
+			<description>Netiesų ežerėliai</description>
+			<LookAt>
+				<longitude>24.12220639917664</longitude>
+				<latitude>54.18971829946761</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04597406869568942</heading>
+				<tilt>0</tilt>
+				<range>5047.30441589713</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>24.10060008578883,54.18922957631745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nidos baltosios kopos</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250837.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>20.98861944444445,55.28655555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Olandų kepurės skardis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726971.jpg"/><a href="http://static.panoramio.com/photos/medium/66726971.jpg">http://static.panoramio.com/photos/medium/66726971.jpg</a>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.13167373401714</longitude>
+				<latitude>55.80572896183987</latitude>
+				<altitude>0</altitude>
+				<heading>0.03009808698028819</heading>
+				<tilt>0</tilt>
+				<range>12129.1222021107</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin120</styleUrl>
+			<Point>
+				<coordinates>21.06741541207848,55.79797422874817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ozas “Barzdos kalnas”</name>
+			<description>http://static.panoramio.com/photos/medium/66728436.jpg</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.10301905859233</longitude>
+				<latitude>55.44425687425141</latitude>
+				<altitude>0</altitude>
+				<heading>0.5337545684685831</heading>
+				<tilt>0</tilt>
+				<range>2086.331313983543</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>24.85063333333333,55.13572777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ožių ragas</name>
+			<description>Ožių ragas</description>
+			<styleUrl>#m_ylw-pushpin05</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							26.07701346939997,55.34878848980835,0 26.07746975010691,55.35479524469653,0 26.07234143888577,55.35794869313705,0 26.07036689115472,55.35581243443235,0 26.07600810892094,55.35159453261881,0 26.07349571884422,55.34956309429037,0 26.07701346939997,55.34878848980835,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ožkų pečius 2 - atodanga</name>
+			<description>Ožkų pečius 2 - atodanga</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:08.061713593Z</begin>
+					<end>2012-01-24T14:46:08.261721901Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.07316655042763</longitude>
+				<latitude>54.61269377829176</latitude>
+				<altitude>0</altitude>
+				<heading>-0.634517558519076</heading>
+				<tilt>0</tilt>
+				<range>571.59387579252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin81</styleUrl>
+			<Point>
+				<coordinates>24.07031573830134,54.61194528736792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ožkų pečius 3 - atodanga</name>
+			<description>Ožkų pečius 3 - atodanga</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:08.061713593Z</begin>
+					<end>2012-01-24T14:46:08.261721901Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.07316655042763</longitude>
+				<latitude>54.61269377829176</latitude>
+				<altitude>0</altitude>
+				<heading>-0.634517558519076</heading>
+				<tilt>0</tilt>
+				<range>571.59387579252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin81</styleUrl>
+			<Point>
+				<coordinates>24.07190458028835,54.61217339456519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paduburio šaltinis</name>
+			<description>Paduburio šaltinis</description>
+			<LookAt>
+				<longitude>24.69727447688728</longitude>
+				<latitude>55.12672897402242</latitude>
+				<altitude>0</altitude>
+				<heading>2.985265564200224</heading>
+				<tilt>0</tilt>
+				<range>823.873643658485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.69371257504765,55.12595328079219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pagramančio atodanga</name>
+			<description>Pagramančio atodanga</description>
+			<LookAt>
+				<longitude>22.24306514052059</longitude>
+				<latitude>55.37504772281276</latitude>
+				<altitude>0</altitude>
+				<heading>0.3321697443156425</heading>
+				<tilt>0</tilt>
+				<range>2194.720077618962</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin010</styleUrl>
+			<Point>
+				<coordinates>22.23044534322151,55.37355834342236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panaros akmuo</name>
+			<description>Panaros akmuo</description>
+			<LookAt>
+				<longitude>24.11103714024896</longitude>
+				<latitude>54.10495485868093</latitude>
+				<altitude>0</altitude>
+				<heading>0.6701891113797125</heading>
+				<tilt>0</tilt>
+				<range>233.3996446680054</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.11061128137014,54.10457273967126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panemuninkų skardis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726885.jpg"/><a href="http://static.panoramio.com/photos/medium/66726885.jpg">http://static.panoramio.com/photos/medium/66726885.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.06028621032091</longitude>
+				<latitude>54.51474310371621</latitude>
+				<altitude>0</altitude>
+				<heading>1.541381164211753</heading>
+				<tilt>0</tilt>
+				<range>514.8810804684458</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin00</styleUrl>
+			<Point>
+				<coordinates>24.05961072804356,54.51409840808524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Papartynės malūno atodanga</name>
+			<description>Papartynės malūno atodanga</description>
+			<LookAt>
+				<longitude>22.85927122141738</longitude>
+				<latitude>56.12518840050308</latitude>
+				<altitude>0</altitude>
+				<heading>-1.928202073984021</heading>
+				<tilt>0</tilt>
+				<range>806.5409761360238</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin03000</styleUrl>
+			<Point>
+				<coordinates>22.8558557612849,56.12401101147157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Papilės atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725447.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.81177836824594</longitude>
+				<latitude>56.14749058411552</latitude>
+				<altitude>0</altitude>
+				<heading>8.399624373960334</heading>
+				<tilt>0</tilt>
+				<range>690.7698415053069</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>22.80648386840173,56.14775623969241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Perkūno akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66954688.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.31081063843807</longitude>
+				<latitude>54.12361050271772</latitude>
+				<altitude>0</altitude>
+				<heading>-1.752086388374632</heading>
+				<tilt>0</tilt>
+				<range>948.3541174920686</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin05</styleUrl>
+			<Point>
+				<coordinates>24.30655424692827,54.12182169385565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Perkūno ąžuolas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250840.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.8805892354116</longitude>
+				<latitude>55.91953524261984</latitude>
+				<altitude>0</altitude>
+				<heading>8.342567539920017</heading>
+				<tilt>0</tilt>
+				<range>8292.922625185014</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>21.86768333474268,55.91454500641817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilelio šaltinis</name>
+			<description><![CDATA[<img src="http://www.zemaitijosnp.lt/cache/images/a8936745396e3f289071ab2bc0555819.jpg"/>Pilelio šaltinis]]></description>
+			<LookAt>
+				<longitude>21.91340667305934</longitude>
+				<latitude>56.03636002754359</latitude>
+				<altitude>0</altitude>
+				<heading>4.527091670110375</heading>
+				<tilt>0</tilt>
+				<range>1170.559732974209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>21.90875138929814,56.03655006990551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilsupių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250844.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.68936195151478</longitude>
+				<latitude>55.3111397288067</latitude>
+				<altitude>0</altitude>
+				<heading>1.797467097713027</heading>
+				<tilt>0</tilt>
+				<range>1215.277085028151</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>23.68922997248645,55.31129642854789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platelių ežero salos</name>
+			<description>Platelių ežero salos</description>
+			<LookAt>
+				<longitude>21.86710811364355</longitude>
+				<latitude>56.04241946217793</latitude>
+				<altitude>0</altitude>
+				<heading>0.008888388924131029</heading>
+				<tilt>0</tilt>
+				<range>6297.188728923971</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin90</styleUrl>
+			<Point>
+				<coordinates>21.84704524298216,56.04368983419604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platelių ežero salos</name>
+			<description>Platelių ežero salos</description>
+			<LookAt>
+				<longitude>21.87540337319839</longitude>
+				<latitude>56.05500860938886</latitude>
+				<altitude>0</altitude>
+				<heading>0.01577310908922417</heading>
+				<tilt>0</tilt>
+				<range>6294.258412617252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin30</styleUrl>
+			<Point>
+				<coordinates>21.85110553208254,56.05802811590576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platelių ežero salos</name>
+			<description>Platelių ežero salos</description>
+			<LookAt>
+				<longitude>21.84228688245518</longitude>
+				<latitude>56.05062917130811</latitude>
+				<altitude>0</altitude>
+				<heading>1.981990510056132</heading>
+				<tilt>0</tilt>
+				<range>8850.919698161775</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>21.8389909690224,56.04676271655008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaukiojančios salos beugnio ežere - Rokiškio rajonas</name>
+			<description>Plaukiojančios salos beugnio ežere - Rokiškio rajonas</description>
+			<LookAt>
+				<longitude>25.51621019062492</longitude>
+				<latitude>55.74433565495151</latitude>
+				<altitude>0</altitude>
+				<heading>0.0931623704560776</heading>
+				<tilt>0</tilt>
+				<range>2170.028023288962</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin130</styleUrl>
+			<Point>
+				<coordinates>25.51463198180397,55.7423624359211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaukiojančios salos degučių ržere</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66937700.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.91311968842663</longitude>
+				<latitude>55.86725393836947</latitude>
+				<altitude>0</altitude>
+				<heading>0.5770031402738328</heading>
+				<tilt>0</tilt>
+				<range>1777.396758993082</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin310</styleUrl>
+			<Point>
+				<coordinates>25.90275049275013,55.86577661169405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plikakalnio atodanga</name>
+			<description>Plikakalnio atodanga</description>
+			<LookAt>
+				<longitude>25.22587398032206</longitude>
+				<latitude>54.68556119746213</latitude>
+				<altitude>0</altitude>
+				<heading>5.674844593385457</heading>
+				<tilt>0</tilt>
+				<range>274.1697021609305</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin03000</styleUrl>
+			<Point>
+				<coordinates>25.22442432456618,54.68568017655233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plokščių šaltinis</name>
+			<description><![CDATA[<img src="http://www.zemaitijosnp.lt/cache/images/c61eda42c49dd8b0b4e19197636077b6.jpg"/>Plokščių šaltinis]]></description>
+			<LookAt>
+				<longitude>21.90337626121042</longitude>
+				<latitude>56.01350834508104</latitude>
+				<altitude>0</altitude>
+				<heading>3.814561601231411</heading>
+				<tilt>0</tilt>
+				<range>545.9226960958621</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>21.89950636623215,56.01329793131905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prarajos duobė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726533.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>21.874325,55.99446666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puokės, Barstyčių akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250853.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.38363088754104</longitude>
+				<latitude>55.19386352474128</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04395747189176139</heading>
+				<tilt>0</tilt>
+				<range>599725.0932538161</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>21.89520555555556,56.19062222222221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Purvių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725452.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.64398274650771</longitude>
+				<latitude>56.20566629406193</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4645270760880558</heading>
+				<tilt>0</tilt>
+				<range>1534.190077487892</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>22.63871115807487,56.20435945357632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pustlaukio duobė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726535.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.97276597263863</longitude>
+				<latitude>55.80897887312212</latitude>
+				<altitude>0</altitude>
+				<heading>8.934633544314911</heading>
+				<tilt>0</tilt>
+				<range>813.40821494227</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>22.972335503364,55.80803645814631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pučkorių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250850.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.35396158109218</longitude>
+				<latitude>54.69219949176627</latitude>
+				<altitude>0</altitude>
+				<heading>5.625015737807011</heading>
+				<tilt>0</tilt>
+				<range>301.0719352926917</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>25.35268944807023,54.69190456389417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pūkštės kalnas</name>
+			<description>Pūkštės kalnas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>21.10301905859233</longitude>
+				<latitude>55.44425687425141</latitude>
+				<altitude>0</altitude>
+				<heading>0.5337545684685831</heading>
+				<tilt>0</tilt>
+				<range>2086.331313983543</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>21.84616388888889,56.1357111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raganos akmuo</name>
+			<description>Raganos akmuo</description>
+			<LookAt>
+				<longitude>26.7591252210419</longitude>
+				<latitude>55.49112888775465</latitude>
+				<altitude>0</altitude>
+				<heading>2.148356401553789</heading>
+				<tilt>0</tilt>
+				<range>672307.292357606</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.05909444444444,54.08313333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raganos uosis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250860.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.84077152396707</longitude>
+				<latitude>56.04467045484989</latitude>
+				<altitude>0</altitude>
+				<heading>0.04851384051691449</heading>
+				<tilt>0</tilt>
+				<range>6682.613384491303</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin2</styleUrl>
+			<Point>
+				<coordinates>21.81609735424248,56.03825366751414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raganų eglė</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/Ragan%C5%B3%20egl%C4%97.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.17637564110807</longitude>
+				<latitude>55.10035476198505</latitude>
+				<altitude>0</altitude>
+				<heading>-2.725618917085197</heading>
+				<tilt>0</tilt>
+				<range>8865.766637496234</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin16</styleUrl>
+			<Point>
+				<coordinates>22.14476917152694,55.10517532327307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudonasis akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66729536.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.38363088754104</longitude>
+				<latitude>55.19386352474128</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04395747189176139</heading>
+				<tilt>0</tilt>
+				<range>599725.0932538161</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>23.98804444444444,54.26935833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudonpamūšio atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725455.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.0903681999194</longitude>
+				<latitude>56.07054018482528</latitude>
+				<altitude>0</altitude>
+				<heading>8.719930398593778</heading>
+				<tilt>0</tilt>
+				<range>1363.503186518908</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin31</styleUrl>
+			<Point>
+				<coordinates>24.08319309842887,56.07110876714206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudonskardžio atodanga</name>
+			<description>Raudonskardžio atodanga</description>
+			<LookAt>
+				<longitude>22.81977558430551</longitude>
+				<latitude>56.1439807115848</latitude>
+				<altitude>0</altitude>
+				<heading>0.5904503431150699</heading>
+				<tilt>0</tilt>
+				<range>1175.651907207437</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin50</styleUrl>
+			<Point>
+				<coordinates>22.81381641188351,56.14483577188578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rekstukų atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250910.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.24234552400753</longitude>
+				<latitude>55.30063105335364</latitude>
+				<altitude>0</altitude>
+				<heading>0.2511186925512608</heading>
+				<tilt>0</tilt>
+				<range>1244.600727089612</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.23854714597489,55.30002902435747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rimašių riedulynas</name>
+			<description>Rimašių riedulynas</description>
+			<LookAt>
+				<longitude>25.62971605133962</longitude>
+				<latitude>54.24615707152617</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5244530124873077</heading>
+				<tilt>0</tilt>
+				<range>441.4731399376573</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>25.62734783922497,54.24563343725308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudnios cirkas (griova)</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/small/66954593.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.30148469496278</longitude>
+				<latitude>54.07159752364733</latitude>
+				<altitude>0</altitude>
+				<heading>0.7539082407161286</heading>
+				<tilt>13.5437474457147</tilt>
+				<range>929.4793187920869</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin05</styleUrl>
+			<Point>
+				<coordinates>24.29881588894763,54.07102874994402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudnios pietinis kalvaragis</name>
+			<description>Rudnios pietinis kalvaragis</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.30996063459859</longitude>
+				<latitude>54.0698008785905</latitude>
+				<altitude>0</altitude>
+				<heading>-0.46901662424137</heading>
+				<tilt>0</tilt>
+				<range>525.0424936074764</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>24.30827418587188,54.0693039355963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saidės rėva</name>
+			<description>Saidės rėva</description>
+			<LookAt>
+				<longitude>25.04310167008844</longitude>
+				<latitude>54.72008899267211</latitude>
+				<altitude>0</altitude>
+				<heading>-160.2900022540102</heading>
+				<tilt>26.37649845716718</tilt>
+				<range>1158.239749431209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin21</styleUrl>
+			<Point>
+				<coordinates>25.04424230444073,54.72118229628138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salomėjos šaltinis</name>
+			<description>Salomėjos šaltinis</description>
+			<LookAt>
+				<longitude>24.62239594798905</longitude>
+				<latitude>56.19893882683856</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07737716175354246</heading>
+				<tilt>0</tilt>
+				<range>1064.651710112178</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.61743115555422,56.19802029153945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siponių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725457.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.02617181615201</longitude>
+				<latitude>54.51494319000722</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4495483237322845</heading>
+				<tilt>0</tilt>
+				<range>4655.701978985801</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>23.99624924273108,54.51174234132687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siuvėjo rėva</name>
+			<description>Siuvėjo rėva</description>
+			<LookAt>
+				<longitude>24.18762928531476</longitude>
+				<latitude>54.1560422532552</latitude>
+				<altitude>0</altitude>
+				<heading>0.006152505583534401</heading>
+				<tilt>0</tilt>
+				<range>8813.158970667439</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin01</styleUrl>
+			<Point>
+				<coordinates>24.1600429328196,54.16153030469982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skališkių uola</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726810.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.89553925484876</longitude>
+				<latitude>55.7736586186536</latitude>
+				<altitude>0</altitude>
+				<heading>-3.077161959285162</heading>
+				<tilt>0</tilt>
+				<range>282661.4786907212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.57779722222222,54.87620277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skripsto kopa</name>
+			<description>Skripsto kopa</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>21.07165277777778,55.40936944444443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skroblaus versmės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731537.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.31073698437329</longitude>
+				<latitude>54.00401864608055</latitude>
+				<altitude>0</altitude>
+				<heading>1.62963544827162</heading>
+				<tilt>0</tilt>
+				<range>2216.076113278024</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin05</styleUrl>
+			<Point>
+				<coordinates>24.30013446638922,54.00068148711014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smardonės šaltinis</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/Smardon%C4%97s%20%C5%A1altinis.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.62489980692871</longitude>
+				<latitude>56.19998494917709</latitude>
+				<altitude>0</altitude>
+				<heading>-1.54600201972222</heading>
+				<tilt>0</tilt>
+				<range>1398.099019761837</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin16</styleUrl>
+			<Point>
+				<coordinates>24.62474818711574,56.20008928784439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smilgių atodanga</name>
+			<description>Smilgių atodanga</description>
+			<LookAt>
+				<longitude>24.77571447657834</longitude>
+				<latitude>56.06281938195716</latitude>
+				<altitude>0</altitude>
+				<heading>1.936437822391874</heading>
+				<tilt>0</tilt>
+				<range>617504.4071114443</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin50</styleUrl>
+			<Point>
+				<coordinates>24.68532777777778,55.17643055555557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Snaigupelės atodanga</name>
+			<description>Snaigupelės atodanga</description>
+			<LookAt>
+				<longitude>24.01625131816248</longitude>
+				<latitude>54.03660119809425</latitude>
+				<altitude>0</altitude>
+				<heading>5.279009023222344</heading>
+				<tilt>0</tilt>
+				<range>3459.609227608081</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin12</styleUrl>
+			<Point>
+				<coordinates>23.99905243691876,54.03513183764017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stelmužės ąžuolas ir bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250913.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.21899397187714</longitude>
+				<latitude>55.82901657992527</latitude>
+				<altitude>0</altitude>
+				<heading>5.312349541924094</heading>
+				<tilt>0</tilt>
+				<range>505.5627507757678</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin15</styleUrl>
+			<Point>
+				<coordinates>26.21724308845104,55.8295554818341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stirniškių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725465.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.84371839332397</longitude>
+				<latitude>55.78349239217494</latitude>
+				<altitude>0</altitude>
+				<heading>7.786951012450104</heading>
+				<tilt>0</tilt>
+				<range>1568.540224544926</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.83387474076486,55.78284594236141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strėvos atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725469.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:30:39.326971333Z</begin>
+					<end>2012-01-24T14:30:39.52698013Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>25.3438484076675</longitude>
+				<latitude>55.29296091711341</latitude>
+				<altitude>0</altitude>
+				<heading>2.382257276220048</heading>
+				<tilt>0</tilt>
+				<range>534667.787047605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.25743055555556,54.80774166666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strėvos duobė</name>
+			<description>Strėvos duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.69276944444445,54.58484444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Svilės šaltiniai</name>
+			<description>Svilės šaltiniai</description>
+			<LookAt>
+				<longitude>22.94253310245578</longitude>
+				<latitude>55.83974465719935</latitude>
+				<altitude>0</altitude>
+				<heading>-1.272964399060588</heading>
+				<tilt>0</tilt>
+				<range>746.3752505989427</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.93950400153115,55.83957517911072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tabokinės atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725475.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.85039782120665</longitude>
+				<latitude>56.41013671869679</latitude>
+				<altitude>0</altitude>
+				<heading>6.848473793054358</heading>
+				<tilt>0</tilt>
+				<range>2829.751717866424</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.83146488810746,56.41038324684791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uciekos skardis</name>
+			<description>Uciekos skardis</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.22971192049977</longitude>
+				<latitude>54.12472403836027</latitude>
+				<altitude>0</altitude>
+				<heading>-1.438535319176257</heading>
+				<tilt>0</tilt>
+				<range>15574.22842609081</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.15960484319535,54.09218125151931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urbo kalnas</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/Urbo%20kalnas.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.05136965680874</longitude>
+				<latitude>55.44079608654638</latitude>
+				<altitude>0</altitude>
+				<heading>2.961267787393271</heading>
+				<tilt>0</tilt>
+				<range>380573.0683382457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin3</styleUrl>
+			<Point>
+				<coordinates>20.99446111111111,55.30465555555557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urkuvėnų arba įsimylėjelių akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66730051.jpg"/><a href="http://static.panoramio.com/photos/medium/66730051.jpg">http://static.panoramio.com/photos/medium/66730051.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.88715278448197</longitude>
+				<latitude>55.90442652431289</latitude>
+				<altitude>0</altitude>
+				<heading>-3.373756595411144</heading>
+				<tilt>0</tilt>
+				<range>226.9470390704504</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>22.88567901610587,55.90439529813872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ustronės riedulynas</name>
+			<description>Ustronės riedulynas</description>
+			<LookAt>
+				<longitude>24.47128823157925</longitude>
+				<latitude>54.60628048343383</latitude>
+				<altitude>0</altitude>
+				<heading>-2.153472977841047</heading>
+				<tilt>0</tilt>
+				<range>912.973489330834</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>24.46619053778868,54.60573498395775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Variaus atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725478.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.65445926442822</longitude>
+				<latitude>55.35957114996201</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004796547091701411</heading>
+				<tilt>0</tilt>
+				<range>882.875451957266</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.11011111111111,55.57755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vecekrugo kopa</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/Vecekrugo%20kopa.JPG"/>]]></description>
+			<LookAt>
+				<longitude>21.04773502850454</longitude>
+				<latitude>55.35781191680495</latitude>
+				<altitude>0</altitude>
+				<heading>4.60165849739665</heading>
+				<tilt>0</tilt>
+				<range>2108.33540708963</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin3</styleUrl>
+			<Point>
+				<coordinates>21.03763120994012,55.35454236192852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velniakelio akmenų ruožas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731814.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.22939434227709</longitude>
+				<latitude>55.66861258195623</latitude>
+				<altitude>0</altitude>
+				<heading>1.256338509372985</heading>
+				<tilt>0</tilt>
+				<range>5605.287433699992</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>23.19375041205398,55.6655036877491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velniapilio uola</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66728117.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.70647826248258</longitude>
+				<latitude>56.38518890565503</latitude>
+				<altitude>0</altitude>
+				<heading>0.2441556125984516</heading>
+				<tilt>0</tilt>
+				<range>957.3443724713328</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>24.70261180964414,56.38626171506054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velnio akmuo</name>
+			<description>Velnio akmuo</description>
+			<LookAt>
+				<longitude>23.92998202064769</longitude>
+				<latitude>53.98566761417148</latitude>
+				<altitude>0</altitude>
+				<heading>-7.406868903818239</heading>
+				<tilt>3.59507383199651</tilt>
+				<range>344.8009186546474</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin13</styleUrl>
+			<Point>
+				<coordinates>23.92855790050354,53.9852417581284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velnio akmuo</name>
+			<description>Velnio akmuo</description>
+			<LookAt>
+				<longitude>23.78569610848352</longitude>
+				<latitude>55.61597473156463</latitude>
+				<altitude>0</altitude>
+				<heading>0.961331556621796</heading>
+				<tilt>0</tilt>
+				<range>2290.583913477577</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.77281622956248,55.61274717906106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velnio duobė (dauba)</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250984.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.89553925484876</longitude>
+				<latitude>55.7736586186536</latitude>
+				<altitude>0</altitude>
+				<heading>-3.077161959285162</heading>
+				<tilt>0</tilt>
+				<range>282661.4786907212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin14</styleUrl>
+			<Point>
+				<coordinates>24.514675,54.61178888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velnių duobė</name>
+			<description>Velnių duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>25.35623937394841</longitude>
+				<latitude>55.27813182872702</latitude>
+				<altitude>0</altitude>
+				<heading>-4.595266269536189</heading>
+				<tilt>0</tilt>
+				<range>285520.7953705611</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>25.73628055555555,55.17802500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velykų duobė</name>
+			<description>Velykų duobė</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.89553925484876</longitude>
+				<latitude>55.7736586186536</latitude>
+				<altitude>0</altitude>
+				<heading>-3.077161959285162</heading>
+				<tilt>0</tilt>
+				<range>282661.4786907212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin5</styleUrl>
+			<Point>
+				<coordinates>24.69726666666667,56.20669166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventės atodanga</name>
+			<description>Ventės atodanga</description>
+			<LookAt>
+				<longitude>24.77571447657834</longitude>
+				<latitude>56.06281938195716</latitude>
+				<altitude>0</altitude>
+				<heading>1.936437822391874</heading>
+				<tilt>0</tilt>
+				<range>617504.4071114443</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin50</styleUrl>
+			<Point>
+				<coordinates>21.19671944444444,55.34841666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Verdulių velnio akmuo</name>
+			<description>Verdulių velnio akmuo</description>
+			<LookAt>
+				<longitude>23.6382983544521</longitude>
+				<latitude>55.77532012755178</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5030834335240677</heading>
+				<tilt>0</tilt>
+				<range>916.6065944390949</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.63314254924714,55.77400280935824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Verpeto kalnas</name>
+			<description>Verpeto kalnas</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.80506711012239</longitude>
+				<latitude>55.23820265602706</latitude>
+				<altitude>0</altitude>
+				<heading>2.75527805061463</heading>
+				<tilt>0</tilt>
+				<range>332359.1931618293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin20</styleUrl>
+			<Point>
+				<coordinates>25.35483333333334,55.35855833333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vetygalos atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725483.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.00729820062503</longitude>
+				<latitude>55.45542340360974</latitude>
+				<altitude>0</altitude>
+				<heading>10.71763028024781</heading>
+				<tilt>0</tilt>
+				<range>1033.238461071583</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.00101289515055,55.45546935997083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vildžiūnų atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725487.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.01594918478975</longitude>
+				<latitude>55.45360949559085</latitude>
+				<altitude>0</altitude>
+				<heading>12.87430263758236</heading>
+				<tilt>0</tilt>
+				<range>1928.371415500875</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.00947140456238,55.4532030975869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilko šaltinis</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vilko_saltinis.jpg/800px-Vilko_saltinis.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vilko_saltinis.jpg/800px-Vilko_saltinis.jpg">http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vilko_saltinis.jpg/800px-Vilko_saltinis.jpg</a>Vilko šaltinis]]></description>
+			<LookAt>
+				<longitude>23.84496047235636</longitude>
+				<latitude>54.00942925133225</latitude>
+				<altitude>0</altitude>
+				<heading>-1.15332377521131</heading>
+				<tilt>0</tilt>
+				<range>2464.954908183061</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.8374862225893,54.0076597808865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkų duobė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66726541.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.93787787511904</longitude>
+				<latitude>56.23134611254938</latitude>
+				<altitude>0</altitude>
+				<heading>11.27673112959698</heading>
+				<tilt>0</tilt>
+				<range>76900.57630318716</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.878475,54.846375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilsos upelio kriokliai ~ koordinatės</name>
+			<description>Vilsos upelio kriokliai</description>
+			<LookAt>
+				<longitude>25.02016139636629</longitude>
+				<latitude>54.72016028513515</latitude>
+				<altitude>0</altitude>
+				<heading>-1.044945699392774</heading>
+				<tilt>0</tilt>
+				<range>1292.644359179787</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin21</styleUrl>
+			<Point>
+				<coordinates>25.01168166772114,54.71836705303801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vingio kopa</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66727304.jpg"/><a href="http://static.panoramio.com/photos/medium/66727304.jpg">http://static.panoramio.com/photos/medium/66727304.jpg</a>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.25792110160695</longitude>
+				<latitude>56.36233022639187</latitude>
+				<altitude>0</altitude>
+				<heading>1.987287872805584</heading>
+				<tilt>0</tilt>
+				<range>12912.73272169173</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>21.09296111111111,55.45445277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vištyčio akmuo</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250989.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.70944407628368</longitude>
+				<latitude>54.4718896934379</latitude>
+				<altitude>0</altitude>
+				<heading>-0.009389468915483402</heading>
+				<tilt>0</tilt>
+				<range>1209.896875027628</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin9</styleUrl>
+			<Point>
+				<coordinates>22.70373211802304,54.47041665900962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vosbučių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725490.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.65231723433326</longitude>
+				<latitude>55.35951214884198</latitude>
+				<altitude>0</altitude>
+				<heading>4.27248251908807</heading>
+				<tilt>0</tilt>
+				<range>623.2157330109858</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>23.64817929895315,55.35920718817291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vosbučių II atodanga</name>
+			<description>Vosbučių II atodanga</description>
+			<LookAt>
+				<longitude>23.65575960116181</longitude>
+				<latitude>55.36059599702341</latitude>
+				<altitude>0</altitude>
+				<heading>4.275314731733221</heading>
+				<tilt>0</tilt>
+				<range>617.3459686843647</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin50</styleUrl>
+			<Point>
+				<coordinates>23.65218515944469,55.36069201142909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyžupio šaltinis</name>
+			<description>Vyžupio šaltinis</description>
+			<LookAt>
+				<longitude>23.14147693311265</longitude>
+				<latitude>54.4623304100091</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2727261405686541</heading>
+				<tilt>0</tilt>
+				<range>1175.148824305081</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.13472146969952,54.46176387726737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šauklių pelkė ir riedulynas-kadagynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250928.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.6000897000565</longitude>
+				<latitude>56.13088029254639</latitude>
+				<altitude>0</altitude>
+				<heading>-2.108356323512448</heading>
+				<tilt>0</tilt>
+				<range>939.5691127369988</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.5937745314178,56.12981141574454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šeimyniškių atodanga su konglomerato uola</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725374.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.48285431053652</longitude>
+				<latitude>54.76640230609761</latitude>
+				<altitude>0</altitude>
+				<heading>11.78036706434872</heading>
+				<tilt>0</tilt>
+				<range>640347.0197689665</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.5954,55.65299722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Škėvonių atodanga</name>
+			<description>Škėvonių atodanga</description>
+			<LookAt>
+				<longitude>24.00955821496493</longitude>
+				<latitude>54.60490296039117</latitude>
+				<altitude>0</altitude>
+				<heading>6.146877339241314</heading>
+				<tilt>0</tilt>
+				<range>1549.477992023276</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin03000</styleUrl>
+			<Point>
+				<coordinates>24.00257878578768,54.60463716234268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šlavės atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725379.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.09138792366998</longitude>
+				<latitude>55.50328950907441</latitude>
+				<altitude>0</altitude>
+				<heading>1.33995733669284</heading>
+				<tilt>0</tilt>
+				<range>1622.473049445333</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>25.07865181153503,55.50091436872057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šmitos versmė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731637.jpg"/><a href="http://static.panoramio.com/photos/medium/66731637.jpg">http://static.panoramio.com/photos/medium/66731637.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.67456166747026</longitude>
+				<latitude>56.27562536788485</latitude>
+				<altitude>0</altitude>
+				<heading>3.198067033638922</heading>
+				<tilt>21.08215026170835</tilt>
+				<range>791.4629470315132</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin021</styleUrl>
+			<Point>
+				<coordinates>21.66952462333713,56.27482056150659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šventosios upės atodanga</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/%C5%A0ventosios%20up%C4%97s%20atodanga.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.85222603301926</longitude>
+				<latitude>55.27222164681155</latitude>
+				<altitude>0</altitude>
+				<heading>-3.059214954153592</heading>
+				<tilt>5.684321159727416</tilt>
+				<range>2498.306289387047</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin</styleUrl>
+			<Point>
+				<coordinates>24.84193752702992,55.27025490017536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėtės atodanga</name>
+			<description><![CDATA[<img src="http://dl.dropbox.com/u/62131636/gamtos%20paminklu%20nuotraukos/%C5%A0v%C4%97t%C4%97s%20atodanga.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.29780233198727</longitude>
+				<latitude>56.37615563615139</latitude>
+				<altitude>0</altitude>
+				<heading>-1.059602961856363</heading>
+				<tilt>0</tilt>
+				<range>1140.074587216684</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin3</styleUrl>
+			<Point>
+				<coordinates>23.29376541925614,56.37508865140229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ūlos akis - versmė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250970.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.44351624196455</longitude>
+				<latitude>54.14180701209521</latitude>
+				<altitude>0</altitude>
+				<heading>2.193245592792295</heading>
+				<tilt>0</tilt>
+				<range>738.9793724554831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin14</styleUrl>
+			<Point>
+				<coordinates>24.43995026216201,54.14156522965099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ūlos atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69250972.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.44031118152513</longitude>
+				<latitude>54.14261708829278</latitude>
+				<altitude>0</altitude>
+				<heading>-34.98382220631079</heading>
+				<tilt>0</tilt>
+				<range>903.0302889980402</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin14</styleUrl>
+			<Point>
+				<coordinates>24.44118096985019,54.14339093164426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės ozas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66728436.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:46:24.591657768Z</begin>
+					<end>2012-01-24T14:46:24.791666564Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>23.25792110160695</longitude>
+				<latitude>56.36233022639187</latitude>
+				<altitude>0</altitude>
+				<heading>1.987287872805584</heading>
+				<tilt>0</tilt>
+				<range>12912.73272169173</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin80</styleUrl>
+			<Point>
+				<coordinates>23.22571398879534,56.35468432665077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žalsvasis šaltinis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66731047.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.40479516767555</longitude>
+				<latitude>56.06311683674295</latitude>
+				<altitude>0</altitude>
+				<heading>8.636957467090294</heading>
+				<tilt>0</tilt>
+				<range>1636.431536891576</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.40030688177787,56.06452750560043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žiegždrių atodanga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/66725382.jpg"/>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2012-01-24T14:21:32.38741486Z</begin>
+					<end>2012-01-24T14:21:32.587424145Z</end>
+				</gx:TimeSpan>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>24.087756316114</longitude>
+				<latitude>54.88924410303332</latitude>
+				<altitude>0</altitude>
+				<heading>2.122448714893356</heading>
+				<tilt>0</tilt>
+				<range>5867.159138107035</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin11</styleUrl>
+			<Point>
+				<coordinates>24.06076505803118,54.88297286344277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žiupos šaltinis</name>
+			<description>Žiupos šaltinis</description>
+			<LookAt>
+				<longitude>24.30441752966197</longitude>
+				<latitude>54.5647850035137</latitude>
+				<altitude>0</altitude>
+				<heading>1.726565245140977</heading>
+				<tilt>0</tilt>
+				<range>887.0325722091658</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin020</styleUrl>
+			<Point>
+				<coordinates>24.30172249150785,54.56442135942064,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

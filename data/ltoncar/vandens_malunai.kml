@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vandens malūnai liet.kmz</name>
+	<Style id="s_ylw-pushpin120001">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl030">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin120001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl030</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Vandens malūnai</name>
+		<open>1</open>
+		<Placemark>
+			<name>Antaliepts vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204913.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.86892842705164</longitude>
+				<latitude>55.6574021795528</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07417345697230772</heading>
+				<tilt>0</tilt>
+				<range>576.7650452717544</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.86786827303621,55.65755578155137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Augustaičių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204921.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.80942874775988</longitude>
+				<latitude>56.14018119065577</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001447493208042889</heading>
+				<tilt>0</tilt>
+				<range>2190.062053720418</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.80059057323636,56.13993404154098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babrungėnų vandens malūnas</name>
+			<description>Babrungėnų vandens malūnas</description>
+			<LookAt>
+				<longitude>21.86874388792532</longitude>
+				<latitude>55.98199929052458</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3212731001339746</heading>
+				<tilt>12.6532016383114</tilt>
+				<range>258.4937627905345</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.86803357987084,55.98177530756123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babrungėnų vandens malūnas 2</name>
+			<description>Babrungėnų vandens malūnas 2</description>
+			<LookAt>
+				<longitude>21.86459927546249</longitude>
+				<latitude>55.99942773702885</latitude>
+				<altitude>0</altitude>
+				<heading>0.9975635633415673</heading>
+				<tilt>30.89274338712449</tilt>
+				<range>395.3752421648397</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.86323305513801,55.99902840070017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balsių vandens malūnas</name>
+			<description>Balsių vandens malūnas</description>
+			<LookAt>
+				<longitude>24.35237321611858</longitude>
+				<latitude>56.03361117047306</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8702036840971463</heading>
+				<tilt>0</tilt>
+				<range>812.4954530163356</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.35262862568369,56.03451156487491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baltaragio vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204926.jpg"/><a href="http://www.baltaragis.lt/uploads/images/01.jpg">http://www.baltaragis.lt/uploads/images/01.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.40189574408955</longitude>
+				<latitude>54.48225193305046</latitude>
+				<altitude>0</altitude>
+				<heading>0.5391441780500836</heading>
+				<tilt>0</tilt>
+				<range>269.4074740233284</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.4012017222581,54.48226463119411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bartkuškio vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204929.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.93127394579397</longitude>
+				<latitude>54.9339435440906</latitude>
+				<altitude>0</altitude>
+				<heading>0.006415359257965904</heading>
+				<tilt>0</tilt>
+				<range>1261.43617204694</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.93173299062591,54.93300472660834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bijotų vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204934.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.57635726916305</longitude>
+				<latitude>55.46821091287109</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001201812465647714</heading>
+				<tilt>0</tilt>
+				<range>1652.394947144308</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.56719029442038,55.46558376264553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų vandens malūnas, Astravo g. 12</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204937.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76146426334064</longitude>
+				<latitude>56.22332407012409</latitude>
+				<altitude>0</altitude>
+				<heading>0.006506870822067369</heading>
+				<tilt>0</tilt>
+				<range>1003.8059210688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.75693009086947,56.22216949140601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Borovkos vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204940.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.99384764205271</longitude>
+				<latitude>55.21969563196733</latitude>
+				<altitude>0</altitude>
+				<heading>0.002242163950158139</heading>
+				<tilt>0</tilt>
+				<range>658.4141132043055</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.9897916611828,55.21915483909416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bradeliškių vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204944.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.94523914843167</longitude>
+				<latitude>54.82692045717886</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08679918525169433</heading>
+				<tilt>0</tilt>
+				<range>814.0423402252465</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.94078600437257,54.82555589641199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burbiškio vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204948.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.22255772065988</longitude>
+				<latitude>55.50466565871987</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02923005926269736</heading>
+				<tilt>0</tilt>
+				<range>1799.748742405549</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.21447387165127,55.50363479442832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Darbėnų vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204959.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.24532417912824</longitude>
+				<latitude>56.01930741190716</latitude>
+				<altitude>0</altitude>
+				<heading>-4.171787589183771</heading>
+				<tilt>0</tilt>
+				<range>468.6075118026311</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.24192259961939,56.01926991801949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Degučių vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204961.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.77006568272957</longitude>
+				<latitude>55.31696407559202</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006626052515397052</heading>
+				<tilt>0</tilt>
+				<range>1807.889616866935</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.76470986712707,55.31665480925124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dengtilčių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204963.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.13649115184141</longitude>
+				<latitude>55.77449603007069</latitude>
+				<altitude>0</altitude>
+				<heading>0.04853496791337503</heading>
+				<tilt>0</tilt>
+				<range>1269.322560588785</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.13417608210687,55.77379802755494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dotnuvos vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204967.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.89330846502224</longitude>
+				<latitude>55.36266112085693</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3289666514200521</heading>
+				<tilt>0</tilt>
+				<range>524.4572568904354</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.89089993102973,55.36221178877846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ginučių vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204972.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.99601114287465</longitude>
+				<latitude>55.38535858430077</latitude>
+				<altitude>0</altitude>
+				<heading>0.3552851911945509</heading>
+				<tilt>0</tilt>
+				<range>577.1843814901708</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.99500700805411,55.38550429690513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gornostajiškių vandens malūnas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204974.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.04026831184024</longitude>
+				<latitude>54.18293231646002</latitude>
+				<altitude>0</altitude>
+				<heading>0.002591054909906272</heading>
+				<tilt>0</tilt>
+				<range>1703.537692959159</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.03763496615669,54.18090067199415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gudų vandens malūnas su technologine įranga</name>
+			<description>Gudų vandens malūnas su technologine įranga</description>
+			<LookAt>
+				<longitude>22.54400975894222</longitude>
+				<latitude>56.18712951709741</latitude>
+				<altitude>0</altitude>
+				<heading>0.008220160672768557</heading>
+				<tilt>0</tilt>
+				<range>1480.083567318439</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.54106159129213,56.18728149178768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jautakių vandens malūnas vad. Stulpino </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204977.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.25774080712115</longitude>
+				<latitude>56.311036257697</latitude>
+				<altitude>0</altitude>
+				<heading>0.00254513377350989</heading>
+				<tilt>0</tilt>
+				<range>1285.067535633831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.26003321264692,56.31007775520931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškėlio vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204982.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.17301760139054</longitude>
+				<latitude>56.0307415640936</latitude>
+				<altitude>0</altitude>
+				<heading>-2.940008410802301</heading>
+				<tilt>0</tilt>
+				<range>634.8895130555925</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.1706144361541,56.03035549436637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodagalvių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204984.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.40530189126391</longitude>
+				<latitude>55.25045217703205</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2343416113513272</heading>
+				<tilt>0</tilt>
+				<range>353.9478439102708</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>26.40577272864046,55.2505248129847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kairėnų dvaro vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204988.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.40512344907829</longitude>
+				<latitude>54.73530526794912</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005855721522976355</heading>
+				<tilt>0</tilt>
+				<range>323.0645841415597</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.40434070763354,54.73539182210771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Katyčių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204991.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.84996542468941</longitude>
+				<latitude>55.29857448383255</latitude>
+				<altitude>0</altitude>
+				<heading>0.4142098822538339</heading>
+				<tilt>0</tilt>
+				<range>2248.291875347395</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.84467125798534,55.29466946991192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazliškių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204994.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.98427738149466</longitude>
+				<latitude>55.03428485714482</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4517069999782313</heading>
+				<tilt>0</tilt>
+				<range>312.1335330851638</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.9839648805,55.03394691272209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelmės dvaro vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204996.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.94023566192136</longitude>
+				<latitude>55.63873326884274</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01663945195495729</heading>
+				<tilt>0</tilt>
+				<range>1242.126678768367</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.93637842153187,55.63797694941928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelmės vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205000.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.94609136803772</longitude>
+				<latitude>55.62809707959116</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8855031542923092</heading>
+				<tilt>0</tilt>
+				<range>1675.975650878821</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.94075657031219,55.62840286199722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kijėlių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205002.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.38337838375927</longitude>
+				<latitude>55.2232202877752</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09301443867655597</heading>
+				<tilt>0</tilt>
+				<range>505.422846355113</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.38301670147098,55.22304969857535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205009.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.23772882620436</longitude>
+				<latitude>55.88768589554947</latitude>
+				<altitude>0</altitude>
+				<heading>3.84032286621715</heading>
+				<tilt>0</tilt>
+				<range>365.1375880033551</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.23575713628497,55.88722986879143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos vandens malūnas , Vilniaus g. 33</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205006.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.24857840866929</longitude>
+				<latitude>55.90092511987504</latitude>
+				<altitude>0</altitude>
+				<heading>0.09256784876451875</heading>
+				<tilt>0</tilt>
+				<range>362.5166297240413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.24669470711551,55.90081974095394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurklių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205012.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.11974257654225</longitude>
+				<latitude>55.40302393040022</latitude>
+				<altitude>0</altitude>
+				<heading>3.35095382995164</heading>
+				<tilt>0</tilt>
+				<range>2164.991892163125</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.11099470160102,55.40230987784033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kūlio Daubos vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205010.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.41513678626682</longitude>
+				<latitude>55.84671647103449</latitude>
+				<altitude>0</altitude>
+				<heading>3.935588107613648</heading>
+				<tilt>0</tilt>
+				<range>2146.347591321697</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.40965546506085,55.84815406496284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lentvario vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205014.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.03758242328658</longitude>
+				<latitude>54.66039983095875</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01871499638756228</heading>
+				<tilt>0</tilt>
+				<range>1100.537733990449</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.03424134461367,54.65979415616082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lyksūdės vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205016.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.72662852717522</longitude>
+				<latitude>56.19363928747506</latitude>
+				<altitude>0</altitude>
+				<heading>0.6686247244133158</heading>
+				<tilt>0</tilt>
+				<range>891.5342579178266</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.72385445124952,56.19326948089845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maciuičių vandens malūnas su technologine įranga</name>
+			<description>Maciuičių vandens malūnas su technologine įranga</description>
+			<LookAt>
+				<longitude>21.41989765320005</longitude>
+				<latitude>55.68770894460543</latitude>
+				<altitude>0</altitude>
+				<heading>0.002440244443735165</heading>
+				<tilt>0</tilt>
+				<range>1352.230386220234</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.41761932957516,55.68579169056822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maišiakulės vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205018.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.3017101339661</longitude>
+				<latitude>55.3704349188958</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05697867358688158</heading>
+				<tilt>0</tilt>
+				<range>789.9684347552714</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.30055829473037,55.369318451183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maslauskiškių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205019.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.325184409352</longitude>
+				<latitude>55.36582410509075</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1761052623404532</heading>
+				<tilt>0</tilt>
+				<range>740.7655476668489</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.32151543197307,55.36510838061602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minčios vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205022.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.98147458374586</longitude>
+				<latitude>55.47677755375801</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06501746107614781</heading>
+				<tilt>0</tilt>
+				<range>1387.812684432418</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.97963120738795,55.47641898584283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mirskiškių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205023.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.14702075853685</longitude>
+				<latitude>55.83420605346552</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001451235959161323</heading>
+				<tilt>0</tilt>
+				<range>976.5662733309388</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.1480429968883,55.834105271713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mizarų vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205026.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.93312974640977</longitude>
+				<latitude>54.01900400319752</latitude>
+				<altitude>0</altitude>
+				<heading>-0.134344088611228</heading>
+				<tilt>0</tilt>
+				<range>1006.741816129816</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.93063205648205,54.01797662617638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Molėtūno vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205028.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.39741567678143</longitude>
+				<latitude>55.22933379861739</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002155673547413304</heading>
+				<tilt>0</tilt>
+				<range>1006.520500835405</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.39325798410055,55.22861551236601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mosėdžio vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205031.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.5844021488487</longitude>
+				<latitude>56.16302862521666</latitude>
+				<altitude>0</altitude>
+				<heading>0.005254557087677805</heading>
+				<tilt>0</tilt>
+				<range>2175.959746791361</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.58045021905049,56.16112166817768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo dvaro vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205032.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88423549850018</longitude>
+				<latitude>55.99102049164242</latitude>
+				<altitude>0</altitude>
+				<heading>2.087032065170479</heading>
+				<tilt>0</tilt>
+				<range>1719.131407018547</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.8792536778545,55.99108330871047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raguvėlės vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205035.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.66180217393805</longitude>
+				<latitude>55.65443625911568</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007107460598758141</heading>
+				<tilt>0</tilt>
+				<range>1266.397814611218</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.66180217393804,55.65443625911568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raubonys vandens malūnas, verpykla, karšykla</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205036.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.48161425827253</longitude>
+				<latitude>56.12439720635732</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09553804629222898</heading>
+				<tilt>0</tilt>
+				<range>1030.069379082831</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.47669119757947,56.12399119564969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudondvario vandens malūnas su technologine įranga, Radviliškio rajonas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205038.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.79958533291579</longitude>
+				<latitude>55.75207678348578</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0198333085371827</heading>
+				<tilt>0</tilt>
+				<range>1073.533926626123</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>23.79846317920097,55.75275602344645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudikių vandens malūnas </name>
+			<description>Rudikių vandens malūnas</description>
+			<LookAt>
+				<longitude>22.8574099966649</longitude>
+				<latitude>56.12507154664474</latitude>
+				<altitude>0</altitude>
+				<heading>0.003055639903736081</heading>
+				<tilt>0</tilt>
+				<range>437.2264024417418</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.85553206914463,56.12412624667996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudnios vandens malūnas </name>
+			<description>Rudnios vandens malūnas</description>
+			<LookAt>
+				<longitude>24.67044776270926</longitude>
+				<latitude>54.07054718882147</latitude>
+				<altitude>0</altitude>
+				<heading>0.2672661013941582</heading>
+				<tilt>0</tilt>
+				<range>1094.994798809053</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.66655670808263,54.06894061738776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sedos vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205039.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.08579081760995</longitude>
+				<latitude>56.16768022477398</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002984707578385088</heading>
+				<tilt>0</tilt>
+				<range>764.0377183141263</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.08404739074696,56.16728570415204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stirniškių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205042.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.83637015628638</longitude>
+				<latitude>55.78527846376719</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1696966125665075</heading>
+				<tilt>0</tilt>
+				<range>866.0917785549985</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.83420544838851,55.78460523551773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toliūnų vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205057.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.30429750530434</longitude>
+				<latitude>55.96723997991051</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7781460428932721</heading>
+				<tilt>0</tilt>
+				<range>1424.041905032577</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.29921467027525,55.96624849419077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užpalių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205060.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.5840847945513</longitude>
+				<latitude>55.64682128783696</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3218022220143676</heading>
+				<tilt>0</tilt>
+				<range>846.6853550863765</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.58100505392722,55.64573857414506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaičių vandens malūnas vad. Stulpino </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205065.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.25449338122498</longitude>
+				<latitude>55.46712721501031</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7376769555710258</heading>
+				<tilt>0</tilt>
+				<range>945.1616076860028</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.25050937551013,55.46701982830489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Verkių dvaro vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205071.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29337867532909</longitude>
+				<latitude>54.74632310867211</latitude>
+				<altitude>0</altitude>
+				<heading>0.001675400110663242</heading>
+				<tilt>0</tilt>
+				<range>999.3171522890849</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.29075529704518,54.74569905602222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>vandens malūnas, kartono fabrikas</name>
+			<description>Vandens malūnas-popieriaus, kartono fabrikas</description>
+			<LookAt>
+				<longitude>25.11997093864282</longitude>
+				<latitude>54.64814787505797</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07546457951829988</heading>
+				<tilt>0</tilt>
+				<range>477.5540586959509</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.11929995614759,54.64813108789261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Verkių dvaro vandens malūnas 2</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205067.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29083315256427</longitude>
+				<latitude>54.74711974721173</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003338899032471528</heading>
+				<tilt>0</tilt>
+				<range>273.5484685516454</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.28967340779278,54.74708274240331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viekšnių vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205078.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.52432653094422</longitude>
+				<latitude>56.23225743326204</latitude>
+				<altitude>0</altitude>
+				<heading>1.204537743656348</heading>
+				<tilt>0</tilt>
+				<range>573.0633755642974</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.52037571602462,56.23197234839914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkėnų vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205081.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.63330126555264</longitude>
+				<latitude>55.49670603526651</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4837965069721861</heading>
+				<tilt>18.67688374768788</tilt>
+				<range>914.8716874955464</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.63030356334632,55.49925426278323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus vandens malūnas , Latvių g.64</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205082.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.23943425180655</longitude>
+				<latitude>54.69366658290028</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005490129662631558</heading>
+				<tilt>0</tilt>
+				<range>1002.654467525247</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.2407177799253,54.69466050335297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyliaudiškių vandens malūnas su technologine įranga</name>
+			<description>Vyliaudiškių vandens malūnas su technologine įranga</description>
+			<LookAt>
+				<longitude>25.07521273280991</longitude>
+				<latitude>55.42520699737405</latitude>
+				<altitude>0</altitude>
+				<heading>0.06858589115875248</heading>
+				<tilt>0</tilt>
+				<range>1878.31726992363</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.06394625874934,55.42366934101509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyskupiškių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205083.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.55964847917277</longitude>
+				<latitude>55.57964602905556</latitude>
+				<altitude>0</altitude>
+				<heading>0.02385771239408648</heading>
+				<tilt>0</tilt>
+				<range>3279.286382657215</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.54830978929983,55.57848144504767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čiobiškis vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69204950.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.66197557246148</longitude>
+				<latitude>54.95545273644309</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04409737216249362</heading>
+				<tilt>0</tilt>
+				<range>903.3894433260572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>24.65886024197149,54.95443176314633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šateikių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205045.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.67909898490493</longitude>
+				<latitude>55.99714226772386</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1695671578826296</heading>
+				<tilt>0</tilt>
+				<range>1173.57285295092</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.67857717786323,55.99815485739411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilėnai vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205049.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.89856454464678</longitude>
+				<latitude>56.01982889185837</latitude>
+				<altitude>0</altitude>
+				<heading>0.1282896076106742</heading>
+				<tilt>0</tilt>
+				<range>699.059436371125</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>22.89599428497732,56.01898502951647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šlyninkos vandens malūnas su technologine įranga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205053.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.20017161677409</longitude>
+				<latitude>55.73229553091744</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005376839305411625</heading>
+				<tilt>0</tilt>
+				<range>1640.300106621387</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>26.19812419114408,55.73376633067553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šumsko vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205055.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.739099197867</longitude>
+				<latitude>54.59434252885109</latitude>
+				<altitude>0</altitude>
+				<heading>0.01359454729699524</heading>
+				<tilt>0</tilt>
+				<range>2980.132600743401</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.72023735245116,54.59115333644984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėkšnos vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205056.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.62236531706225</longitude>
+				<latitude>55.51421563461884</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4542032292364548</heading>
+				<tilt>0</tilt>
+				<range>518.8048055866316</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.62174858937091,55.51406919428023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žalvarių vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205087.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.31949336863829</longitude>
+				<latitude>55.17024452005919</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4258785040555551</heading>
+				<tilt>0</tilt>
+				<range>1054.727107077242</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>25.31502285265077,55.16976870837415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių Naumiesčio vandens malūnas </name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69205088.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.70800574281139</longitude>
+				<latitude>55.36198724041853</latitude>
+				<altitude>0</altitude>
+				<heading>0.003011820788375467</heading>
+				<tilt>0</tilt>
+				<range>1291.00460290719</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>21.7080057428114,55.36198724041854,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

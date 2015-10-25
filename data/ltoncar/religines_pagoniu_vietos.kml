@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Religinės pagonių vietos.kmz</name>
+	<Style id="sh_grn-pushpin0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin07</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-pushpin0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_grn-pushpin2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin070</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl102">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1020">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_grn-pushpin00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin07">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_grn-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-pushpin03">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin070">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Religinės pagonių vietos</name>
+		<open>1</open>
+		<Placemark>
+			<name>Alantos alkas</name>
+			<description>Alantos alkas</description>
+			<LookAt>
+				<longitude>25.28788880999699</longitude>
+				<latitude>55.34547786548082</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004493280462058239</heading>
+				<tilt>0</tilt>
+				<range>859.4133604152137</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.28240392766188,55.34450205650008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alka, vad. Kūlių pilale</name>
+			<description>Alka, vad. Kūlių pilale</description>
+			<LookAt>
+				<longitude>21.31358050693835</longitude>
+				<latitude>56.0627993052962</latitude>
+				<altitude>0</altitude>
+				<heading>0.009500478913052049</heading>
+				<tilt>0</tilt>
+				<range>1631.84813960093</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.30534414629769,56.0614693618718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alkakalnis, vad. Rūrakalniu</name>
+			<description>Alkakalnis, vad. Rūrakalniu</description>
+			<LookAt>
+				<longitude>24.43791120768536</longitude>
+				<latitude>54.66302781309611</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1151209137621375</heading>
+				<tilt>0</tilt>
+				<range>405.778677780932</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin02</styleUrl>
+			<Point>
+				<coordinates>24.43733871454399,54.66266035145221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alkakalnis, vad. Zvaninyčia - Guronys</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207823.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.56738104063468</longitude>
+				<latitude>54.83960323122795</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02164297032372716</heading>
+				<tilt>0</tilt>
+				<range>839.164450891224</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.56411829591468,54.83844930148603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bakaloriškių alkakalnis</name>
+			<description>Bakaloriškių alkakalnis</description>
+			<LookAt>
+				<longitude>24.54962257471721</longitude>
+				<latitude>54.43798704028417</latitude>
+				<altitude>0</altitude>
+				<heading>0.1315856727433812</heading>
+				<tilt>0</tilt>
+				<range>1082.937337973123</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin02</styleUrl>
+			<Point>
+				<coordinates>24.54432791771628,54.43694444687814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baublių pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207826.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.39618610420445</longitude>
+				<latitude>55.83388721584554</latitude>
+				<altitude>0</altitude>
+				<heading>0.4266271495000177</heading>
+				<tilt>0</tilt>
+				<range>807.9827435458512</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>21.3952334362108,55.83301545015944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beižionių alkas</name>
+			<description>Beižionių alkas</description>
+			<LookAt>
+				<longitude>24.47476571169174</longitude>
+				<latitude>54.67681020027679</latitude>
+				<altitude>0</altitude>
+				<heading>0.1838502018666938</heading>
+				<tilt>0</tilt>
+				<range>2155.091703173305</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.46775324387953,54.67472213042539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deltuvėlės alka</name>
+			<description>Deltuvėlės alka</description>
+			<LookAt>
+				<longitude>24.78268925125533</longitude>
+				<latitude>55.19916221769536</latitude>
+				<altitude>0</altitude>
+				<heading>1.027353979962158</heading>
+				<tilt>0</tilt>
+				<range>1241.630550643889</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.77610403742266,55.19868864342072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dieveniškių pilkapiai</name>
+			<description>Dieveniškių pilkapiai</description>
+			<LookAt>
+				<longitude>25.60050063992836</longitude>
+				<latitude>54.20156880081223</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4580500865173216</heading>
+				<tilt>0</tilt>
+				<range>4742.514275942727</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.58396941220338,54.20092917228349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drabužninkų pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207831.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.67202643005568</longitude>
+				<latitude>54.57447248479657</latitude>
+				<altitude>0</altitude>
+				<heading>0.2673242650415588</heading>
+				<tilt>0</tilt>
+				<range>2104.012051429576</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.66778576096048,54.57447376516452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eitulionių alkas, vad. Skerdimais</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207832.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.48403958147161</longitude>
+				<latitude>54.65372485696365</latitude>
+				<altitude>0</altitude>
+				<heading>-10.76351973112466</heading>
+				<tilt>0</tilt>
+				<range>869.610107547924</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.48071670626026,54.65218185919576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Girbučių pilkapis vad. Kapmilžiu</name>
+			<description>Girbučių pilkapis vad. Kapmilžiu</description>
+			<LookAt>
+				<longitude>25.06526925385039</longitude>
+				<latitude>56.01371514849287</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03149699367048049</heading>
+				<tilt>0</tilt>
+				<range>994.5564332930749</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>25.06221830089804,56.01245671744433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grabijolų pilkapis, vad. Pinigų duobe</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207835.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.88119002357081</longitude>
+				<latitude>54.84179129154618</latitude>
+				<altitude>0</altitude>
+				<heading>0.6963732678953379</heading>
+				<tilt>0.2863482041398968</tilt>
+				<range>2623.049271252589</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.88353127215413,54.83962482950328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grabijolų, Žemaitiškių pilkapynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207841.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.90215608816466</longitude>
+				<latitude>54.84704439283532</latitude>
+				<altitude>0</altitude>
+				<heading>0.7133413367173507</heading>
+				<tilt>0.28651102262178</tilt>
+				<range>5541.7099922886</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.88240494687657,54.8486980916757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jundiliškės pilkapiai</name>
+			<description>Jundiliškės pilkapiai</description>
+			<LookAt>
+				<longitude>25.32390179385686</longitude>
+				<latitude>54.36937391075681</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004219993519250319</heading>
+				<tilt>0</tilt>
+				<range>3378.724052315697</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.30766686861092,54.36983778510717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodeikėlių pilkapis, vad. Milžinkapiu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207842.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.11192777217534</longitude>
+				<latitude>56.40136950841377</latitude>
+				<altitude>0</altitude>
+				<heading>0.2252019841693894</heading>
+				<tilt>0</tilt>
+				<range>2416.370377483461</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>22.10823408853065,56.40039516883583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karmazinų pilkapynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207919.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.96783594470823</longitude>
+				<latitude>54.81149438800888</latitude>
+				<altitude>0</altitude>
+				<heading>18.682966648489</heading>
+				<tilt>0</tilt>
+				<range>2383.719368477131</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.96586089143186,54.81167340344481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kačėnų pilkapynas</name>
+			<description>Kačėnų pilkapynas</description>
+			<LookAt>
+				<longitude>25.56210832499789</longitude>
+				<latitude>54.16186127321739</latitude>
+				<altitude>0</altitude>
+				<heading>2.398122928491295</heading>
+				<tilt>0</tilt>
+				<range>2889.110832175542</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.55190555803936,54.16006662753292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingalės pilkapiai</name>
+			<description>Kretingalės pilkapiai</description>
+			<LookAt>
+				<longitude>21.19636373961876</longitude>
+				<latitude>55.82704743960626</latitude>
+				<altitude>0</altitude>
+				<heading>0.04073828334055565</heading>
+				<tilt>0</tilt>
+				<range>925.6249088148995</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>21.19198854637416,55.82660193838283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krikštonių pilkapiai</name>
+			<description>Krikštonių pilkapiai</description>
+			<LookAt>
+				<longitude>23.96187092912884</longitude>
+				<latitude>54.20483059161623</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0780289932900852</heading>
+				<tilt>0</tilt>
+				<range>2230.000138032839</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.95452427296651,54.20296661511746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kryžkelio, Zabarijos pilkapynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207923.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.88261856063515</longitude>
+				<latitude>54.81510136538697</latitude>
+				<altitude>0</altitude>
+				<heading>-5.134337337310988</heading>
+				<tilt>0</tilt>
+				<range>1844.653251953931</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.87620039643165,54.81398735538209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuodžių alkakalnis vad. Vorkalniu</name>
+			<description>Kuodžių alkakalnis vad. Vorkalniu</description>
+			<LookAt>
+				<longitude>22.13001490800389</longitude>
+				<latitude>55.97406501789661</latitude>
+				<altitude>0</altitude>
+				<heading>0.009141088634423913</heading>
+				<tilt>0</tilt>
+				<range>3626.828690738862</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.11730386105709,55.96851022052334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurmaičių pilkapiai</name>
+			<description>Kurmaičių pilkapiai</description>
+			<LookAt>
+				<longitude>21.27312102340965</longitude>
+				<latitude>55.92681687119715</latitude>
+				<altitude>0</altitude>
+				<heading>0.04510045662318529</heading>
+				<tilt>0</tilt>
+				<range>3248.894999273609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>21.2530019506358,55.92406132876383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kušleikių pilkapis vad. Milžinkapiu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207924.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.67910195620224</longitude>
+				<latitude>55.51857719556969</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1823427407718852</heading>
+				<tilt>0</tilt>
+				<range>670.3477471246532</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>22.67849031020129,55.51880745509325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kušleikių pilkapis, vad. Velniokapiu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69208703.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.91599724583447</longitude>
+				<latitude>55.70229663182309</latitude>
+				<altitude>0</altitude>
+				<heading>-2.677868623839009</heading>
+				<tilt>0</tilt>
+				<range>2276.402275457175</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>22.90833073149924,55.70093032250385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lamokėlių alkakalnis</name>
+			<description>Lamokėlių alkakalnis</description>
+			<LookAt>
+				<longitude>24.81996075654649</longitude>
+				<latitude>56.02048599186278</latitude>
+				<altitude>0</altitude>
+				<heading>0.01991265638678585</heading>
+				<tilt>0</tilt>
+				<range>785.0000503798151</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.81888290757359,56.01967462121129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liaukiškių alkakalnis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207929.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.49703142061658</longitude>
+				<latitude>54.65086410761055</latitude>
+				<altitude>0</altitude>
+				<heading>-10.09509232334964</heading>
+				<tilt>0</tilt>
+				<range>830.0089865419355</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.4945762158148,54.64951611061291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linkaičių pilkapis, vad. Kapmilžiu</name>
+			<description>Linkaičių pilkapis, vad. Kapmilžiu</description>
+			<LookAt>
+				<longitude>23.47166754304427</longitude>
+				<latitude>56.18860748484264</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1900985073867968</heading>
+				<tilt>0</tilt>
+				<range>741.5161810236989</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>23.46880797922691,56.18795983972023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linksmėnų, Kurmaičių pilkapiai</name>
+			<description>Linksmėnų, Kurmaičių pilkapiai</description>
+			<LookAt>
+				<longitude>23.67367756283379</longitude>
+				<latitude>56.17815203060776</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007101412323404782</heading>
+				<tilt>0</tilt>
+				<range>1388.618677632982</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>23.66995442859718,56.17624086591842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maironių pilkapis, vad milžinkapiu</name>
+			<description>Maironių pilkapis, vad milžinkapiu</description>
+			<LookAt>
+				<longitude>23.07362633311761</longitude>
+				<latitude>55.59349669920165</latitude>
+				<altitude>0</altitude>
+				<heading>0.01486198172985414</heading>
+				<tilt>0</tilt>
+				<range>1241.651562079032</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>23.07029443122004,55.59292514192561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mičiūnų alkakalnis vad. Kaukalniu</name>
+			<description>Mičiūnų alkakalnis vad. Kaukalniu</description>
+			<LookAt>
+				<longitude>24.72997547311825</longitude>
+				<latitude>54.93014779885958</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7404136473725826</heading>
+				<tilt>0</tilt>
+				<range>2596.834952615039</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.71478946689389,54.92672516907147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miškinių pilkapynas</name>
+			<description>Miškinių pilkapynas</description>
+			<LookAt>
+				<longitude>25.32454663522488</longitude>
+				<latitude>55.71469285713162</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002955683477753106</heading>
+				<tilt>0</tilt>
+				<range>2845.357201828461</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.32753983525803,55.7129526593274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mosėdžio pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207933.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.5692288351299</longitude>
+				<latitude>56.1654922170183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007348836860242159</heading>
+				<tilt>0</tilt>
+				<range>2181.981854478337</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>21.56047090849236,56.16522636417847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Padvarių pilkapiai</name>
+			<description>Padvarių pilkapiai</description>
+			<LookAt>
+				<longitude>21.2537114877694</longitude>
+				<latitude>55.91301224409654</latitude>
+				<altitude>0</altitude>
+				<heading>1.331886023109811</heading>
+				<tilt>0</tilt>
+				<range>2051.118792550217</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>21.24764162307026,55.91333931425341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Padūkštų pilkapynas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207936.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.94419916437276</longitude>
+				<latitude>54.81226093732228</latitude>
+				<altitude>0</altitude>
+				<heading>16.01944384816954</heading>
+				<tilt>0</tilt>
+				<range>2967.661174774205</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.92708821489901,54.81409504073406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paežerių alkakalnis ir akmuo su dubeniu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207938.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.87134254150117</longitude>
+				<latitude>55.9229094929159</latitude>
+				<altitude>0</altitude>
+				<heading>-1.201122420672254</heading>
+				<tilt>18.81574207971143</tilt>
+				<range>495.8671311522372</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>23.86910500123953,55.92246959140797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pajautos arba kiškio bažnyčios kalnas - Guronys</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207939.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.56738104063468</longitude>
+				<latitude>54.83960323122795</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02164297032372716</heading>
+				<tilt>0</tilt>
+				<range>839.164450891224</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.56693040735323,54.83877569533944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pašventupio pilkapiai</name>
+			<description>Pašventupio pilkapiai</description>
+			<LookAt>
+				<longitude>25.08193068977535</longitude>
+				<latitude>55.51286658342875</latitude>
+				<altitude>0</altitude>
+				<heading>-2.548294602969343</heading>
+				<tilt>0</tilt>
+				<range>2133.298136831087</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.0711855258021,55.5130286791538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pažobrio pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207941.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.35735674300162</longitude>
+				<latitude>55.53425477933272</latitude>
+				<altitude>0</altitude>
+				<heading>0.3734185563804542</heading>
+				<tilt>0</tilt>
+				<range>760.4693983139866</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>23.3567581679155,55.53404909094052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Perkalių pilkapiai</name>
+			<description>Perkalių pilkapiai</description>
+			<LookAt>
+				<longitude>25.16583799234577</longitude>
+				<latitude>55.32173123580683</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6216141222789046</heading>
+				<tilt>0</tilt>
+				<range>1100.337426082477</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin130</styleUrl>
+			<Point>
+				<coordinates>25.16244476018132,55.32205472642952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilkapiai, vad. Kapmilžiais</name>
+			<description>Pilkapiai, vad. Kapmilžiais</description>
+			<LookAt>
+				<longitude>23.29959014362243</longitude>
+				<latitude>55.66621109214227</latitude>
+				<altitude>0</altitude>
+				<heading>0.0179578198282226</heading>
+				<tilt>0</tilt>
+				<range>574.1619900417741</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.29843487812101,55.66607225862726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilkapiai, vad. Kūlių pilale</name>
+			<description>Pilkapiai, vad. Kūlių pilale</description>
+			<LookAt>
+				<longitude>21.31206785967445</longitude>
+				<latitude>56.06387116203646</latitude>
+				<altitude>0</altitude>
+				<heading>0.008245503290627898</heading>
+				<tilt>0</tilt>
+				<range>2216.810834224585</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.30270078656708,56.06150416015549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilkapiai, vad. Kūlių pilale</name>
+			<description>Pilkapiai, vad. Kūlių pilale</description>
+			<LookAt>
+				<longitude>21.31206785967445</longitude>
+				<latitude>56.06387116203646</latitude>
+				<altitude>0</altitude>
+				<heading>0.008245503290627898</heading>
+				<tilt>0</tilt>
+				<range>2216.810834224585</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.30055719295477,56.06462072562436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plokščių šventaduobė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207947.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.1803310503885</longitude>
+				<latitude>55.07431337480276</latitude>
+				<altitude>0</altitude>
+				<heading>-4.454866126357856</heading>
+				<tilt>0</tilt>
+				<range>1971.051593324884</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>23.17308158820902,55.07284599044436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ragas vad. Alkaragiu</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207950.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.98590297943897</longitude>
+				<latitude>55.30906646269398</latitude>
+				<altitude>0</altitude>
+				<heading>0.2133086776121391</heading>
+				<tilt>0</tilt>
+				<range>2932.119582742002</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>25.96971242483585,55.30798445743059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ragas vad. Alku</name>
+			<description>Ragas vad. Alku</description>
+			<LookAt>
+				<longitude>25.39626346263092</longitude>
+				<latitude>55.38425401678821</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9796933994482429</heading>
+				<tilt>0</tilt>
+				<range>1307.2547491294</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.389693476904,55.38312612827021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ragas vad. Alku prie ežero vad. Šventas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207954.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.21792024449262</longitude>
+				<latitude>55.23182170942262</latitude>
+				<altitude>0</altitude>
+				<heading>0.04814611179940007</heading>
+				<tilt>0</tilt>
+				<range>853.7289711009752</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>26.21547459965142,55.23080288486054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skarulių pilkapiai</name>
+			<description>Skarulių pilkapiai</description>
+			<LookAt>
+				<longitude>24.31140771803727</longitude>
+				<latitude>55.0770468204359</latitude>
+				<altitude>0</altitude>
+				<heading>1.740904407325999</heading>
+				<tilt>0</tilt>
+				<range>1138.644383922378</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin130</styleUrl>
+			<Point>
+				<coordinates>24.30842898981966,55.07621520675924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skrebiškių alkakalnis</name>
+			<description>Skrebiškių alkakalnis</description>
+			<LookAt>
+				<longitude>24.80270725991455</longitude>
+				<latitude>56.24771047272399</latitude>
+				<altitude>0</altitude>
+				<heading>-1.024103075237509</heading>
+				<tilt>0</tilt>
+				<range>2725.311393497402</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.7939504688482,56.24585240002922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stanėnų pilkapiai</name>
+			<description>Stanėnų pilkapiai</description>
+			<LookAt>
+				<longitude>25.54533704015263</longitude>
+				<latitude>55.3982139095676</latitude>
+				<altitude>0</altitude>
+				<heading>0.007369426718004174</heading>
+				<tilt>0</tilt>
+				<range>585.6746254497916</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.54252954220327,55.39784832466686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudotos pilkapiai</name>
+			<description>Sudotos pilkapiai</description>
+			<LookAt>
+				<longitude>25.97386043369432</longitude>
+				<latitude>55.12435179545743</latitude>
+				<altitude>0</altitude>
+				<heading>-0.205901892554292</heading>
+				<tilt>0</tilt>
+				<range>676.0413638384169</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.97092090948968,55.12338835381217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tartoko pilkapiai</name>
+			<description>Tartoko pilkapiai</description>
+			<LookAt>
+				<longitude>24.446030270675</longitude>
+				<latitude>55.02815676600635</latitude>
+				<altitude>0</altitude>
+				<heading>0.04214923362280908</heading>
+				<tilt>0</tilt>
+				<range>784.5326101765057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.44176536639337,55.02889458734457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tartoko pilkapiai</name>
+			<description>Tartoko pilkapiai</description>
+			<LookAt>
+				<longitude>24.446030270675</longitude>
+				<latitude>55.02815676600635</latitude>
+				<altitude>0</altitude>
+				<heading>0.04214923362280908</heading>
+				<tilt>0</tilt>
+				<range>784.5326101765057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.44351031403631,55.02934559202649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkų alkakalnis</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207957.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.98168055866298</longitude>
+				<latitude>56.04327707085114</latitude>
+				<altitude>0</altitude>
+				<heading>1.357605140352497</heading>
+				<tilt>0</tilt>
+				<range>2254.455960474829</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>21.96835405786754,56.03973503025562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Visėtiškių pilkapiai</name>
+			<description>Visėtiškių pilkapiai</description>
+			<LookAt>
+				<longitude>25.32047675087197</longitude>
+				<latitude>55.71161963761938</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003066921804995483</heading>
+				<tilt>0</tilt>
+				<range>1898.92027040641</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.31499761623082,55.71135988349686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zabarijos pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207962.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.87857270719746</longitude>
+				<latitude>54.82308630220433</latitude>
+				<altitude>0</altitude>
+				<heading>-5.137643886034855</heading>
+				<tilt>0</tilt>
+				<range>1841.06575676393</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>24.87616141379187,54.82250306310179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zujų alkas</name>
+			<description>Zujų alkas</description>
+			<LookAt>
+				<longitude>24.86308838223294</longitude>
+				<latitude>55.29500413817846</latitude>
+				<altitude>0</altitude>
+				<heading>1.055345259529131</heading>
+				<tilt>0</tilt>
+				<range>2929.706366116871</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.85117837621064,55.28967777624168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čižiūnų pilkapis vad. Milžinkapiu</name>
+			<description>Čižiūnų pilkapis vad. Milžinkapiu</description>
+			<LookAt>
+				<longitude>24.58624768700874</longitude>
+				<latitude>54.60945723049066</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05960528056958851</heading>
+				<tilt>0</tilt>
+				<range>918.2722276852242</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<coordinates>24.58248234926954,54.61000316258348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Įpilties alkas</name>
+			<description>Įpilties alkas</description>
+			<LookAt>
+				<longitude>21.27467040666005</longitude>
+				<latitude>56.12655251394126</latitude>
+				<altitude>0</altitude>
+				<heading>0.03238822004026654</heading>
+				<tilt>0</tilt>
+				<range>1881.547715822493</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.26731120903332,56.12618824338081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šačių alkakalnis vad. Ryklės kalnu</name>
+			<description>Šačių alkakalnis vad. Ryklės kalnu</description>
+			<LookAt>
+				<longitude>21.74954592413298</longitude>
+				<latitude>56.17376905365596</latitude>
+				<altitude>0</altitude>
+				<heading>0.005623394444548192</heading>
+				<tilt>0</tilt>
+				<range>2263.112920349994</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.7339855499978,56.17059447374322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žadavainių pilkapiai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69207976.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.88177715264305</longitude>
+				<latitude>55.59591452765593</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001199998190780907</heading>
+				<tilt>0</tilt>
+				<range>1220.737260587536</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<coordinates>25.87957729080711,55.59512048145045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žaduvėnų pilkapiai</name>
+			<description>Žaduvėnų pilkapiai</description>
+			<LookAt>
+				<longitude>22.54329526478411</longitude>
+				<latitude>55.83547554348665</latitude>
+				<altitude>0</altitude>
+				<heading>0.4575689797624887</heading>
+				<tilt>0</tilt>
+				<range>760.8958209434304</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.53859212973032,55.83590312052645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žalpių alkakalnis</name>
+			<description>Žalpių alkakalnis</description>
+			<LookAt>
+				<longitude>22.85402587061905</longitude>
+				<latitude>55.4766569751792</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00686568322586807</heading>
+				<tilt>0</tilt>
+				<range>1173.889653851827</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.84859432756652,55.47560019654178,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

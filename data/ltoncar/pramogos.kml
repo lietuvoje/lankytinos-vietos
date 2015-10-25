@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>doc.kml</name>
+	<Style id="sn_pink-blank01">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_pink-blank0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_pink-blank10">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_pink-blank00">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_pink-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_pink-blank11">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_pink-blank000">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_pink-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin02">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_pink-blank1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_pink-blank0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_pink-blank">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_pink-blank1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_pink-blank00">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_pink-blank01">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_pink-blank">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_pink-blank30">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>pramogos</name>
+		<open>1</open>
+		<Placemark>
+			<name>Lietuvos zoologijos sodas</name>
+			<description><![CDATA[<img src="http://www.zoosodas.lt/pictures/cbf6f467feff619.jpg"/><a href="http://www.zoosodas.lt/">http://www.zoosodas.lt/</a>]]></description>
+			<LookAt>
+				<longitude>23.95158451775927</longitude>
+				<latitude>54.90303712448129</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7289867756494561</heading>
+				<tilt>11.85893874631871</tilt>
+				<range>279.8975578844352</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank1</styleUrl>
+			<Point>
+				<coordinates>23.95029498591962,54.90298430123201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jūrų muziejus - delfinariumas</name>
+			<description><![CDATA[http://www.muziejus.lt/<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG/800px-Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG"/><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG/800px-Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG">http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG/800px-Dolphins_show_in_Dolphinarium_in_Klaipeda.JPG</a>]]></description>
+			<LookAt>
+				<longitude>21.10117845515478</longitude>
+				<latitude>55.71712669765594</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01400637622149646</heading>
+				<tilt>8.828904708114862</tilt>
+				<range>399.2438922458427</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>21.09972398267417,55.71708928227027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus vandens atrakcionų parkas</name>
+			<description><![CDATA[<a href="http://www.vandensparkas.lt/">http://www.vandensparkas.lt/</a><img src="http://www.vandensparkas.lt/uploads/Image/iliustracijos/apie/tema1.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.2785745295423</longitude>
+				<latitude>54.71584933099383</latitude>
+				<altitude>0</altitude>
+				<heading>-2.288395841788328</heading>
+				<tilt>0</tilt>
+				<range>986.4337450134547</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank1</styleUrl>
+			<Point>
+				<coordinates>25.27656776515785,54.71595785451219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ledo arena - Akropolis</name>
+			<description>http://www.akropolis.lt/vilniaus-akropolio-pramogos/akropolio-ledas/4480</description>
+			<LookAt>
+				<longitude>25.2692458231574</longitude>
+				<latitude>54.71276263939652</latitude>
+				<altitude>0</altitude>
+				<heading>-2.261784077205472</heading>
+				<tilt>0</tilt>
+				<range>2795.818006294405</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.26104710351317,54.71004757722793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų vandens pramogų parkas</name>
+			<description><![CDATA[<a href="http://www.akvapark.lt/">http://www.akvapark.lt/</a>]]></description>
+			<LookAt>
+				<longitude>23.97366985697837</longitude>
+				<latitude>54.02369176939245</latitude>
+				<altitude>0</altitude>
+				<heading>0.0502495185911138</heading>
+				<tilt>0</tilt>
+				<range>860.0975063112218</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank1</styleUrl>
+			<Point>
+				<coordinates>23.97355837509598,54.02372651367567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno ledo arena</name>
+			<description><![CDATA[<a href="http://www.ledoarena.lt">http://www.ledoarena.lt</a>]]></description>
+			<LookAt>
+				<longitude>23.9277216132378</longitude>
+				<latitude>54.90396506142017</latitude>
+				<altitude>0</altitude>
+				<heading>0.00115086964232726</heading>
+				<tilt>0</tilt>
+				<range>1001.570634556502</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank1</styleUrl>
+			<Point>
+				<coordinates>23.92832330510463,54.90354721120164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liepkalnio slidinėjimo trasa</name>
+			<description>Liepkalnio slidinėjimo trasa</description>
+			<LookAt>
+				<longitude>25.30824286519215</longitude>
+				<latitude>54.65529401498892</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3227955026578392</heading>
+				<tilt>0</tilt>
+				<range>236.0174830348044</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.30685362783951,54.65538249852503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokantiškio slidinėjimo trasa</name>
+			<description>Rokantiškio slidinėjimo trasa</description>
+			<LookAt>
+				<longitude>25.35701107685832</longitude>
+				<latitude>54.70522168747946</latitude>
+				<altitude>0</altitude>
+				<heading>-7.502133615622852</heading>
+				<tilt>19.15218108490212</tilt>
+				<range>973.2197502274908</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.35411143669868,54.70437666788669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus universiteto sodas</name>
+			<description><![CDATA[<a href="http://www.botanikos-sodas.vu.lt/lt/sveiki-atvyke">http://www.botanikos-sodas.vu.lt/lt/sveiki-atvyke</a><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/VU_botanikos_sodas1%2C_2006-10-18.jpg/800px-VU_botanikos_sodas1%2C_2006-10-18.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.23241462603773</longitude>
+				<latitude>54.68505290787685</latitude>
+				<altitude>0</altitude>
+				<heading>0.001914802058627082</heading>
+				<tilt>0</tilt>
+				<range>760.1571761600801</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank00</styleUrl>
+			<Point>
+				<coordinates>25.2315491755158,54.68400063109769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šnekutis - kaimiško alaus baras</name>
+			<description><![CDATA[<a href="http://www.alutis.lt/snekutis/">http://www.alutis.lt/snekutis/</a>]]></description>
+			<LookAt>
+				<longitude>25.28271528827142</longitude>
+				<latitude>54.675260938288</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8396003250511264</heading>
+				<tilt>25.1261512259419</tilt>
+				<range>323.3937195604254</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank00</styleUrl>
+			<Point>
+				<coordinates>25.28213786648137,54.67475766188754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kulionių slidinėjimo trasa ~ koordinatės</name>
+			<description>Kulionių slidinėjimo trasa</description>
+			<LookAt>
+				<longitude>25.56475968808129</longitude>
+				<latitude>55.31607126215795</latitude>
+				<altitude>0</altitude>
+				<heading>-2.657510648808872</heading>
+				<tilt>4.920933811727585</tilt>
+				<range>759.6275166082133</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.56124262353577,55.31668362580907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rinkuškių bravoras</name>
+			<description>Rinkuškių bravoras</description>
+			<LookAt>
+				<longitude>24.72784454843157</longitude>
+				<latitude>56.20893532644245</latitude>
+				<altitude>0</altitude>
+				<heading>0.2582900152893635</heading>
+				<tilt>0</tilt>
+				<range>799.3784417186802</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>24.72303774264758,56.20767605485429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butautų dvaro bravoras</name>
+			<description>Butautų dvaro bravoras</description>
+			<LookAt>
+				<longitude>24.3754522499024</longitude>
+				<latitude>55.74477138556489</latitude>
+				<altitude>0</altitude>
+				<heading>0.004017979887881857</heading>
+				<tilt>0</tilt>
+				<range>1001.824493608502</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank2</styleUrl>
+			<Point>
+				<coordinates>24.37061805173531,55.74498217443354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus slidinėjimo trasa</name>
+			<description><![CDATA[<img src="http://www.ams.lt/New/image.php?Image=Slidinejimo_trasa2011_(1)_copy.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.04581057417101</longitude>
+				<latitude>54.43198257350566</latitude>
+				<altitude>0</altitude>
+				<heading>0.5101923872014168</heading>
+				<tilt>0</tilt>
+				<range>1650.733493074678</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>24.03659579013184,54.43296779383415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bravoras</name>
+			<description>Bravoras</description>
+			<LookAt>
+				<longitude>23.93203778555651</longitude>
+				<latitude>54.88874434381994</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3095955454784802</heading>
+				<tilt>0</tilt>
+				<range>314.0595366231419</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>23.93236430292048,54.88832191695863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vasaknų bravoras</name>
+			<description><![CDATA[<a href="http://www.vasaknudvaras.lt/bravoras">http://www.vasaknudvaras.lt/bravoras</a>]]></description>
+			<LookAt>
+				<longitude>25.79518480138585</longitude>
+				<latitude>55.68694298413497</latitude>
+				<altitude>0</altitude>
+				<heading>2.349152212537391</heading>
+				<tilt>0</tilt>
+				<range>1071.504675823734</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank00</styleUrl>
+			<Point>
+				<coordinates>25.79129526607908,55.68614465067872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų Snoras snow arena</name>
+			<description><![CDATA[<a href="http://www.snowarena.lt/lt/home">http://www.snowarena.lt/lt/home</a><img src="http://www.snowarena.lt/templates/images/tiny_mce/imgp6915.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.96151291129178</longitude>
+				<latitude>54.03200484781322</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07601100659480475</heading>
+				<tilt>0</tilt>
+				<range>686.3173358303579</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>23.96115172548084,54.0320568140451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birštono slidinėjimo trasa</name>
+			<description><![CDATA[<img src="http://a4.sphotos.ak.fbcdn.net/hphotos-ak-snc7/77122_162211263812096_162209213812301_339679_3008699_n.jpg"/><a href="http://a4.sphotos.ak.fbcdn.net/hphotos-ak-snc7/77122_162211263812096_162209213812301_339679_3008699_n.jpg">http://a4.sphotos.ak.fbcdn.net/hphotos-ak-snc7/77122_162211263812096_162209213812301_339679_3008699_n.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.03475100800642</longitude>
+				<latitude>54.60073539532451</latitude>
+				<altitude>0</altitude>
+				<heading>3.006355106584449</heading>
+				<tilt>42.07916607398925</tilt>
+				<range>918.3736808483754</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>24.03129390917735,54.59946186915582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ignalinos slidinėjimo trasa</name>
+			<description><![CDATA[<img src="http://www.lzsc.lt/photo.php?photo_id=27"/><a href="http://www.lzsc.lt">http://www.lzsc.lt</a>]]></description>
+			<LookAt>
+				<longitude>26.18378808419258</longitude>
+				<latitude>55.33623282017856</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01196165812137754</heading>
+				<tilt>0</tilt>
+				<range>1344.763984255807</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>26.18039543982106,55.33568904551694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos universiteto botanikos sodas</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/d/d8/Klaipedos_universiteto_botanikos_sodas5.JPG"/><a href="http://upload.wikimedia.org/wikipedia/commons/d/d8/Klaipedos_universiteto_botanikos_sodas5.JPG">http://upload.wikimedia.org/wikipedia/commons/d/d8/Klaipedos_universiteto_botanikos_sodas5.JPG</a>]]></description>
+			<LookAt>
+				<longitude>21.13519564507491</longitude>
+				<latitude>55.7507139059757</latitude>
+				<altitude>0</altitude>
+				<heading>0.001698412921510444</heading>
+				<tilt>3.020210268042437</tilt>
+				<range>369.8372025780109</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>21.13513980454122,55.75058961835949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anykščių slidinėjimo trasa - Kalita</name>
+			<description><![CDATA[<a href="http://www.kalitoskalnas.lt/index.php/2/lt/news/index">http://www.kalitoskalnas.lt/index.php/2/lt/news/index</a><img src="http://www.kalitoskalnas.lt/working/kalitos/app/webroot/files/fck/image/Naujienos/Compresed_1.JPG"/>]]></description>
+			<LookAt>
+				<longitude>25.12917436408479</longitude>
+				<latitude>55.52744908095289</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04489940462511645</heading>
+				<tilt>0</tilt>
+				<range>1546.199040844546</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.12446324836631,55.52566580755286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkaviškio slidinėjimo trasa</name>
+			<description>Vilkaviškio slidinėjimo trasa</description>
+			<LookAt>
+				<longitude>22.77787682594656</longitude>
+				<latitude>54.39452000857514</latitude>
+				<altitude>0</altitude>
+				<heading>4.343174952173925</heading>
+				<tilt>0</tilt>
+				<range>356.9497626320769</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank4</styleUrl>
+			<Point>
+				<coordinates>22.77606318614375,54.39430112640728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakiškio bravoras</name>
+			<description>Trakiškio bravoras</description>
+			<LookAt>
+				<longitude>24.51724564459389</longitude>
+				<latitude>55.73142778283015</latitude>
+				<altitude>0</altitude>
+				<heading>0.001499681256468495</heading>
+				<tilt>0</tilt>
+				<range>999.9760579162614</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>24.51604345072841,55.73134261858068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dainuvos nuotykių slėnis</name>
+			<description><![CDATA[<img src="http://www.nuotykiuslenis.lt/files/imagecache/mazas/galerija/IMG_0098_0.JPG"/><a href="http://www.nuotykiuslenis.lt/galerija/dainuvos-nuotykiu-slenis">http://www.nuotykiuslenis.lt/galerija/dainuvos-nuotykiu-slenis</a>]]></description>
+			<LookAt>
+				<longitude>25.08434843915411</longitude>
+				<latitude>55.5138696261609</latitude>
+				<altitude>0</altitude>
+				<heading>0.9044553918932801</heading>
+				<tilt>0</tilt>
+				<range>363.0832445811669</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.08219739093972,55.51389742712388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belmonto nuotykių parkas</name>
+			<description><![CDATA[<a href="http://www.belmontonuotykiuparkas.lt/">http://www.belmontonuotykiuparkas.lt/</a>]]></description>
+			<LookAt>
+				<longitude>25.08978076790005</longitude>
+				<latitude>55.5153745305075</latitude>
+				<altitude>0</altitude>
+				<heading>1.019104085562892</heading>
+				<tilt>0</tilt>
+				<range>1565.464725762816</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>25.3567,54.68389722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ąžuolynės nuotykių parkas</name>
+			<description><![CDATA[<a href="http://azuolynesparkas.lt/azuolyne/">http://azuolynesparkas.lt/azuolyne/</a><img src="http://azuolynesparkas.lt/azuolyne/images/stories/galerijos/galery/trecioji1.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.56696565485886</longitude>
+				<latitude>54.57834259525666</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005098594913958585</heading>
+				<tilt>0</tilt>
+				<range>1705.960102074371</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>24.56870789039278,54.57897069207804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno botanikos sodas</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kauno_botanikos_sodas3%2C_2005-06-09.jpg/800px-Kauno_botanikos_sodas3%2C_2005-06-09.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kauno_botanikos_sodas3%2C_2005-06-09.jpg/800px-Kauno_botanikos_sodas3%2C_2005-06-09.jpg">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kauno_botanikos_sodas3%2C_2005-06-09.jpg/800px-Kauno_botanikos_sodas3%2C_2005-06-09.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.9112057807982</longitude>
+				<latitude>54.87148283623973</latitude>
+				<altitude>0</altitude>
+				<heading>3.030374160439972</heading>
+				<tilt>0</tilt>
+				<range>1037.252040732961</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank0</styleUrl>
+			<Point>
+				<coordinates>23.90911438955503,54.86898738115526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pagonijos nuotykių parkas</name>
+			<description><![CDATA[<a href="http://www.expedicija.lt/index.php?s_id=79&lang=lt">http://www.expedicija.lt/index.php?s_id=79&lang=lt</a><img src="http://www.expedicija.lt/show_thumb_img.php?ts=150.0&img=/images/products/P9160046.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.57378380721831</longitude>
+				<latitude>54.98910748440557</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01325849734063704</heading>
+				<tilt>0</tilt>
+				<range>1496.277786001806</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>23.57114504245978,54.98858380441091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Labas nuotykių parkas</name>
+			<description><![CDATA[<a href="http://www.labasnuotykiuparkas.lt/en/contacts.html">http://www.labasnuotykiuparkas.lt/en/contacts.html</a>]]></description>
+			<LookAt>
+				<longitude>23.57378380721831</longitude>
+				<latitude>54.98910748440557</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01325849734063704</heading>
+				<tilt>0</tilt>
+				<range>1496.277786001806</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>25.31586388888889,54.72509722222223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nuotykių parkas „Lūšies kelias“</name>
+			<description><![CDATA[<a href="http://www.lusieskelias.lt/">http://www.lusieskelias.lt/</a>]]></description>
+			<LookAt>
+				<longitude>21.15025673209115</longitude>
+				<latitude>55.95954828914776</latitude>
+				<altitude>0</altitude>
+				<heading>1.142892732395256</heading>
+				<tilt>0</tilt>
+				<range>814.6213674690064</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>21.14782983766094,55.95878008812653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tarzanija - nuotykių parkas</name>
+			<description><![CDATA[<img src="http://a3.sphotos.ak.fbcdn.net/hphotos-ak-snc6/260370_10150221514570814_128642650813_7229392_5144915_n.jpg"/><a href="http://www.tarzanija.lt/lt/galerija/">http://www.tarzanija.lt/lt/galerija/</a>]]></description>
+			<LookAt>
+				<longitude>24.01511112290923</longitude>
+				<latitude>54.37235969072843</latitude>
+				<altitude>0</altitude>
+				<heading>-2.624407771404646</heading>
+				<tilt>26.42530406217806</tilt>
+				<range>2964.431985981979</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>24.00559849452227,54.37068375438281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>One nuotykių parkas</name>
+			<description><![CDATA[<a href="http://www.onenuotykiuparkas.lt/">http://www.onenuotykiuparkas.lt/</a>]]></description>
+			<LookAt>
+				<longitude>24.01511112290923</longitude>
+				<latitude>54.37235969072843</latitude>
+				<altitude>0</altitude>
+				<heading>-2.624407771404646</heading>
+				<tilt>26.42530406217806</tilt>
+				<range>2964.431985981979</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>23.97319722222222,54.02556944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TonyResort nuotykių parkas</name>
+			<description><![CDATA[<a href="http://tonyresort.lt/">http://tonyresort.lt/</a><img src="http://tonyresort.lt/wp-content/themes/twentyten/thumb.php?file=http://tonyresort.lt/wp-content/gallery/trasa-zmogus-voras/dscf0530.jpg&w=588&h=387"/>]]></description>
+			<LookAt>
+				<longitude>24.90512722768248</longitude>
+				<latitude>54.71149033997188</latitude>
+				<altitude>0</altitude>
+				<heading>0.2072697496921516</heading>
+				<tilt>0</tilt>
+				<range>2169.36676369415</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>24.8961224748357,54.711172955666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nuotykių parkas &quot;Lokės pėda&quot;</name>
+			<description><![CDATA[<a href="http://www.lokespeda.lt/">http://www.lokespeda.lt/</a>]]></description>
+			<LookAt>
+				<longitude>24.34481381960492</longitude>
+				<latitude>55.09839969998738</latitude>
+				<altitude>0</altitude>
+				<heading>0.5024384586701453</heading>
+				<tilt>0</tilt>
+				<range>2387.835740371525</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>24.33306557774898,55.09949625945091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokynės kaimo turizmo sodyba</name>
+			<description><![CDATA[<a href="http://www.rokyne.lt/">http://www.rokyne.lt/</a>]]></description>
+			<LookAt>
+				<longitude>23.49817087052671</longitude>
+				<latitude>55.47070584205093</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4147398628578506</heading>
+				<tilt>0</tilt>
+				<range>1966374.434507347</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>23.327775,55.33732222222223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čižo bravoras</name>
+			<description>Čižo bravoras</description>
+			<LookAt>
+				<longitude>25.84294559061654</longitude>
+				<latitude>55.74722684747707</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7053313164587163</heading>
+				<tilt>0</tilt>
+				<range>835.6811178346026</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>25.84181878899917,55.74673602745618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurklių bravoras</name>
+			<description>Kurklių bravoras</description>
+			<LookAt>
+				<longitude>25.06053899977871</longitude>
+				<latitude>55.41338000027505</latitude>
+				<altitude>0</altitude>
+				<heading>-1.821789915995488e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000920839266</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>25.06053899977871,55.41338000027505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HBH bravoras</name>
+			<description><![CDATA[<a href="http://www.hbh.lt/?lt=1105536007">http://www.hbh.lt/?lt=1105536007</a><img src="http://www.hbh.lt/galery/_hbh/hbh_vilnius/dsc00149_.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.15006232264907</longitude>
+				<latitude>55.95929177043762</latitude>
+				<altitude>0</altitude>
+				<heading>1.285880351247843</heading>
+				<tilt>1.10394783395468</tilt>
+				<range>732.6476672213904</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>21.14640219443956,55.95941374299386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stakliškių midaus darykla</name>
+			<description><![CDATA[<img src="http://www.midus.lt/Files/Prekes/2012sm07.jpg"/><a href="http://www.midus.lt/lt.php?p=Apie+mus">http://www.midus.lt/lt.php?p=Apie+mus</a>]]></description>
+			<LookAt>
+				<longitude>24.32702658716833</longitude>
+				<latitude>54.59350789612625</latitude>
+				<altitude>0</altitude>
+				<heading>-7.060353990566364</heading>
+				<tilt>0</tilt>
+				<range>3241.508930672497</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>24.30972596168585,54.59483639355747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno atrakcionų parkas</name>
+			<description>Kauno atrakcionų parkas</description>
+			<Camera>
+				<longitude>23.93096890578462</longitude>
+				<latitude>54.89691599834244</latitude>
+				<altitude>533.9992432284045</altitude>
+				<heading>43.38197102906749</heading>
+				<tilt>0.04315686995434214</tilt>
+				<roll>45.71825950284752</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>23.93001841647616,54.89695733724535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus televizijos bokštas</name>
+			<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vilnius_TV_tower.jpg/250px-Vilnius_TV_tower.jpg"/><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vilnius_TV_tower.jpg/250px-Vilnius_TV_tower.jpg">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vilnius_TV_tower.jpg/250px-Vilnius_TV_tower.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.21729701582969</longitude>
+				<latitude>54.68696173733859</latitude>
+				<altitude>0</altitude>
+				<heading>0.4479444319863391</heading>
+				<tilt>0</tilt>
+				<range>625.9715966971602</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank3</styleUrl>
+			<Point>
+				<coordinates>25.21418494899439,54.68710173355668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių universiteto botanikos sodas</name>
+			<description><![CDATA[<a href="http://sodas.su.lt/">http://sodas.su.lt/</a><img src="http://sodas.su.lt/ezimagecatalogue/catalogue/phpB9HZcC.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.28332252156745</longitude>
+				<latitude>55.93246599476512</latitude>
+				<altitude>0</altitude>
+				<heading>-7.240159761428345e-005</heading>
+				<tilt>0</tilt>
+				<range>495.0740622434584</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank1</styleUrl>
+			<Point>
+				<coordinates>23.28348488240768,55.93235286206129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos mini zoo</name>
+			<description><![CDATA[<img src="http://www.zoosodas.com/galery/_minizoo/galerija/gal_9d.jpg"/><a href="http://www.zoosodas.com/">http://www.zoosodas.com/</a>]]></description>
+			<LookAt>
+				<longitude>21.28169468603862</longitude>
+				<latitude>55.71024952749328</latitude>
+				<altitude>0</altitude>
+				<heading>0.06675477172525521</heading>
+				<tilt>0</tilt>
+				<range>613.3846524300857</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin011</styleUrl>
+			<Point>
+				<coordinates>21.28127966967782,55.71040120258789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butautų bravoras 2</name>
+			<description><![CDATA[<a href="http://www.dvaroalus.lt/kontaktai/">http://www.dvaroalus.lt/kontaktai/</a><img src="http://www.dvaroalus.lt/images/text-gallery.png"/>]]></description>
+			<LookAt>
+				<longitude>24.62225012453354</longitude>
+				<latitude>56.29218092667512</latitude>
+				<altitude>0</altitude>
+				<heading>0.323320850311412</heading>
+				<tilt>0</tilt>
+				<range>7344.241459869457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<coordinates>24.60862590477009,56.28810784313992,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

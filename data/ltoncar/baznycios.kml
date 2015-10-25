@@ -1,0 +1,4764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bažnyčios.kmz</name>
+	<StyleMap id="m_ylw-pushpin02000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0020">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0021">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-blank100">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank1">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank3">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank20">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank4">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank02">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank4">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1010">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank6">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank5">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank00">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank11">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank10">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank0">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin002">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank3">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-blank2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl101">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank5">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1011">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank200">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin020000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank6">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00210">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blu-blank">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Bažnyčios</name>
+		<open>1</open>
+		<Placemark>
+			<name>Adakavo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267727.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.65655280080563</longitude>
+				<latitude>55.40577732690984</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004865417711296781</heading>
+				<tilt>0</tilt>
+				<range>1419.202448168433</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>22.65197994420607,55.40294360874487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenės šv. Onos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267733.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.75429273579679</longitude>
+				<latitude>56.2452030626881</latitude>
+				<altitude>0</altitude>
+				<heading>0.0455775350103484</heading>
+				<tilt>0</tilt>
+				<range>1296.75678278411</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>22.74740369555944,56.24657380493409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alantos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267738.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29700234840685</longitude>
+				<latitude>55.35206693099687</latitude>
+				<altitude>0</altitude>
+				<heading>0.00451103990066056</heading>
+				<tilt>0</tilt>
+				<range>915.9237130492073</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.29496698872064,55.35083757974189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alionių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267743.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.10681188456271</longitude>
+				<latitude>55.02427761748402</latitude>
+				<altitude>0</altitude>
+				<heading>0.4456200983159764</heading>
+				<tilt>0</tilt>
+				<range>306.1318886710229</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.10667008776404,55.02398736962655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alsėdžių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267771.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.04691687231314</longitude>
+				<latitude>56.02998320224614</latitude>
+				<altitude>0</altitude>
+				<heading>0.01051531378818659</heading>
+				<tilt>0</tilt>
+				<range>457.8993186030992</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>22.04598008333001,56.03012822091684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus Angelų sargų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267747.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05059076824579</longitude>
+				<latitude>54.39904561736501</latitude>
+				<altitude>0</altitude>
+				<heading>-12.83299980153698</heading>
+				<tilt>0</tilt>
+				<range>320.0027326855163</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.05059076824579,54.39904561736502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus Mergelės Marijos krikščionių pagalbos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267754.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.01068409849903</longitude>
+				<latitude>54.40034939009781</latitude>
+				<altitude>0</altitude>
+				<heading>-12.51307704238542</heading>
+				<tilt>0</tilt>
+				<range>502.8631496378426</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.01042485983222,54.39992555855758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus šv Kazimiero bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267760.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05480107973088</longitude>
+				<latitude>54.38371318635775</latitude>
+				<altitude>0</altitude>
+				<heading>-13.40851767838947</heading>
+				<tilt>14.18710712525011</tilt>
+				<range>295.2483840497609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.0549960704627,54.3835577604664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus šv, Liudviko bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267766.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.06092384082819</longitude>
+				<latitude>54.40462514524517</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1273084486143341</heading>
+				<tilt>0</tilt>
+				<range>510.2773420384439</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.05831710347106,54.40466583510517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anykščių šv Mato bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267777.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.10547911089432</longitude>
+				<latitude>55.52575137102038</latitude>
+				<altitude>0</altitude>
+				<heading>-4.661937860719976</heading>
+				<tilt>0</tilt>
+				<range>860.1560659952049</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.10148671537102,55.52518950787364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apaštalų Petro ir Povilo Bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267780.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.30683779126478</longitude>
+				<latitude>54.69421138073211</latitude>
+				<altitude>0</altitude>
+				<heading>0.7297774902381887</heading>
+				<tilt>0</tilt>
+				<range>297.3812054660969</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.30584933837566,54.69393231276274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arkangelo mykolo bažnyčia, Rumšiškės</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267782.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.20291007135509</longitude>
+				<latitude>54.86023933928929</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008263087771599866</heading>
+				<tilt>3.681796455777056</tilt>
+				<range>259.5572534211635</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.20170942588535,54.86004866782714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arkangelo Rapolo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267784.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.27932709682369</longitude>
+				<latitude>54.69270890066599</latitude>
+				<altitude>0</altitude>
+				<heading>0.3629602070770739</heading>
+				<tilt>0</tilt>
+				<range>206.4114600918293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.27904819462365,54.69248576693025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštadvario bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267787.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.53681063282665</longitude>
+				<latitude>54.57908148888402</latitude>
+				<altitude>0</altitude>
+				<heading>-2.257898430078084</heading>
+				<tilt>0</tilt>
+				<range>496.3025772385442</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.53430955918978,54.57889078098462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aušros vartų koplyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267796.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29015033585112</longitude>
+				<latitude>54.67500196636463</latitude>
+				<altitude>0</altitude>
+				<heading>-4.282190992846475</heading>
+				<tilt>28.65011153582301</tilt>
+				<range>362.0539203162714</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.28952616498281,54.67436078134887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babtų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267800.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.79021724759809</longitude>
+				<latitude>55.13757542551781</latitude>
+				<altitude>0</altitude>
+				<heading>-2.661629022333011</heading>
+				<tilt>0</tilt>
+				<range>832.3147322988154</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.78641104079205,55.13752039110431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bernardinų šv Pranciškaus Asyžiečio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267803.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29447109201531</longitude>
+				<latitude>54.68315045639138</latitude>
+				<altitude>0</altitude>
+				<heading>0.9134862821076542</heading>
+				<tilt>18.22851373037931</tilt>
+				<range>213.6407905392435</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.29352631028725,54.68301691417907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beržoro bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267806.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.81417116823835</longitude>
+				<latitude>56.02571388375804</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004514643743677232</heading>
+				<tilt>0</tilt>
+				<range>758.9202093534423</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>21.81297443649259,56.02531476895432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birštono bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267809.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.03404066897764</longitude>
+				<latitude>54.60172052704273</latitude>
+				<altitude>0</altitude>
+				<heading>-4.333225405871768</heading>
+				<tilt>0</tilt>
+				<range>398.5511634250462</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.03406304705444,54.60164840599647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267813.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.63787754192004</longitude>
+				<latitude>56.18519850595533</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00324870681703688</heading>
+				<tilt>0</tilt>
+				<range>560.6707129658655</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.63787754192004,56.18519850595533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų reformatų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267820.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76335815959496</longitude>
+				<latitude>56.20457065606172</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3952366996047812</heading>
+				<tilt>0</tilt>
+				<range>619.0645754528546</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.76002069706242,56.20457804576122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bobriškių sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267823.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.80475594624636</longitude>
+				<latitude>55.83476778263985</latitude>
+				<altitude>0</altitude>
+				<heading>0.4648658184205995</heading>
+				<tilt>0</tilt>
+				<range>889.4962741124228</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.80453876795959,55.83395211015589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buivydžio šv, Jurgio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267829.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.73383848075876</longitude>
+				<latitude>54.83632176077695</latitude>
+				<altitude>0</altitude>
+				<heading>0.3011655626094669</heading>
+				<tilt>0</tilt>
+				<range>657.5076884649473</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.73161879732577,54.83581759100669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>butkiškės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267868.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.50243708094025</longitude>
+				<latitude>55.2315739712597</latitude>
+				<altitude>0</altitude>
+				<heading>0.7701793659119726</heading>
+				<tilt>0</tilt>
+				<range>1500.538024305089</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.49964651717205,55.2310272228392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Darsūniškio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267872.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.12242709208445</longitude>
+				<latitude>54.7368048613089</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2570468557197806</heading>
+				<tilt>1.980730057791732</tilt>
+				<range>282.5612305763088</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.12026420140364,54.7365922038148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Degučių Vincento Ferero bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267874.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.76340104835761</longitude>
+				<latitude>55.31753558779018</latitude>
+				<altitude>0</altitude>
+				<heading>0.08089642287595433</heading>
+				<tilt>0</tilt>
+				<range>540.0719814524801</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>21.76168134729386,55.31783013735835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didkiemio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267878.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.12680802813439</longitude>
+				<latitude>55.36857671689516</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004706848833713845</heading>
+				<tilt>0</tilt>
+				<range>1127.767536097026</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>22.12081295790838,55.36722891137617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didžioji Kristaus prisikėlimo bažnyčia</name>
+			<description>Didžioji Kristaus prisikėlimo bažnyčia</description>
+			<LookAt>
+				<longitude>23.92237013411328</longitude>
+				<latitude>54.90535721847688</latitude>
+				<altitude>0</altitude>
+				<heading>0.2539363531883099</heading>
+				<tilt>0</tilt>
+				<range>299.1598356188799</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0200</styleUrl>
+			<Point>
+				<coordinates>23.92122293334386,54.90524953163486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Domeikavos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267881.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.92461100008498</longitude>
+				<latitude>54.96877799973573</latitude>
+				<altitude>0</altitude>
+				<heading>6.952056422742955e-011</heading>
+				<tilt>0</tilt>
+				<range>1070.993633421562</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.92461100008498,54.96877799973573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dominikonų Jokūbo ir Pilypo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267884.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.26813014509317</longitude>
+				<latitude>54.69539477832946</latitude>
+				<altitude>0</altitude>
+				<heading>-4.354543958677194</heading>
+				<tilt>49.38786765976595</tilt>
+				<range>1181.15960381429</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.26675720044962,54.69311137651224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dotnuvos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267891.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88987278602232</longitude>
+				<latitude>55.36285726590718</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2035820248900949</heading>
+				<tilt>0</tilt>
+				<range>704.8799137799622</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.88974456214257,55.36373084209235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų  stačiatikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267899.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97127658466729</longitude>
+				<latitude>54.02150167214114</latitude>
+				<altitude>0</altitude>
+				<heading>-1.615052878879955</heading>
+				<tilt>0</tilt>
+				<range>283.4107018715002</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin020000</styleUrl>
+			<Point>
+				<coordinates>23.97099798021796,54.02127063007421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų Mergelės Marijos škaplierinės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267897.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97570142623239</longitude>
+				<latitude>54.01784214832611</latitude>
+				<altitude>0</altitude>
+				<heading>0.1368188730315191</heading>
+				<tilt>0</tilt>
+				<range>496.4463085036644</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin020000</styleUrl>
+			<Point>
+				<coordinates>23.97447960503913,54.01734608621076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elektrėnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267902.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.68242354687316</longitude>
+				<latitude>54.78218055519569</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4061676636666984</heading>
+				<tilt>0</tilt>
+				<range>347.1149402606383</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.68133560606372,54.78232128393881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gertrūdos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267907.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.90581826386256</longitude>
+				<latitude>54.89760353874505</latitude>
+				<altitude>0</altitude>
+				<heading>-2.44614446184564</heading>
+				<tilt>0</tilt>
+				<range>676.2072597436901</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.90148477062451,54.8971688119852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gintališkės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267908.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.72864033703885</longitude>
+				<latitude>56.04881130378463</latitude>
+				<altitude>0</altitude>
+				<heading>0.003001400142688185</heading>
+				<tilt>0</tilt>
+				<range>613.846478240527</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>21.72559912543256,56.04881428372719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Griškabūdžio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267911.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.17088107828738</longitude>
+				<latitude>54.85023809170468</latitude>
+				<altitude>0</altitude>
+				<heading>-1.319517440128931</heading>
+				<tilt>0</tilt>
+				<range>428.9171474514264</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.17099713842971,54.85052761680637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ibėnų sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267914.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.93117472854074</longitude>
+				<latitude>55.05938146829606</latitude>
+				<altitude>0</altitude>
+				<heading>0.3413108875942588</heading>
+				<tilt>0</tilt>
+				<range>613.2381362583698</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.92986617795819,55.05871721756778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inturkės cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267917.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.55841059452589</longitude>
+				<latitude>55.1601113089714</latitude>
+				<altitude>0</altitude>
+				<heading>0.3897443429068069</heading>
+				<tilt>0</tilt>
+				<range>470.3777870394575</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.55560328245994,55.15940880934946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inturkės Mergelės Marijos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267921.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.56575970232722</longitude>
+				<latitude>55.16081322546886</latitude>
+				<altitude>0</altitude>
+				<heading>-2.377457552033601</heading>
+				<tilt>0</tilt>
+				<range>1607.888140213316</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.56191435577019,55.15896792226985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Istorinė Vilniaus rotušė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987566.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28759433956445</longitude>
+				<latitude>54.6781309499563</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1273067315730043</heading>
+				<tilt>0</tilt>
+				<range>692.8096227307049</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank0</styleUrl>
+			<Point>
+				<coordinates>25.28722278967358,54.67824552770663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jiezno bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267927.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.173187803872</longitude>
+				<latitude>54.59931289145509</latitude>
+				<altitude>0</altitude>
+				<heading>0.08224238176994007</heading>
+				<tilt>0</tilt>
+				<range>670.7841411916695</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.17380677436247,54.59927147988433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškio baltoji sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267929.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.61720123350234</longitude>
+				<latitude>56.24053040694965</latitude>
+				<altitude>0</altitude>
+				<heading>-0.198709047760862</heading>
+				<tilt>0</tilt>
+				<range>847.3261804164029</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.61720123350235,56.24053040694966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškio Raudonoji sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267931.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.61759044641524</longitude>
+				<latitude>56.24016470328253</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007502740117070985</heading>
+				<tilt>0</tilt>
+				<range>1000.21225777702</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.61679225907825,56.24024983494165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267934.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.61868444030752</longitude>
+				<latitude>56.24051810523275</latitude>
+				<altitude>0</altitude>
+				<heading>-3.102673385629469</heading>
+				<tilt>0</tilt>
+				<range>786.5733346506808</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.61613933082993,56.24135762894624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juodkrantės Pranciškaus Asyžiečio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267938.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.11922436845522</longitude>
+				<latitude>55.53264115764781</latitude>
+				<altitude>0</altitude>
+				<heading>0.9671102719976384</heading>
+				<tilt>0</tilt>
+				<range>1130.084115699368</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>21.1168744939808,55.53256180103661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jurgeliškės sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267945.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.39575193617432</longitude>
+				<latitude>55.1987566473259</latitude>
+				<altitude>0</altitude>
+				<heading>0.003300833441166678</heading>
+				<tilt>0</tilt>
+				<range>354.8711647894851</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>26.39447588613925,55.19872147316685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jurgio kankinio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267948.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.8890491605646</longitude>
+				<latitude>54.89790026952281</latitude>
+				<altitude>0</altitude>
+				<heading>0.004422889358017791</heading>
+				<tilt>0</tilt>
+				<range>1024.04378570007</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.88333283523324,54.89853071818201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jėzuitų šv Kazimiero bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267925.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28826793869261</longitude>
+				<latitude>54.677706260787</latitude>
+				<altitude>0</altitude>
+				<heading>0.00385060973244182</heading>
+				<tilt>16.68538268813836</tilt>
+				<range>102.3917609853371</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.28806167427866,54.6775602866663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jūžintų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267950.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.67519671419763</longitude>
+				<latitude>55.77378865502633</latitude>
+				<altitude>0</altitude>
+				<heading>0.5859678490575081</heading>
+				<tilt>0</tilt>
+				<range>700.1763514272819</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.67519671419763,55.77378865502633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaišiadorių katedra</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267952.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.45790417478985</longitude>
+				<latitude>54.86050728411767</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007949965866248009</heading>
+				<tilt>0.6740874256881148</tilt>
+				<range>514.8789466846851</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.45698950826207,54.86058208065641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>kaišiadorių vyskupija</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267953.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.45416652549181</longitude>
+				<latitude>54.85908647612654</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001109543346288432</heading>
+				<tilt>0.7629611053459972</tilt>
+				<range>756.7866457430221</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.45472145352601,54.85921068745317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvarijos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267958.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.23132080394932</longitude>
+				<latitude>54.41325625020113</latitude>
+				<altitude>0</altitude>
+				<heading>0.002290308835233038</heading>
+				<tilt>0</tilt>
+				<range>245.2185777393693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.23075117751793,54.41335764517783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvarijos Vasarinė ir žieminė sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267961.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.23471283733829</longitude>
+				<latitude>54.41585489126575</latitude>
+				<altitude>0</altitude>
+				<heading>0.001152249837845381</heading>
+				<tilt>0</tilt>
+				<range>1011.90977257372</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.23342800483246,54.41454539746339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvarijų ir kryžiaus atradimo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267967.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28003220805459</longitude>
+				<latitude>54.74027222281661</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008824461333119334</heading>
+				<tilt>0</tilt>
+				<range>298.5164492572173</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.27892590334139,54.74038879391626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267974.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.28935950030407</longitude>
+				<latitude>54.70958552474616</latitude>
+				<altitude>0</altitude>
+				<heading>0.00192581831243074</heading>
+				<tilt>0</tilt>
+				<range>1182.398396178907</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.28358148449576,54.70915710963102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno arkikatedra bazilika</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267975.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88888713006493</longitude>
+				<latitude>54.89732501813344</latitude>
+				<altitude>0</altitude>
+				<heading>0.6834599919872587</heading>
+				<tilt>0</tilt>
+				<range>345.796995697024</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.88881919514826,54.89704177222207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno Mikalojaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267980.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.89414740217818</longitude>
+				<latitude>54.89968386634433</latitude>
+				<altitude>0</altitude>
+				<heading>-4.30088954629853</heading>
+				<tilt>0</tilt>
+				<range>336.4513913813037</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.89347129936121,54.89910141283752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno soboras</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69267996.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.92129522065818</longitude>
+				<latitude>54.89741581232763</latitude>
+				<altitude>0</altitude>
+				<heading>-8.951980929475052</heading>
+				<tilt>0</tilt>
+				<range>432.7714407580531</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.92103808172565,54.89726168961981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno totorių mečetė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268019.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.92824901613142</longitude>
+				<latitude>54.89461653812255</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8936032525609731</heading>
+				<tilt>4.798910929668061</tilt>
+				<range>171.1453385472215</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.92819703117518,54.89442281086571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno Šv. Mikalojaus sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268002.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.92044725922401</longitude>
+				<latitude>54.90837253410841</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08664842787730609</heading>
+				<tilt>0</tilt>
+				<range>278.2364560518134</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.91976483301107,54.90812230566581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno švč trejybės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268014.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88580599973265</longitude>
+				<latitude>54.89764496995001</latitude>
+				<altitude>0</altitude>
+				<heading>-2.901363481708556</heading>
+				<tilt>12.52312144312132</tilt>
+				<range>233.3311938257354</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.88556737971557,54.89762901085734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kavarsko bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268022.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.93047954279201</longitude>
+				<latitude>55.43271551123149</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01259113946082029</heading>
+				<tilt>0</tilt>
+				<range>540.3482309113523</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.92709521482596,55.43278162223513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazlų Rūdos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268027.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.49019133497064</longitude>
+				<latitude>54.74892614361978</latitude>
+				<altitude>0</altitude>
+				<heading>-2.829319837709764</heading>
+				<tilt>7.834368950013728</tilt>
+				<range>207.8118787128439</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>23.48964102657055,54.74896384556301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazokiškių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268038.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.84260074099698</longitude>
+				<latitude>54.81716053392275</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06049639698411686</heading>
+				<tilt>0</tilt>
+				<range>488.7628796785152</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.84052388103549,54.81680013729856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelmės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268077.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.93309443362786</longitude>
+				<latitude>55.63329667731113</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2285935976413928</heading>
+				<tilt>0</tilt>
+				<range>427.8391181307204</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>22.93135895178246,55.63353642353436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kernavės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268083.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.85231958894035</longitude>
+				<latitude>54.88485382862911</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7308302992689419</heading>
+				<tilt>0</tilt>
+				<range>440.2055634255401</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>24.85231958894035,54.88485382862911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keturiasdešimt totorių kaimo mečetė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268100.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.1682280596774</longitude>
+				<latitude>54.56246345770475</latitude>
+				<altitude>0</altitude>
+				<heading>0.3789627497997573</heading>
+				<tilt>0</tilt>
+				<range>849.2710590129775</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02000</styleUrl>
+			<Point>
+				<coordinates>25.16863338148052,54.56182004735918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos Šv. Juozapo Darbininko bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268109.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.18576477087017</longitude>
+				<latitude>55.66865430918151</latitude>
+				<altitude>0</altitude>
+				<heading>0.00108819039421215</heading>
+				<tilt>0</tilt>
+				<range>998.7917886029744</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank6</styleUrl>
+			<Point>
+				<coordinates>21.18597386859463,55.66775156319465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klaipėdos Švč. Mergelės Marijos Taikos Karalienės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268116.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.14728880885396</longitude>
+				<latitude>55.70550558128527</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004732273292543989</heading>
+				<tilt>0</tilt>
+				<range>999.6613161488806</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.14546867630286,55.70537570328013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klarisės vienuolynas Kretingoje</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268129.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.24149487181589</longitude>
+				<latitude>55.88241063305496</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9983628214684643</heading>
+				<tilt>0</tilt>
+				<range>658.7298084714279</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.23995477187038,55.88202290395757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kražių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268135.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.69589895281445</longitude>
+				<latitude>55.60133615919531</latitude>
+				<altitude>0</altitude>
+				<heading>0.1635252619546389</heading>
+				<tilt>3.661680223339432</tilt>
+				<range>1242.150190536784</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.69319935151894,55.60062550764861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krekenavos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268147.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.0994589355302</longitude>
+				<latitude>55.54586839353416</latitude>
+				<altitude>0</altitude>
+				<heading>-1.606588198573736</heading>
+				<tilt>0</tilt>
+				<range>614.6409981765795</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.09818404436375,55.54593664862445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos viešpaties apreiškimo Marijai bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268159.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.24199848250826</longitude>
+				<latitude>55.89156455645124</latitude>
+				<altitude>0</altitude>
+				<heading>-1.413330290365884</heading>
+				<tilt>0</tilt>
+				<range>541.2882961156713</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.24241900794625,55.89179912291689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kruonio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268199.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.24255941248702</longitude>
+				<latitude>54.75583154749644</latitude>
+				<altitude>0</altitude>
+				<heading>0.8535121504761022</heading>
+				<tilt>31.52954019107721</tilt>
+				<range>769.0025796418719</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.23921575749801,54.75582571050203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kryžiaus bažnyčia (karmelitų)</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268181.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.91913658411294</longitude>
+				<latitude>54.89100176440005</latitude>
+				<altitude>0</altitude>
+				<heading>1.479039415553574</heading>
+				<tilt>0</tilt>
+				<range>1067.771387766811</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.91975887293508,54.88959367854583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kudirkos Naumiesčio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268206.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.86377670150335</longitude>
+				<latitude>54.77648950975731</latitude>
+				<altitude>0</altitude>
+				<heading>-0.509610363092819</heading>
+				<tilt>0</tilt>
+				<range>501.5454805503597</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.86299096686964,54.77610302110629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kupiškio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268210.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.97655498499643</longitude>
+				<latitude>55.84176705133181</latitude>
+				<altitude>0</altitude>
+				<heading>-10.29534907212963</heading>
+				<tilt>0</tilt>
+				<range>784.4523377340476</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.97648477352272,55.84194294593608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurtuvėnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268221.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.05305701976714</longitude>
+				<latitude>55.82842343399265</latitude>
+				<altitude>0</altitude>
+				<heading>-9.361612835674594</heading>
+				<tilt>6.684548020191928</tilt>
+				<range>880.8555744275959</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.04784480959707,55.82792939508602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kybartų Šv. Aleksandro Neviškio cerkvės pastatų kompleksas</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268100.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.76804566838265</longitude>
+				<latitude>54.64150248078066</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2284733805838466</heading>
+				<tilt>0</tilt>
+				<range>1859.011802005902</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.76226835234764,54.63873732306963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių Juozapo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268042.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.98138799056621</longitude>
+				<latitude>55.28716918646092</latitude>
+				<altitude>0</altitude>
+				<heading>-3.249677977265549</heading>
+				<tilt>0</tilt>
+				<range>883.0106046600623</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.97782867293771,55.28632625860139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių Jurgio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268048.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.25265321177639</longitude>
+				<latitude>55.28104105913354</latitude>
+				<altitude>0</altitude>
+				<heading>-9.424633850827457</heading>
+				<tilt>0</tilt>
+				<range>650.3924629782521</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.25199788587651,55.28083212993073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių liuteronų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268054.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97196805220774</longitude>
+				<latitude>55.28557514511185</latitude>
+				<altitude>0</altitude>
+				<heading>-1.402123959131773</heading>
+				<tilt>0</tilt>
+				<range>665.4438068911525</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.97052335365707,55.28563307071638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių reformatų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268066.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.98256997380791</longitude>
+				<latitude>55.28675449936949</latitude>
+				<altitude>0</altitude>
+				<heading>-3.248706364795268</heading>
+				<tilt>0</tilt>
+				<range>362.5715209186968</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.98053589762917,55.28632905401979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Labanoro bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268225.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.77483183046354</longitude>
+				<latitude>55.26903380686057</latitude>
+				<altitude>0</altitude>
+				<heading>0.3703785445439945</heading>
+				<tilt>0</tilt>
+				<range>1102.953140436975</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.7720720593778,55.26751214693021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268229.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.00781418746531</longitude>
+				<latitude>54.97486388776553</latitude>
+				<altitude>0</altitude>
+				<heading>0.08764271852598375</heading>
+				<tilt>0</tilt>
+				<range>365.3502596725234</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.00838493857181,54.97521628500416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laukuvos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268234.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.23500192171997</longitude>
+				<latitude>55.61922777176455</latitude>
+				<altitude>0</altitude>
+				<heading>0.001242002722537671</heading>
+				<tilt>0</tilt>
+				<range>510.6252560717762</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.23278731510917,55.61952378403822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linkuvos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268240.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97710147932419</longitude>
+				<latitude>56.08428165662068</latitude>
+				<altitude>0</altitude>
+				<heading>-3.968411688715493</heading>
+				<tilt>0</tilt>
+				<range>439.7276168621025</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.97450607211854,56.08483722193629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linkuvos sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268243.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97114166096582</longitude>
+				<latitude>56.08591862936621</latitude>
+				<altitude>0</altitude>
+				<heading>0.2181836808847646</heading>
+				<tilt>0</tilt>
+				<range>344.8089324576678</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.97016015807228,56.08561264556594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liolių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268245.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.95772584196023</longitude>
+				<latitude>55.55806971925221</latitude>
+				<altitude>0</altitude>
+				<heading>0.009751745109713064</heading>
+				<tilt>0</tilt>
+				<range>1209.57858455364</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.95182887904232,55.55757044056549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liškiavos švč Trejybės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268248.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05956300023222</longitude>
+				<latitude>54.08085803439057</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08986034762078139</heading>
+				<tilt>0</tilt>
+				<range>777.0361256276359</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.05684531335825,54.08047342112594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maišiagalos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268251.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.0660123689126</longitude>
+				<latitude>54.86865789992122</latitude>
+				<altitude>0</altitude>
+				<heading>0.002565127127916179</heading>
+				<tilt>0</tilt>
+				<range>230.249401146427</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.06522014135926,54.86855870283709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcinkonių Simono ir Judo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268258.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.39191324144425</longitude>
+				<latitude>54.07119204375775</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9928807942654018</heading>
+				<tilt>0</tilt>
+				<range>523.7773930984008</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.39011884496022,54.07057740631893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijampolės arkangelo Mykolo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268263.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.34770601886497</longitude>
+				<latitude>54.55558466469351</latitude>
+				<altitude>0</altitude>
+				<heading>-1.474823619736323</heading>
+				<tilt>0</tilt>
+				<range>513.7108944868148</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.34495622413681,54.55529435757706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijampolės cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268268.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.34802377169379</longitude>
+				<latitude>54.54881670887555</latitude>
+				<altitude>0</altitude>
+				<heading>0.001458068449118169</heading>
+				<tilt>34.58502748284256</tilt>
+				<range>544.650522625974</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.34646057566711,54.54834851659733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijampolės sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268271.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.35186338576994</longitude>
+				<latitude>54.55620746218602</latitude>
+				<altitude>0</altitude>
+				<heading>0.07180751138518035</heading>
+				<tilt>0</tilt>
+				<range>288.1334639884908</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.35195871674477,54.55606681030492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažeikių Jėzaus širdies bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268273.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.34894342123986</longitude>
+				<latitude>56.31446493907664</latitude>
+				<altitude>0</altitude>
+				<heading>0.1085820939582837</heading>
+				<tilt>0</tilt>
+				<range>601.5798532493388</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.34709200565185,56.31456075532819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažoji Kristaus prisikėlimo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268276.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.92237013411328</longitude>
+				<latitude>54.90535721847688</latitude>
+				<altitude>0</altitude>
+				<heading>0.2539363531883099</heading>
+				<tilt>0</tilt>
+				<range>299.1598356188799</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.92087384528326,54.90553870106269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mergelės Marijos nekaltojo prasidėjimo bažnyčia - vilnius</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268281.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.25192447130786</longitude>
+				<latitude>54.69816839425191</latitude>
+				<altitude>0</altitude>
+				<heading>-3.223767379294511</heading>
+				<tilt>0</tilt>
+				<range>224.4502838435723</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.25230978127621,54.69809814733387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merkinės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268285.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.18468462468386</longitude>
+				<latitude>54.16211008501345</latitude>
+				<altitude>0</altitude>
+				<heading>-1.137714132989016</heading>
+				<tilt>0</tilt>
+				<range>513.590985297209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.18481565870588,54.16165477977922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merkinės cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268290.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.1856935026005</longitude>
+				<latitude>54.16295689397829</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009108058224218364</heading>
+				<tilt>0</tilt>
+				<range>297.3073464621216</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.18533573526204,54.16278791775386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Molėtų Petro ir Povilo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268298.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.4247011276419</longitude>
+				<latitude>55.23426008835751</latitude>
+				<altitude>0</altitude>
+				<heading>0.002069034190951774</heading>
+				<tilt>0</tilt>
+				<range>598.0947821488402</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.42417976186954,55.23404414326889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Musninkų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268304.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.84604725769085</longitude>
+				<latitude>54.9479375198393</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008589941305144998</heading>
+				<tilt>0</tilt>
+				<range>906.0576992796357</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.84117265645514,54.94937892074684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mykolo arkangelo cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268294.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28330913681751</longitude>
+				<latitude>54.7019504983508</latitude>
+				<altitude>0</altitude>
+				<heading>17.44597868520718</heading>
+				<tilt>9.402891350930442</tilt>
+				<range>194.5367962888227</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.28355824280845,54.70148363697693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujoji žagarės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268309.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.25685275277423</longitude>
+				<latitude>56.35984120033294</latitude>
+				<altitude>0</altitude>
+				<heading>-6.067135429531319</heading>
+				<tilt>0</tilt>
+				<range>1167.075473386143</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.25588771415859,56.36010896640158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujosios vilnios bažnyčia - šv. Kaimiero</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268315.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.41033764003205</longitude>
+				<latitude>54.69639906376216</latitude>
+				<altitude>0</altitude>
+				<heading>0.1808752010613261</heading>
+				<tilt>0</tilt>
+				<range>503.1066241300469</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.41042601530405,54.69720536718473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujosios Vilnios Šv. Petro ir Povilo cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268320.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.39815593172829</longitude>
+				<latitude>54.69534954567588</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7073976083945764</heading>
+				<tilt>11.89164986103518</tilt>
+				<range>268.0746464259895</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.39752974264766,54.69511880106987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemajūnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268330.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.07650931066436</longitude>
+				<latitude>54.5592428997179</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08822211472168268</heading>
+				<tilt>0</tilt>
+				<range>418.4701855157344</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.07637356428074,54.55958484601643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemenčinės Arkangelo mykolo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268333.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.46222007493298</longitude>
+				<latitude>54.84952589558828</latitude>
+				<altitude>0</altitude>
+				<heading>2.468830656579936</heading>
+				<tilt>12.05336259073941</tilt>
+				<range>281.6743815040354</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.46115358839849,54.84906976502062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemunaičio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268345.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.02104334318613</longitude>
+				<latitude>54.30235053364489</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003965769672697906</heading>
+				<tilt>0</tilt>
+				<range>580.6872440137449</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.01978829562917,54.30209669573577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemėžio totorių mečetė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268338.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.35795273695926</longitude>
+				<latitude>54.63599723063613</latitude>
+				<altitude>0</altitude>
+				<heading>1.066670498053088</heading>
+				<tilt>0</tilt>
+				<range>379.1452507484499</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.35716073130848,54.63556727954877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nidos evangelikų liuteronų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268351.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.00744687038435</longitude>
+				<latitude>55.30876535259415</latitude>
+				<altitude>0</altitude>
+				<heading>0.9105497306287521</heading>
+				<tilt>0</tilt>
+				<range>288.4456024395182</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.00689196600396,55.309169143223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nidos krikščionių pagalbos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268357.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.00169859238034</longitude>
+				<latitude>55.30257955422404</latitude>
+				<altitude>0</altitude>
+				<heading>0.932197074553057</heading>
+				<tilt>0</tilt>
+				<range>591.3379591380688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.00099835557981,55.30249930352717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Norviliškių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69304258.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.76517391734723</longitude>
+				<latitude>54.23604595930035</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08293594036802057</heading>
+				<tilt>0</tilt>
+				<range>1966.155781918839</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.76026373103946,54.23663747296969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paberžės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268362.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.97100711475681</longitude>
+				<latitude>55.50388624193396</latitude>
+				<altitude>0</altitude>
+				<heading>4.691834616300457</heading>
+				<tilt>0</tilt>
+				<range>1028.587865996322</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.9650229888412,55.50403211553284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pagramančio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268368.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.23623307744857</longitude>
+				<latitude>55.36479249190177</latitude>
+				<altitude>0</altitude>
+				<heading>1.654017189536832</heading>
+				<tilt>0</tilt>
+				<range>1194.266828202572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.23108129706985,55.36312518850368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268369.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.85796670336969</longitude>
+				<latitude>55.97986650814625</latitude>
+				<altitude>0</altitude>
+				<heading>0.2566324827161324</heading>
+				<tilt>0</tilt>
+				<range>948.8291836728</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.85447219708869,55.98032447088347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268372.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.85030967483413</longitude>
+				<latitude>55.97954826302856</latitude>
+				<altitude>0</altitude>
+				<heading>0.02603295456234958</heading>
+				<tilt>0</tilt>
+				<range>552.9024785856743</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.84967733857094,55.97913547544604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palangos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268378.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.06687229468482</longitude>
+				<latitude>55.91775674204116</latitude>
+				<altitude>0</altitude>
+				<heading>0.2142387844567695</heading>
+				<tilt>0</tilt>
+				<range>378.4544019164578</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.06560099447608,55.91739304046878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palėvenės vienuolynas</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268380.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.88920969229361</longitude>
+				<latitude>55.80224880565825</latitude>
+				<altitude>0</altitude>
+				<heading>0.006966740483991543</heading>
+				<tilt>0</tilt>
+				<range>1642.910291358117</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.8815225937065,55.80313319080241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palūšės šv Juozapo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268385.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.103454592026</longitude>
+				<latitude>55.32839351420317</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07133979043654191</heading>
+				<tilt>0</tilt>
+				<range>270.5139810188963</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>26.10347321848944,55.32821132387947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio katedra</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268387.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.36025849609393</longitude>
+				<latitude>55.72325369153068</latitude>
+				<altitude>0</altitude>
+				<heading>0.003328861107331486</heading>
+				<tilt>0</tilt>
+				<range>903.8900750600192</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.35654154210145,55.72305619166708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio Petro ir Povilo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268389.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.37044966064544</longitude>
+				<latitude>55.73238719388534</latitude>
+				<altitude>0</altitude>
+				<heading>-3.620639737218315</heading>
+				<tilt>0</tilt>
+				<range>676.7595766269184</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.36889954115943,55.73241145136633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268391.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.35415486748461</longitude>
+				<latitude>55.73195944253007</latitude>
+				<altitude>0</altitude>
+				<heading>0.8283552942570593</heading>
+				<tilt>0</tilt>
+				<range>308.091936139326</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.35415486748461,55.73195944253007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžiuko bažnyčia</name>
+			<LookAt>
+				<longitude>23.79304547784965</longitude>
+				<latitude>55.14241833460995</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9516284912387729</heading>
+				<tilt>0</tilt>
+				<range>672.0353202676843</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank20</styleUrl>
+			<Point>
+				<coordinates>23.79029269578641,55.14292724718423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžiuko Jėzaus nukryžiuotojo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268392.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.78648795491742</longitude>
+				<latitude>55.13209920132507</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9570093295717485</heading>
+				<tilt>0</tilt>
+				<range>673.1558005334397</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.78289366251955,55.13258072414426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paparčių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268394.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.73342924853256</longitude>
+				<latitude>54.90217714443035</latitude>
+				<altitude>0</altitude>
+				<heading>0.0153193785121184</heading>
+				<tilt>7.347122342955964</tilt>
+				<range>412.2891739481947</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.73058312921743,54.90232364045622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasvalio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268397.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.40167357625676</longitude>
+				<latitude>56.06068566427827</latitude>
+				<altitude>0</altitude>
+				<heading>-4.053016397113221</heading>
+				<tilt>0</tilt>
+				<range>1203.134968136375</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.39821591995974,56.06104213711545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pažaislio vienuolynas</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268401.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.0211124054921</longitude>
+				<latitude>54.87817088813834</latitude>
+				<altitude>0</altitude>
+				<heading>3.741728587650761</heading>
+				<tilt>0</tilt>
+				<range>1584.005976905008</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.02024327617977,54.87605516933191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pivašiūnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268404.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.37239097362433</longitude>
+				<latitude>54.46041413257699</latitude>
+				<altitude>0</altitude>
+				<heading>3.821548254256697</heading>
+				<tilt>0</tilt>
+				<range>796.1255223266896</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.37158859854885,54.46082304031034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platelių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268412.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.81855799070398</longitude>
+				<latitude>56.0401830937485</latitude>
+				<altitude>0</altitude>
+				<heading>0.08508090853724584</heading>
+				<tilt>0</tilt>
+				<range>680.7181215331769</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.8169766286131,56.04065993884818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plungės evangelistų bažnyčia</name>
+			<description>Plungės evangelistų bažnyčia</description>
+			<LookAt>
+				<longitude>21.8525227364929</longitude>
+				<latitude>55.91178547861931</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3513304205922945</heading>
+				<tilt>0</tilt>
+				<range>377.0580173131838</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank20</styleUrl>
+			<Point>
+				<coordinates>21.85238718202815,55.91129122661771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plungės Jono krikštytojo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268413.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.8399804296143</longitude>
+				<latitude>55.91426543721585</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7474318266550598</heading>
+				<tilt>0</tilt>
+				<range>460.5237172546463</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.83839626978125,55.91356808597929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Požerės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268415.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.30948547199209</longitude>
+				<latitude>55.63519130015178</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01178782096507693</heading>
+				<tilt>0</tilt>
+				<range>1399.772849464616</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>22.30027928370585,55.63421821786042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pranciškonų vienuolynas</name>
+			<description>Pranciškonų vienuolynas</description>
+			<LookAt>
+				<longitude>23.42118421012721</longitude>
+				<latitude>56.01709054012805</latitude>
+				<altitude>0</altitude>
+				<heading>-3.564156902684845</heading>
+				<tilt>34.71661398886917</tilt>
+				<range>246.9858823759402</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin020</styleUrl>
+			<Point>
+				<coordinates>23.42079297810423,56.01711174450704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prezidentūra</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987364.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29100083312017</longitude>
+				<latitude>54.68414375003655</latitude>
+				<altitude>0</altitude>
+				<heading>2.985737996177746</heading>
+				<tilt>0</tilt>
+				<range>968.6729485788912</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank10</styleUrl>
+			<Point>
+				<coordinates>25.28590543065459,54.68336497634454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prienų Kristaus apsireiškimo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268419.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.9491839077953</longitude>
+				<latitude>54.63490505159724</latitude>
+				<altitude>0</altitude>
+				<heading>0.02178245811293697</heading>
+				<tilt>6.247365682314683</tilt>
+				<range>143.9037598048456</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.9491839077953,54.63490505159723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pumpėnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268421.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.347732775506</longitude>
+				<latitude>55.93603952297524</latitude>
+				<altitude>0</altitude>
+				<heading>0.004323288511992668</heading>
+				<tilt>0</tilt>
+				<range>1037.510983571553</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.34204855402454,55.93528505303277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raguvos sinagoga</name>
+			<description>nėra nuotraukos</description>
+			<LookAt>
+				<longitude>24.62480369648899</longitude>
+				<latitude>55.56571317188276</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002612034225421057</heading>
+				<tilt>0</tilt>
+				<range>1001.110669692519</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank100</styleUrl>
+			<Point>
+				<coordinates>24.62460527609599,55.56602284332944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raižių totorių mečetė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268424.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.18796902599921</longitude>
+				<latitude>54.48074106069688</latitude>
+				<altitude>0</altitude>
+				<heading>0.05172863268496415</heading>
+				<tilt>0</tilt>
+				<range>269.7109031662674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.18760325375114,54.48005506735903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raseinių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268429.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.12710299985939</longitude>
+				<latitude>55.37855942784748</latitude>
+				<altitude>0</altitude>
+				<heading>0.08816038202431245</heading>
+				<tilt>0</tilt>
+				<range>1395.379871698702</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.12185919395999,55.37875835603519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudondvario kūdikėlio Jėzaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268433.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.78379156275318</longitude>
+				<latitude>54.93549765408341</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007993108367745426</heading>
+				<tilt>0</tilt>
+				<range>583.2826736895432</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.78361250779272,54.93548296028293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rietavo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268434.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.9336925928893</longitude>
+				<latitude>55.72296554826464</latitude>
+				<altitude>0</altitude>
+				<heading>1.145780299175171</heading>
+				<tilt>0</tilt>
+				<range>321.9268200368516</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.93299853217536,55.72310919726827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokiškio šv Mato bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268445.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.58767072619586</longitude>
+				<latitude>55.96493483446049</latitude>
+				<altitude>0</altitude>
+				<heading>0.04128988872479491</heading>
+				<tilt>0</tilt>
+				<range>844.9370731003609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>25.58407818814538,55.96429118956813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rozalimo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268448.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88450159425069</longitude>
+				<latitude>55.89291580604879</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02072053756142312</heading>
+				<tilt>0</tilt>
+				<range>433.8388101146408</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>23.88177995208579,55.89238952667688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rukų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268450.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.80976230987823</longitude>
+				<latitude>55.18955399262059</latitude>
+				<altitude>0</altitude>
+				<heading>0.6071584229023813</heading>
+				<tilt>0</tilt>
+				<range>1407.554144571354</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.80023455909745,55.18802923859184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rumbonių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268454.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.05055718537612</longitude>
+				<latitude>54.46872538506014</latitude>
+				<altitude>0</altitude>
+				<heading>0.004411584022347212</heading>
+				<tilt>0</tilt>
+				<range>1682.880069827071</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.05494327598179,54.46616009990985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rusnės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268457.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.37921871717309</longitude>
+				<latitude>55.29828288556459</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03279067416697508</heading>
+				<tilt>0</tilt>
+				<range>968.1883893926937</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.37607050297441,55.297284227704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rykantų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268443.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.98300217603731</longitude>
+				<latitude>54.71524809477788</latitude>
+				<altitude>0</altitude>
+				<heading>4.83993877860097</heading>
+				<tilt>0</tilt>
+				<range>306.1833764200178</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>24.98204113155611,54.71519257979722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salako bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268459.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.14358260410141</longitude>
+				<latitude>55.58394566168574</latitude>
+				<altitude>0</altitude>
+				<heading>0.004506369598403568</heading>
+				<tilt>0</tilt>
+				<range>1183.60888043368</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>26.14109832404186,55.58405077887378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salantų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268460.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.57224986074857</longitude>
+				<latitude>56.05847745278138</latitude>
+				<altitude>0</altitude>
+				<heading>2.713578837262092</heading>
+				<tilt>0</tilt>
+				<range>937.5579219816051</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank2</styleUrl>
+			<Point>
+				<coordinates>21.56893995684467,56.05838242403135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sasnavos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268464.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.47163330399325</longitude>
+				<latitude>54.65034537300656</latitude>
+				<altitude>0</altitude>
+				<heading>0.1748531988318535</heading>
+				<tilt>0</tilt>
+				<range>1539.361580435366</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank4</styleUrl>
+			<Point>
+				<coordinates>23.46502799133474,54.64936413976589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sedos Jono Nepomuko bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268466.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.09194561884271</longitude>
+				<latitude>56.16636394989001</latitude>
+				<altitude>0</altitude>
+				<heading>-2.637693493558621</heading>
+				<tilt>0</tilt>
+				<range>1691.069950188626</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.08127561977444,56.16890955260378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sedos Mergelės Marijos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268469.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.09183561279148</longitude>
+				<latitude>56.16536950743009</latitude>
+				<altitude>0</altitude>
+				<heading>-2.713126992736609</heading>
+				<tilt>0</tilt>
+				<range>912.8258656334466</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.0897097014461,56.16408605723294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Semeliškių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268471.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.65502202983059</longitude>
+				<latitude>54.66678674855607</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04697591291087993</heading>
+				<tilt>0</tilt>
+				<range>624.2868224749468</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.65250091337964,54.66654248561676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senoji Kražių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268474.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.69491459872831</longitude>
+				<latitude>55.60557535557535</latitude>
+				<altitude>0</altitude>
+				<heading>-0.156261718188382</heading>
+				<tilt>3.660560121434738</tilt>
+				<range>693.5812538060746</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.69252879769725,55.60577642371376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senoji Vilniaus observatorija</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268479.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.25309624961447</longitude>
+				<latitude>54.6828654096104</latitude>
+				<altitude>0</altitude>
+				<heading>0.05699721271112394</heading>
+				<tilt>0</tilt>
+				<range>664.3096103995362</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.25309624961447,54.6828654096104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senosios Žagarės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268483.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.25231369139591</longitude>
+				<latitude>56.36210212935252</latitude>
+				<altitude>0</altitude>
+				<heading>-4.38460260525925</heading>
+				<tilt>0</tilt>
+				<range>519.3127709439052</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.25140297040097,56.36155348201798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seredžiaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268487.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.41532323306415</longitude>
+				<latitude>55.08184786763582</latitude>
+				<altitude>0</altitude>
+				<heading>-6.805321427768168</heading>
+				<tilt>0</tilt>
+				<range>739.6506555425083</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.41475287660957,55.08145857176751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Simno bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268491.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64788153930476</longitude>
+				<latitude>54.3836449206117</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4561738209704215</heading>
+				<tilt>0</tilt>
+				<range>704.1316954756001</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.64472295839093,54.3836903752624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skarulių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268493.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.31858681755924</longitude>
+				<latitude>55.07857015051015</latitude>
+				<altitude>0</altitude>
+				<heading>0.005054007558514101</heading>
+				<tilt>0</tilt>
+				<range>2213.112202564391</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.31120956567125,55.07860390515488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skaudvilės Kryžiaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268495.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.58183840543111</longitude>
+				<latitude>55.40713891661648</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001612295719014367</heading>
+				<tilt>0</tilt>
+				<range>568.6257903262072</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.58032315363955,55.40699689539893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smilgių Jurgio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268496.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.02820197539585</longitude>
+				<latitude>55.80349226993439</latitude>
+				<altitude>0</altitude>
+				<heading>0.01689766749456347</heading>
+				<tilt>0</tilt>
+				<range>2088.824586317322</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.01543238603295,55.80364039443126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smilgių Šv. Jono Krikštytojo sentikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268500.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.02462727761619</longitude>
+				<latitude>55.94530138258084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3200423322919784</heading>
+				<tilt>0</tilt>
+				<range>830.4124725167794</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.02372287348252,55.94491164087733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stakliškių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268502.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.32225319742973</longitude>
+				<latitude>54.59113205422982</latitude>
+				<altitude>0</altitude>
+				<heading>-1.077767071184077</heading>
+				<tilt>0</tilt>
+				<range>549.4532270077164</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.32435492426458,54.59084797112553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stelmužės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268504.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.21735177820651</longitude>
+				<latitude>55.82667235672182</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003327806013991697</heading>
+				<tilt>0</tilt>
+				<range>764.2438757683759</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>26.21556423210252,55.82669743975437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sudervės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268508.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.08453332481643</longitude>
+				<latitude>54.78054174141042</latitude>
+				<altitude>0</altitude>
+				<heading>-5.629744213726109</heading>
+				<tilt>0</tilt>
+				<range>328.3709755288015</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.08494153727813,54.78004628052546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tabariškio medinė bažnčia</name>
+			<description>a</description>
+			<LookAt>
+				<longitude>25.60665995746676</longitude>
+				<latitude>54.43959194024124</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1151617957569328</heading>
+				<tilt>0</tilt>
+				<range>378.2474072273061</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.60697723080814,54.43926216723519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taujėnų Kryžiaus išaukštinimo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268576.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76559298167971</longitude>
+				<latitude>55.39054321719991</latitude>
+				<altitude>0</altitude>
+				<heading>0.08140022330789759</heading>
+				<tilt>0</tilt>
+				<range>1612.508270021837</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.76029854754416,55.39045249318433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragės Martyno Mažvydo liuteronų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268583.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.29151511483902</longitude>
+				<latitude>55.25182141894997</latitude>
+				<altitude>0</altitude>
+				<heading>-3.756196751511451</heading>
+				<tilt>0</tilt>
+				<range>847.7426895819014</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.29137010609684,55.25225410733047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragės švč Trejybės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268585.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.29114840902985</longitude>
+				<latitude>55.25098594924165</latitude>
+				<altitude>0</altitude>
+				<heading>-3.776972402188254</heading>
+				<tilt>0</tilt>
+				<range>1361.508169350739</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.28457703220212,55.24875498538706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Telšių Antano Paduviečio katedra</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268587.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.24910374452538</longitude>
+				<latitude>55.98163413098416</latitude>
+				<altitude>0</altitude>
+				<heading>-5.164339154167087</heading>
+				<tilt>0</tilt>
+				<range>958.1215978594801</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.24526609904918,55.9822267232552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tenenių Šv. Barboros bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268598.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.91462069804028</longitude>
+				<latitude>55.46171246988943</latitude>
+				<altitude>0</altitude>
+				<heading>0.006407745783550336</heading>
+				<tilt>0</tilt>
+				<range>567.4940891825822</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.91181807248403,55.46132488373593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų Dievo Motinos cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268606.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.93350115056516</longitude>
+				<latitude>54.64149897800348</latitude>
+				<altitude>0</altitude>
+				<heading>-4.883432431700896</heading>
+				<tilt>0</tilt>
+				<range>487.6290602804184</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.9337308302643,54.64057182934713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų karaimų kenesa</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268609.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.9330141658782</longitude>
+				<latitude>54.64799236659363</latitude>
+				<altitude>0</altitude>
+				<heading>2.029418206717437</heading>
+				<tilt>0</tilt>
+				<range>656.0251491636186</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.93282395184008,54.64768507848936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Telšių sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268594.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.24410317336344</longitude>
+				<latitude>55.98104248677283</latitude>
+				<altitude>0</altitude>
+				<heading>0.000417134350728096</heading>
+				<tilt>0</tilt>
+				<range>498.6288275958646</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.24420331985927,55.9808340527654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų Mergelės Marijos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268614.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.93415299875638</longitude>
+				<latitude>54.64297922655793</latitude>
+				<altitude>0</altitude>
+				<heading>-2.110466981011616</heading>
+				<tilt>0</tilt>
+				<range>278.7371536575605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.93426888606591,54.64278451438824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Troškūnų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268618.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.87240958191588</longitude>
+				<latitude>55.58704002047276</latitude>
+				<altitude>0</altitude>
+				<heading>0.001656234703651945</heading>
+				<tilt>0</tilt>
+				<range>770.0410927772139</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.87036254359207,55.58690627112323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tverečiaus trejybės  bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268619.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.60024606636345</longitude>
+				<latitude>55.31578072722004</latitude>
+				<altitude>0</altitude>
+				<heading>0.001930778642708346</heading>
+				<tilt>0</tilt>
+				<range>1088.813796318499</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>26.6012147095298,55.31351022594913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tverų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268624.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.14975362707644</longitude>
+				<latitude>55.73322789875738</latitude>
+				<altitude>0</altitude>
+				<heading>0.08032218601411438</heading>
+				<tilt>0</tilt>
+				<range>549.4086861128961</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.14797843550235,55.73290406906142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tytuvėnų cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268600.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.19847199923607</longitude>
+				<latitude>55.59639094015371</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01110842929472507</heading>
+				<tilt>0</tilt>
+				<range>209.1956860536412</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.19794305495336,55.59651769059555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tytuvėnų vienuolyno ansamblis</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268605.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.20188444813111</longitude>
+				<latitude>55.59795531756118</latitude>
+				<altitude>0</altitude>
+				<heading>0.004727017778545388</heading>
+				<tilt>0</tilt>
+				<range>634.062277439836</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.19979874933771,55.59772626407556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ugionių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268628.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.36237640079403</longitude>
+				<latitude>55.31666092104282</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07615893694015082</heading>
+				<tilt>0</tilt>
+				<range>677.0380247724726</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.36192113479083,55.31611347613138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės Petro ir Povilo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268631.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76682786313106</longitude>
+				<latitude>55.25274156398194</latitude>
+				<altitude>0</altitude>
+				<heading>1.025942200579626</heading>
+				<tilt>0</tilt>
+				<range>478.9918810991518</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.76697820356441,55.25291601930059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268635.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76221770670731</longitude>
+				<latitude>55.25097935468929</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1111249760037869</heading>
+				<tilt>0</tilt>
+				<range>330.0628068882188</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.76117704238734,55.251012217834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės švč Trejybės bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268639.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76717150215678</longitude>
+				<latitude>55.25035386374803</latitude>
+				<altitude>0</altitude>
+				<heading>1.048329935160375</heading>
+				<tilt>0</tilt>
+				<range>849.8120714534089</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.76232628807551,55.24915646620818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės Švč. Panelės Užtarėjos cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268642.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.76963927773823</longitude>
+				<latitude>55.24920072785776</latitude>
+				<altitude>0</altitude>
+				<heading>0.001236781256461266</heading>
+				<tilt>0</tilt>
+				<range>1001.450482120149</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.76852674086176,55.24871332995492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Upynos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268644.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.44311264498527</longitude>
+				<latitude>55.4507070969312</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2221922443617445</heading>
+				<tilt>0</tilt>
+				<range>610.9290818048897</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>22.44041896225202,55.45072034096285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Utenos Kristaus žengimo į dangų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268653.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.6063119687515</longitude>
+				<latitude>55.49469007772564</latitude>
+				<altitude>0</altitude>
+				<heading>-5.723458262314922</heading>
+				<tilt>0</tilt>
+				<range>609.5807313186438</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.60435216430023,55.49362150258952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užuguoščio bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268653.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.39076377601957</longitude>
+				<latitude>54.62363858606789</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05782324217070187</heading>
+				<tilt>0</tilt>
+				<range>1002.599700167999</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.38933333447843,54.62354832900196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vadoklių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268657.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.46823054461182</longitude>
+				<latitude>55.49627996703918</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7728389728473132</heading>
+				<tilt>0</tilt>
+				<range>777.3019553666991</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.46506537991671,55.49663734751169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varnių Aleksandro bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303751.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.37240794935366</longitude>
+				<latitude>55.74221435188869</latitude>
+				<altitude>0</altitude>
+				<heading>0.506030210576496</heading>
+				<tilt>0</tilt>
+				<range>771.7812708379645</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.36890800288795,55.74120917978039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varnių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303754.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.37331847458435</longitude>
+				<latitude>55.74342442309679</latitude>
+				<altitude>0</altitude>
+				<heading>0.5067827952613098</heading>
+				<tilt>0</tilt>
+				<range>769.2046137725201</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.37024708653994,55.74359632335836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varsėdžių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303756.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.38692173165573</longitude>
+				<latitude>55.49777435637981</latitude>
+				<altitude>0</altitude>
+				<heading>0.007256763560022772</heading>
+				<tilt>0</tilt>
+				<range>1657.036330486743</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.37917299521438,55.49534773017944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varėnos bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303748.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.57364617945502</longitude>
+				<latitude>54.20986446809619</latitude>
+				<altitude>0</altitude>
+				<heading>1.547892915331543</heading>
+				<tilt>5.009950070839341</tilt>
+				<range>374.4143867600291</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank</styleUrl>
+			<Point>
+				<coordinates>24.57190251304249,54.2101062682388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veisiejų šv Jurgio bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303761.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.69735703655485</longitude>
+				<latitude>54.1019563542439</latitude>
+				<altitude>0</altitude>
+				<heading>-1.639076299292256</heading>
+				<tilt>0</tilt>
+				<range>857.1869000087546</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.69471762234492,54.10134956091767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veliuonos bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303762.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.27876706947108</longitude>
+				<latitude>55.07769074761996</latitude>
+				<altitude>0</altitude>
+				<heading>2.282982260801414</heading>
+				<tilt>0</tilt>
+				<range>912.2061574911128</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.27560250982775,55.07796131392524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Videniškių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303765.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28099738049614</longitude>
+				<latitude>55.216778578582</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5568780031244377</heading>
+				<tilt>0</tilt>
+				<range>757.7613265421743</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.27655881104108,55.21730654261299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viduklės bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303768.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.8943518548585</longitude>
+				<latitude>55.40324976877064</latitude>
+				<altitude>0</altitude>
+				<heading>0.006373465825025987</heading>
+				<tilt>0</tilt>
+				<range>696.3067905525642</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.89225976681323,55.40270480153027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkaviškio katedra</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303769.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.04337279136342</longitude>
+				<latitude>54.65011560128725</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3288278200471099</heading>
+				<tilt>0</tilt>
+				<range>1482.641280154979</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.03699876816553,54.64860602435486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkyškių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303771.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.13294121075862</longitude>
+				<latitude>55.11740629418831</latitude>
+				<altitude>0</altitude>
+				<heading>1.29205678875537</heading>
+				<tilt>0</tilt>
+				<range>663.1228570931196</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.12914048887742,55.11721924359026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus arkikatedra</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987310.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28823363567746</longitude>
+				<latitude>54.68611428250249</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2510356644838609</heading>
+				<tilt>0</tilt>
+				<range>233.6897285501299</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank200</styleUrl>
+			<Point>
+				<coordinates>25.28716810964294,54.68575667608373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus choralinė sinagoga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303774.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28215597771588</longitude>
+				<latitude>54.67693759975076</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003034965858836757</heading>
+				<tilt>0</tilt>
+				<range>1002.755610092916</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28171422110611,54.67598314083688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus karaimų kenesa</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303776.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.25507999689472</longitude>
+				<latitude>54.68944559311578</latitude>
+				<altitude>0</altitude>
+				<heading>-1.616264377258357</heading>
+				<tilt>0</tilt>
+				<range>973.6877853505654</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.2556001888746,54.68872516025989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus sinagoga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303778.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.2838863798302</longitude>
+				<latitude>54.67387277826888</latitude>
+				<altitude>0</altitude>
+				<heading>0.2864257423112977</heading>
+				<tilt>0</tilt>
+				<range>309.1193696068242</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28384524052142,54.67382441948511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus stačiatikių soboras (katedra)</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/56128798.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/56128798.jpg">http://mw2.google.com/mw-panoramio/photos/medium/56128798.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29317527987065</longitude>
+				<latitude>54.68156494574706</latitude>
+				<altitude>0</altitude>
+				<heading>-1.300136954985669</heading>
+				<tilt>0.7467018619098015</tilt>
+				<range>275.1625815970106</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank20</styleUrl>
+			<Point>
+				<coordinates>25.29215765817824,54.68117689257943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus šv Mykolo arkangelo bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303782.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29249965202626</longitude>
+				<latitude>54.68283278343591</latitude>
+				<altitude>0</altitude>
+				<heading>-4.965636011523134</heading>
+				<tilt>0</tilt>
+				<range>264.8628214433917</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.29160403014202,54.68268387166111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus Šv. Mikalojaus stačiatikių cerkvė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303785.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28883327366886</longitude>
+				<latitude>54.68006319529435</latitude>
+				<altitude>0</altitude>
+				<heading>0.1311704501321033</heading>
+				<tilt>9.824568941679535</tilt>
+				<range>137.6015218466374</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28844289245951,54.67989307757286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus Šv. Paraskevos stačiatikių cerkvė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303786.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28949355779075</longitude>
+				<latitude>54.68144078598443</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4355478270985199</heading>
+				<tilt>31.95236300255136</tilt>
+				<range>218.306831523792</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28919308055409,54.68097267051809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus šventosios dvasios bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303787.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28507388118809</longitude>
+				<latitude>54.68210904653408</latitude>
+				<altitude>0</altitude>
+				<heading>-7.673526745930864</heading>
+				<tilt>25.7620932783507</tilt>
+				<range>495.9671319132396</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28481812216047,54.68116472719502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Visų šventųjų bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303791.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28497033508158</longitude>
+				<latitude>54.67584741413279</latitude>
+				<altitude>0</altitude>
+				<heading>-2.177205301093655</heading>
+				<tilt>0.2113642908817984</tilt>
+				<range>194.5886316929643</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.28406072168284,54.67575789571427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vytauto didžiojo bažnyčia Kaune</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303798.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88590684727709</longitude>
+				<latitude>54.89515335394114</latitude>
+				<altitude>0</altitude>
+				<heading>0.618926586557536</heading>
+				<tilt>0</tilt>
+				<range>488.734043048132</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.88648552197653,54.89490874811412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyžuonų bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303803.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.49681409559368</longitude>
+				<latitude>55.58586564477363</latitude>
+				<altitude>0</altitude>
+				<heading>-12.14456799966375</heading>
+				<tilt>0</tilt>
+				<range>375.0610575267689</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.49523994037265,55.58593414942411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zapyškio naujoji bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303807.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.64960898057556</longitude>
+				<latitude>54.92593902545977</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09034359662226185</heading>
+				<tilt>4.924481629856592</tilt>
+				<range>416.2428800635763</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.64880304582798,54.92595864109909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zapyškio senoji bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303808.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.65586927490643</longitude>
+				<latitude>54.92936028608733</latitude>
+				<altitude>0</altitude>
+				<heading>0.05610207325841605</heading>
+				<tilt>4.572042475962073</tilt>
+				<range>720.0649894265687</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.65448643189381,54.92883318323223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Znamenskos cerkvė</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303811.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.25702414465137</longitude>
+				<latitude>54.69091597800936</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03225296767963644</heading>
+				<tilt>9.900835891358836</tilt>
+				<range>210.7539043361818</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>25.25688607303158,54.690849633428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šateikių bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268509.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.67978219837125</longitude>
+				<latitude>55.99911098444583</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1690041711626949</heading>
+				<tilt>0</tilt>
+				<range>309.9685002062904</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.67747591876774,55.99888949293355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šeduvos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268511.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.75790210727446</longitude>
+				<latitude>55.75608400451652</latitude>
+				<altitude>0</altitude>
+				<heading>-2.29151250610925</heading>
+				<tilt>0</tilt>
+				<range>558.8310352378546</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.7565174962404,55.75634306966179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių katedra</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268516.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.31970602218506</longitude>
+				<latitude>55.93268445956172</latitude>
+				<altitude>0</altitude>
+				<heading>0.01880751942844034</heading>
+				<tilt>0</tilt>
+				<range>475.4026974623135</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.31970602218507,55.93268445956171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268519.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.3328552552231</longitude>
+				<latitude>55.92454995220358</latitude>
+				<altitude>0</altitude>
+				<heading>4.079812690558324e-005</heading>
+				<tilt>0</tilt>
+				<range>994.4343235551694</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.33275177451376,55.92494688167431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės liuteronų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268521.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.46193050775192</longitude>
+				<latitude>55.3408898843015</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2203842454830632</heading>
+				<tilt>0</tilt>
+				<range>305.3781591436267</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.46036976888345,55.3408965790501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės šv Kryžiaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268523.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.48662276001421</longitude>
+				<latitude>55.34407906067101</latitude>
+				<altitude>0</altitude>
+				<heading>-1.367105896326242</heading>
+				<tilt>0</tilt>
+				<range>249.2147498844122</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.48588897395725,55.34386863158842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiluvos bazilika</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268531.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.22481506873103</longitude>
+				<latitude>55.53058344270434</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9564164597569039</heading>
+				<tilt>0</tilt>
+				<range>727.7380054458977</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.2240872343599,55.53001815928802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Širvintų bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268534.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.96620388010593</longitude>
+				<latitude>55.03893753915886</latitude>
+				<altitude>0</altitude>
+				<heading>-1.839403238907823</heading>
+				<tilt>0</tilt>
+				<range>826.6313935066049</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>24.96582700004465,55.03751917768502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šumsko Mykolo arkangelo bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268543.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.72148671566611</longitude>
+				<latitude>54.60953232988018</latitude>
+				<altitude>0</altitude>
+				<heading>1.180107107424407</heading>
+				<tilt>0</tilt>
+				<range>675.3631971921046</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.72297526303823,54.60874200868185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv Kotrynos bažnyčia Vilniuje</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268547.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28133209204939</longitude>
+				<latitude>54.68281183751791</latitude>
+				<altitude>0</altitude>
+				<heading>1.263892913005574</heading>
+				<tilt>13.16066713318451</tilt>
+				<range>528.2229884274609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.28095667388312,54.68182953603419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv Ksavero bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268552.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.88772841184957</longitude>
+				<latitude>54.89661473506136</latitude>
+				<altitude>0</altitude>
+				<heading>0.05038138430130379</heading>
+				<tilt>0</tilt>
+				<range>512.2878499226342</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>23.88636995016659,54.89631705189293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv Mikalojaus bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268556.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28384776593042</longitude>
+				<latitude>54.67882463542185</latitude>
+				<altitude>0</altitude>
+				<heading>8.103673070351752</heading>
+				<tilt>8.057397260094358</tilt>
+				<range>279.4211295547669</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.28263073954981,54.67826731250484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv Onos bažnyčia Vilniuje</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987514.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29403688157323</longitude>
+				<latitude>54.68342102377088</latitude>
+				<altitude>0</altitude>
+				<heading>0.9131319859648283</heading>
+				<tilt>18.22851114874578</tilt>
+				<range>212.7219053758861</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank200</styleUrl>
+			<Point>
+				<coordinates>25.29306730158268,54.68312273975921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv Teresės bažnyčia Vilniuje</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268557.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29106752724721</longitude>
+				<latitude>54.67568401074578</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004393671762253441</heading>
+				<tilt>0</tilt>
+				<range>276.6595746275928</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.2901153484523,54.67551472709391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šv. Jonų bažnyčia Vulniuje</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268562.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.2884487399229</longitude>
+				<latitude>54.68262784052429</latitude>
+				<altitude>0</altitude>
+				<heading>3.009758065619995</heading>
+				<tilt>0</tilt>
+				<range>386.1014982744454</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>25.28827543719277,54.68254170113722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švendubrės bažnyčia miške</name>
+			<description>Švendubrės bažnyčia miške</description>
+			<LookAt>
+				<longitude>23.95083719746135</longitude>
+				<latitude>53.98246974343789</latitude>
+				<altitude>0</altitude>
+				<heading>-7.800788295422477</heading>
+				<tilt>0</tilt>
+				<range>608.3533768708329</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank5</styleUrl>
+			<Point>
+				<coordinates>23.94956189030656,53.98238075550282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švenčionių Švč. Trejybės stačiatikių cerkvė</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268573.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.15644309540132</longitude>
+				<latitude>55.13135550379674</latitude>
+				<altitude>0</altitude>
+				<heading>0.00101486121922066</heading>
+				<tilt>0</tilt>
+				<range>718.9678275422614</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>26.15479167656804,55.13142697577568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėkšnos bažnyčia</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268562.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.62182978743577</longitude>
+				<latitude>55.51741883642293</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4996392236374954</heading>
+				<tilt>0</tilt>
+				<range>979.570489751544</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.6193429155269,55.51666668979482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėkšnos sinagoga</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/69268568.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.62259344356611</longitude>
+				<latitude>55.51793910471913</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002674575206988696</heading>
+				<tilt>0</tilt>
+				<range>812.7270881462271</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank1</styleUrl>
+			<Point>
+				<coordinates>21.62159611870074,55.5178334619311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žaslių šv Jurgio bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303814.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.59743649857729</longitude>
+				<latitude>54.86203244225593</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1363334606747881</heading>
+				<tilt>0</tilt>
+				<range>628.9054271454226</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>24.59317196076271,54.8617961864792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žeimių bažnyčia</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303817.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.21940443642524</longitude>
+				<latitude>55.17867927227492</latitude>
+				<altitude>0</altitude>
+				<heading>2.315223044276384</heading>
+				<tilt>0</tilt>
+				<range>1204.949281305636</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>24.21949205959282,55.17946416013207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių Kalvarijos bazilika</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303820.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.01259507804464</longitude>
+				<latitude>56.10982039519424</latitude>
+				<altitude>0</altitude>
+				<heading>0.05687080981502853</heading>
+				<tilt>0</tilt>
+				<range>506.9209218555341</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>22.01124715567242,56.10957945098583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žieminė ir vasarinė sinagoga</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69303822.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.98199137541187</longitude>
+				<latitude>55.28712190344201</latitude>
+				<altitude>0</altitude>
+				<heading>0.001125637380319025</heading>
+				<tilt>0</tilt>
+				<range>1001.640671885184</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank3</styleUrl>
+			<Point>
+				<coordinates>23.981746896631,55.28750366043339,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

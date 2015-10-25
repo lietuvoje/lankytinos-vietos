@@ -1,0 +1,4147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>doc.kml</name>
+	<Style id="sh_wht-pushpin3210">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin3210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-pushpin0001">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Muziejai</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>23.78712729249957</longitude>
+			<latitude>55.1603535</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>767000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>1863 metų sukilimo muziejus ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/1863_sukilimo_muziejus_Paberzeje01m.jpg"/><img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/Paberze_K-Galvanausko_A_Mackev_portretas_muziejuje01m.jpg"/>
+
+<a href="http://www.muziejai.lt/Kedainiai/kedainiuimages/Paberze_K-Galvanausko_A_Mackev_portretas_muziejuje01m.jpg">http://www.muziejai.lt/Kedainiai/kedainiuimages/Paberze_K-Galvanausko_A_Mackev_portretas_muziejuje01m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.96832182656086</longitude>
+				<latitude>55.50517479470481</latitude>
+				<altitude>0</altitude>
+				<heading>0.0704660903967221</heading>
+				<tilt>0</tilt>
+				<range>2624.831357755663</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.9652065770887,55.5052879712224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adolfo Ramanausko-Vanago vadavietės bunkeris</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306326.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.26737873231901</longitude>
+				<latitude>54.1133770531105</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3837617737787371</heading>
+				<tilt>0</tilt>
+				<range>1547.069896989699</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.268630875411,54.11140154513329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adomo Petrausko muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kupiskis/Kupiskioimages/petrausko_muz1.jpg"/><a href="http://www.muziejai.lt/Kupiskis/Kupiskioimages/petrausko_muz1.jpg">http://www.muziejai.lt/Kupiskis/Kupiskioimages/petrausko_muz1.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.80920355871822</longitude>
+				<latitude>55.88928029309936</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5357356534375198</heading>
+				<tilt>0</tilt>
+				<range>10086.28789547633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.78453253335795,55.88421877078613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agluonėnų etnografinė sodyba</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/images2010/agluonenu_gyv_namo_galas_d.jpg"/><a href="http://www.muziejai.lt/Klaipeda/images2010/agluonenu_gyv_namo_galas_d.jpg">http://www.muziejai.lt/Klaipeda/images2010/agluonenu_gyv_namo_galas_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.80920355871822</longitude>
+				<latitude>55.88928029309936</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5357356534375198</heading>
+				<tilt>0</tilt>
+				<range>10086.28789547633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.39316,55.58545700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akmenės krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Akmene/images2009/drugeliu_ekspo01d.jpg"/><a href="http://www.muziejai.lt/Akmene/images2009/drugeliu_ekspo01d.jpg">http://www.muziejai.lt/Akmene/images2009/drugeliu_ekspo01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.80920355871822</longitude>
+				<latitude>55.88928029309936</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5357356534375198</heading>
+				<tilt>0</tilt>
+				<range>10086.28789547633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.75132,56.244869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aleksoto funikulierius</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306337.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.56486980471305</longitude>
+				<latitude>55.525397786139</latitude>
+				<altitude>0</altitude>
+				<heading>0.4205554909092793</heading>
+				<tilt>0</tilt>
+				<range>2090802.879642316</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.8875469,54.89106079999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus fortas</name>
+			<description>Alytaus fortas</description>
+			<LookAt>
+				<longitude>24.03719910794018</longitude>
+				<latitude>54.43146250526222</latitude>
+				<altitude>0</altitude>
+				<heading>0.09176096910186654</heading>
+				<tilt>0</tilt>
+				<range>559.8136520645932</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.03621687257119,54.43073247542369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alytaus kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Alytus/Alytausimages/alytaus11d.jpg"/><a href="http://www.muziejai.lt/Alytus/Alytausimages/alytaus11d.jpg">http://www.muziejai.lt/Alytus/Alytausimages/alytaus11d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.05033764672282</longitude>
+				<latitude>54.39797201566734</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6349655023425963</heading>
+				<tilt>0</tilt>
+				<range>356.6555108814451</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.05061239948367,54.39782822974557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antano ir Jono Juškų etninės kultūros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/jusku_muz09.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/jusku_muz09.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/jusku_muz09.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.05033764672282</longitude>
+				<latitude>54.39797201566734</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6349655023425963</heading>
+				<tilt>0</tilt>
+				<range>356.6555108814451</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.583645,55.03809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arklio muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_arklio_d.jpg"/><a href="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_arklio_d.jpg">http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_arklio_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.09718726660845</longitude>
+				<latitude>55.57498153279389</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3497002748883928</heading>
+				<tilt>0</tilt>
+				<range>2745.852408351854</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.08459158757377,55.57363523767624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aušros alėjos rūmai</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Siauliai/Siauliuimages/alejos_rumai0.jpg"/><a href="http://www.muziejai.lt/Siauliai/Siauliuimages/alejos_rumai0.jpg">http://www.muziejai.lt/Siauliai/Siauliuimages/alejos_rumai0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.30892721038555</longitude>
+				<latitude>55.94034170158984</latitude>
+				<altitude>0</altitude>
+				<heading>0.002456513106243658</heading>
+				<tilt>0</tilt>
+				<range>1117.101553725122</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.30554441084313,55.93904703353736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aviacijos pradininko A. Griškevičiaus memorialinis muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/mazeikiai/mazeikiai_images/griskevicius_am.jpg"/><img src="http://www.muziejai.lt/mazeikiai/mazeikiai_images/griskevicius_bm.jpg"/>
+
+<a href="http://www.muziejai.lt/mazeikiai/mazeikiai_images/griskevicius_bm.jpg">http://www.muziejai.lt/mazeikiai/mazeikiai_images/griskevicius_bm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.52826856496334</longitude>
+				<latitude>55.17358543110627</latitude>
+				<altitude>0</altitude>
+				<heading>2.604792131109731</heading>
+				<tilt>0</tilt>
+				<range>463629.1334348366</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.519539,56.232513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babtų kraštotyros muziejus</name>
+			<description>Babtų kraštotyros muziejus</description>
+			<LookAt>
+				<longitude>23.30892721038555</longitude>
+				<latitude>55.94034170158984</latitude>
+				<altitude>0</altitude>
+				<heading>0.002456513106243658</heading>
+				<tilt>0</tilt>
+				<range>1117.101553725122</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.795933,55.08825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Betygalos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Raseiniai/Raseiniu_images/kuzminskio02m.jpg"/><a href="http://www.muziejai.lt/Raseiniai/Raseiniu_images/kuzminskio02m.jpg">http://www.muziejai.lt/Raseiniai/Raseiniu_images/kuzminskio02m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.30892721038555</longitude>
+				<latitude>55.94034170158984</latitude>
+				<altitude>0</altitude>
+				<heading>0.002456513106243658</heading>
+				<tilt>0</tilt>
+				<range>1117.101553725122</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.370535,55.35977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birštono muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Birstonas/birstonoimages/Birstonas3.jpg"/><a href="http://www.muziejai.lt/Birstonas/birstonoimages/Birstonas3.jpg">http://www.muziejai.lt/Birstonas/birstonoimages/Birstonas3.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.30892721038555</longitude>
+				<latitude>55.94034170158984</latitude>
+				<altitude>0</altitude>
+				<heading>0.002456513106243658</heading>
+				<tilt>0</tilt>
+				<range>1117.101553725122</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.032927,54.6046839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birštono sakralinis muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Birstonas/birstonoimages/pastatas.jpg"/><a href="http://www.muziejai.lt/Birstonas/birstonoimages/pastatas.jpg">http://www.muziejai.lt/Birstonas/birstonoimages/pastatas.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.24009469908879</longitude>
+				<latitude>55.15626703281443</latitude>
+				<altitude>0</altitude>
+				<heading>4.235305160851193</heading>
+				<tilt>0</tilt>
+				<range>593217.6607661012</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.03433,54.602299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržų krašto muziejus „Sėla“</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Birzai/images2009/birzai6.jpg"/><a href="http://www.muziejai.lt/Birzai/images2009/birzai6.jpg">http://www.muziejai.lt/Birzai/images2009/birzai6.jpg</a>]]></description>
+			<LookAt>
+				<longitude>27.73744213131278</longitude>
+				<latitude>55.92559776738587</latitude>
+				<altitude>0</altitude>
+				<heading>3.702230823416581</heading>
+				<tilt>0</tilt>
+				<range>887952.4843572921</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.757191,56.205248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brangakmenių (Gemologijos) muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/brangakmeniu_akvamarinas_brazilija.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/brangakmeniu_akvamarinas_brazilija.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/brangakmeniu_akvamarinas_brazilija.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.62193153166958</longitude>
+				<latitude>56.13164449204329</latitude>
+				<altitude>0</altitude>
+				<heading>-17.19763511953699</heading>
+				<tilt>0</tilt>
+				<range>6455.279212622837</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.89242777777778,54.8968721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burbiškio dvaro muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Radviliskis/radviliskio_images/burbiskio_dvaras.jpg"/><a href="http://www.muziejai.lt/Radviliskis/radviliskio_images/burbiskio_dvaras.jpg">http://www.muziejai.lt/Radviliskis/radviliskio_images/burbiskio_dvaras.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.22685434886255</longitude>
+				<latitude>55.5034627042708</latitude>
+				<altitude>0</altitude>
+				<heading>4.891291425325995</heading>
+				<tilt>0</tilt>
+				<range>2334.200077267823</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.21598948867382,55.50138533539942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buvęs fortas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306342.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.10555191089798</longitude>
+				<latitude>55.71741185123443</latitude>
+				<altitude>0</altitude>
+				<heading>0.03155650914733858</heading>
+				<tilt>13.20876908875815</tilt>
+				<range>1177.322195067657</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.10011114710506,55.71735873801798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dabužių partizanų bunkeris</name>
+			<description>Dabužių partizanų bunkeris</description>
+			<LookAt>
+				<longitude>24.94631566307983</longitude>
+				<latitude>55.52087518220673</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007925057501055535</heading>
+				<tilt>0</tilt>
+				<range>5084.881764126145</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.93519930180894,55.5236190622173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daugiakultūris centras</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/daugiakulturis0.jpg"/><a href="http://www.muziejai.lt/Kedainiai/kedainiuimages/daugiakulturis0.jpg">http://www.muziejai.lt/Kedainiai/kedainiuimages/daugiakulturis0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.22685434886255</longitude>
+				<latitude>55.5034627042708</latitude>
+				<altitude>0</altitude>
+				<heading>4.891291425325995</heading>
+				<tilt>0</tilt>
+				<range>2334.200077267823</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.980295,55.287204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dionizo Poškos Baubliai ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Silale/Silaleimages/baubliai1_d.jpg"/><a href="http://www.muziejai.lt/Silale/Silaleimages/baubliai1_d.jpg">http://www.muziejai.lt/Silale/Silaleimages/baubliai1_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.58951423614223</longitude>
+				<latitude>55.47204389785038</latitude>
+				<altitude>0</altitude>
+				<heading>-3.208841319288809</heading>
+				<tilt>0</tilt>
+				<range>5402.785163030289</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.57995813977668,55.46897065485021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dr. Vinco Kudirkos klėtelė-muziejus ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilkaviskis/vilkaviskimages/kudirkos_kletele_d.jpg"/><a href="http://www.muziejai.lt/Vilkaviskis/vilkaviskimages/kudirkos_kletele_d.jpg">http://www.muziejai.lt/Vilkaviskis/vilkaviskimages/kudirkos_kletele_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.22926601143107</longitude>
+				<latitude>54.71734159679222</latitude>
+				<altitude>0</altitude>
+				<heading>-1.415527361805859</heading>
+				<tilt>0</tilt>
+				<range>1617.460143420082</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.22165362766298,54.71714893504374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dr. Vinco Kudirkos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Sakiai/sakiuimages/Kudirkos_muz0.jpg"/><img src="http://www.muziejai.lt/Sakiai/sakiuimages/kudirka0.jpg"/>
+
+<a href="http://www.muziejai.lt/Sakiai/sakiuimages/kudirka0.jpg">http://www.muziejai.lt/Sakiai/sakiuimages/kudirka0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.93830449738831</longitude>
+				<latitude>54.63818681503316</latitude>
+				<altitude>0</altitude>
+				<heading>1.502954805903717</heading>
+				<tilt>0</tilt>
+				<range>2905.545789482462</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.86236,54.773618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų miesto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Druskininkai/druskimages/druskininkai04d.jpg"/><a href="http://www.muziejai.lt/Druskininkai/druskimages/druskininkai04d.jpg">http://www.muziejai.lt/Druskininkai/druskimages/druskininkai04d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.64258599651526</longitude>
+				<latitude>54.89090844224268</latitude>
+				<altitude>0</altitude>
+				<heading>1.667687789159851</heading>
+				<tilt>0</tilt>
+				<range>330073.7324845504</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.972646,54.016983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Druskininkų rezistencijos ir tremties muziejus</name>
+			<description>Druskininkų rezistencijos ir tremties muziejus</description>
+			<LookAt>
+				<longitude>24.64258599651526</longitude>
+				<latitude>54.89090844224268</latitude>
+				<altitude>0</altitude>
+				<heading>1.667687789159851</heading>
+				<tilt>0</tilt>
+				<range>330073.7324845504</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.972151,54.02005500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dubingių krašto muziejus</name>
+			<description>Dubingių krašto muziejus</description>
+			<LookAt>
+				<longitude>25.26792681683212</longitude>
+				<latitude>55.07065709878327</latitude>
+				<altitude>0</altitude>
+				<heading>1.261344192895777</heading>
+				<tilt>0</tilt>
+				<range>860.2587300177762</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.26500233669768,55.07056062961031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dviračių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Siauliai/Siauliuimages/dviraciu_ekspo0.jpg"/><a href="http://www.muziejai.lt/Siauliai/Siauliuimages/dviraciu_ekspo0.jpg">http://www.muziejai.lt/Siauliai/Siauliuimages/dviraciu_ekspo0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.32243174256101</longitude>
+				<latitude>55.92851938869114</latitude>
+				<altitude>0</altitude>
+				<heading>-3.222560887010403</heading>
+				<tilt>0</tilt>
+				<range>410.2464201102068</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.32003210623661,55.92843803777619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Energetikos ir technikos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/nuotraukos/energetikos01d.jpg"/><a href="http://www.muziejai.lt/Vilnius/nuotraukos/energetikos01d.jpg">http://www.muziejai.lt/Vilnius/nuotraukos/energetikos01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29038708371467</longitude>
+				<latitude>54.69029105358963</latitude>
+				<altitude>0</altitude>
+				<heading>-2.773505144689439</heading>
+				<tilt>0</tilt>
+				<range>317.8170723053087</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28846823247567,54.6902617632043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Energetikos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/zarasai/zarasu_images/Energetikos_muz0.jpg"/><a href="http://www.muziejai.lt/zarasai/zarasu_images/Energetikos_muz0.jpg">http://www.muziejai.lt/zarasai/zarasu_images/Energetikos_muz0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.11160470338346</longitude>
+				<latitude>55.62815780233429</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1818626540685446</heading>
+				<tilt>0</tilt>
+				<range>314.2111692214843</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.11044967531385,55.62779029830655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Etnografinė Prano Dzūko sodyba</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Lazdijai/Lazdijuimages/dzuko2.jpg"/><a href="http://www.muziejai.lt/Lazdijai/Lazdijuimages/dzuko2.jpg">http://www.muziejai.lt/Lazdijai/Lazdijuimages/dzuko2.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.47277933090187</longitude>
+				<latitude>54.35542483649506</latitude>
+				<altitude>0</altitude>
+				<heading>0.2199709564900988</heading>
+				<tilt>0</tilt>
+				<range>2622.511960542033</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.46851840969708,54.35692507482829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Etnografinė sodyba ir senovinė dangaus stebykla</name>
+			<description><![CDATA[<img src="http://muziejus.moletai.lt/pav/Etnografines_sodybos_pav/IMGP1668.JPG"/><a href="http://muziejus.moletai.lt/pav/Etnografines_sodybos_pav/IMGP1668.JPG">http://muziejus.moletai.lt/pav/Etnografines_sodybos_pav/IMGP1668.JPG</a>]]></description>
+			<LookAt>
+				<longitude>25.56288703179248</longitude>
+				<latitude>55.31102320424485</latitude>
+				<altitude>0</altitude>
+				<heading>0.001037659884488467</heading>
+				<tilt>0</tilt>
+				<range>2184.235442695311</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.55644558406728,55.30954676201623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Etnografinė žvejo sodyba</name>
+			<description><![CDATA[<img src="http://www.visitneringa.com/tools/neo_image.php?id=7677&width=250&height=334"/>]]></description>
+			<LookAt>
+				<longitude>21.10516986369251</longitude>
+				<latitude>55.71406270452059</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05788159924758521</heading>
+				<tilt>0</tilt>
+				<range>324.9312186143973</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.10416386141356,55.71405440699417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Europos parkas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306348.jpg"/><a href="http://www.europosparkas.lt/index-lt.htm">http://www.europosparkas.lt/index-lt.htm</a>]]></description>
+			<LookAt>
+				<longitude>25.35596144144877</longitude>
+				<latitude>54.82624658311189</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005908792746650727</heading>
+				<tilt>0</tilt>
+				<range>1071.023685105221</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.35212102805534,54.82542563167466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ežerų žvejybos muziejus - ~ coordinates</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Moletai/Moletu_images/Mindunai2.jpg"/><a href="http://www.muziejai.lt/Moletai/Moletu_images/Mindunai2.jpg">http://www.muziejai.lt/Moletai/Moletu_images/Mindunai2.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.58004434345484</longitude>
+				<latitude>55.22819406412891</latitude>
+				<altitude>0</altitude>
+				<heading>-1.1657126223873</heading>
+				<tilt>0</tilt>
+				<range>4236.7103128212</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.57421649676893,55.23037312682797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fotografijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Siauliai/images2009/foto_muz3_d.jpg"/><a href="http://www.muziejai.lt/Siauliai/images2009/foto_muz3_d.jpg">http://www.muziejai.lt/Siauliai/images2009/foto_muz3_d.jpg</a>
+
+Uždarytas rekonstrukcijai iki 2013 m.]]></description>
+			<LookAt>
+				<longitude>23.31681449715885</longitude>
+				<latitude>55.93134600520335</latitude>
+				<altitude>0</altitude>
+				<heading>-5.594038957371462</heading>
+				<tilt>0</tilt>
+				<range>289.5436277680039</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.31528853632176,55.93125305067836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gamtos ekspozicija</name>
+			<description>Gamtos ekspozicija</description>
+			<LookAt>
+				<longitude>21.81761320317354</longitude>
+				<latitude>56.04312163365971</latitude>
+				<altitude>0</altitude>
+				<heading>1.76346086998315</heading>
+				<tilt>0</tilt>
+				<range>706.2431375717252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.81545864539751,56.04243281521169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gamtos kūrinių muziejus „Rojaus kampelis“</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Varena/Varenaimages/rojus1m0.jpg"/><a href="http://www.muziejai.lt/Varena/Varenaimages/rojus1m0.jpg">http://www.muziejai.lt/Varena/Varenaimages/rojus1m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.06833299892377</longitude>
+				<latitude>54.89912199910094</latitude>
+				<altitude>0</altitude>
+				<heading>-8.805715496646704e-010</heading>
+				<tilt>0</tilt>
+				<range>3346.801673457622</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.57081300000001,54.21298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gargždų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/etno_ekspo0.jpg"/><img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/gargzdu_muz0.jpg"/>
+
+<a href="http://www.muziejai.lt/Klaipeda/Klaipedosimages/gargzdu_muz0.jpg">http://www.muziejai.lt/Klaipeda/Klaipedosimages/gargzdu_muz0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.82692659497135</longitude>
+				<latitude>56.04409859271968</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649668698481351</heading>
+				<tilt>0</tilt>
+				<range>2386.681836030902</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.403285,55.712444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gedemino bokšto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/vilnius/images2011/gedimino2008_10_10_3_d.jpg"/><a href="http://www.muziejai.lt/vilnius/images2011/gedimino2008_10_10_3_d.jpg">http://www.muziejai.lt/vilnius/images2011/gedimino2008_10_10_3_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29386388796648</longitude>
+				<latitude>54.68607111173712</latitude>
+				<altitude>0</altitude>
+				<heading>-5.1166707776642</heading>
+				<tilt>0</tilt>
+				<range>1152.792605482849</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29113148741068,54.68663254326581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geležinkelų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2011/riedmenys.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2011/riedmenys.jpg">http://www.muziejai.lt/Vilnius/images2011/riedmenys.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.30348104227225</longitude>
+				<latitude>54.68832527992237</latitude>
+				<altitude>0</altitude>
+				<heading>-3.041356238519863</heading>
+				<tilt>0</tilt>
+				<range>16287.15278884395</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.285847,54.67129170000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Genocido aukų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/nuotraukos/Tremimai_1944-1953d.jpg"/><a href="http://www.muziejai.lt/Vilnius/nuotraukos/Tremimai_1944-1953d.jpg">http://www.muziejai.lt/Vilnius/nuotraukos/Tremimai_1944-1953d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.82692659497135</longitude>
+				<latitude>56.04409859271968</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649668698481351</heading>
+				<tilt>0</tilt>
+				<range>2386.681836030902</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.270473,54.68833450000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gintaro figūrų muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306350.jpg"/><a href="http://www.ambergift.lt">www.ambergift.lt</a>]]></description>
+			<LookAt>
+				<longitude>25.6430901843959</longitude>
+				<latitude>55.28205910025402</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1411082283423835</heading>
+				<tilt>0</tilt>
+				<range>574698.1191792976</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.288794,54.675764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gintaro galerija-muziejus</name>
+			<description><![CDATA[<a href="http://www.ambergallery.lt">http://www.ambergallery.lt</a><img src="http://static.panoramio.com/photos/medium/69306355.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.6430901843959</longitude>
+				<latitude>55.28205910025402</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1411082283423835</heading>
+				<tilt>0</tilt>
+				<range>574698.1191792976</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.009142,55.309504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gintaro muziejus - galerija</name>
+			<description>Gintaro galerija - muziejus</description>
+			<LookAt>
+				<longitude>25.29159307547471</longitude>
+				<latitude>54.68301868953314</latitude>
+				<altitude>0</altitude>
+				<heading>0.9040910952981062</heading>
+				<tilt>2.205449840306984</tilt>
+				<range>183.3009946059971</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29062569768298,54.68292090504615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ginučių malūno ekspozicija</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Ignalina/Ignalinos_images/ginuciu_malunas01m.jpg"/><a href="http://www.muziejai.lt/Ignalina/Ignalinos_images/ginuciu_malunas01m.jpg">http://www.muziejai.lt/Ignalina/Ignalinos_images/ginuciu_malunas01m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.99601114299679</longitude>
+				<latitude>55.3853585843593</latitude>
+				<altitude>0</altitude>
+				<heading>0.3552851912950139</heading>
+				<tilt>0</tilt>
+				<range>577.1844966002255</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.99484567115161,55.38547037977403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Girios aidas - miško muziejus</name>
+			<description><![CDATA[<a href="http://www.dmu.lt/aidas">http://www.dmu.lt/aidas</a><img src="http://static.panoramio.com/photos/medium/69306360.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.6430901843959</longitude>
+				<latitude>55.28205910025402</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1411082283423835</heading>
+				<tilt>0</tilt>
+				<range>574698.1191792976</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.003058,54.008252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ignalinos etninės kultūros centras</name>
+			<description>Centre kaupiamos liaudies meno – tapybos, skulptūros, amatų – kolekcijos</description>
+			<LookAt>
+				<longitude>21.82692659601504</longitude>
+				<latitude>56.04409859257184</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649668697615668</heading>
+				<tilt>0</tilt>
+				<range>2386.682160233564</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.170838,55.34357499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Irklavimo muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Trakai/traku_images/irklavimo5.jpg"/><a href="http://www.muziejai.lt/Trakai/traku_images/irklavimo5.jpg">http://www.muziejai.lt/Trakai/traku_images/irklavimo5.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.92081356673161</longitude>
+				<latitude>54.65263768070523</latitude>
+				<altitude>0</altitude>
+				<heading>-1.188466593909296</heading>
+				<tilt>0</tilt>
+				<range>1040.69326633376</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.91788791729622,54.65350602268163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Istorinė LR Prezidentūra</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2010/istorineprezidentura_d.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2010/istorineprezidentura_d.jpg">http://www.muziejai.lt/Kaunas/images2010/istorineprezidentura_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.89757823834976</longitude>
+				<latitude>54.89741061126792</latitude>
+				<altitude>0</altitude>
+				<heading>0.7042147969364286</heading>
+				<tilt>0</tilt>
+				<range>263.378116156784</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.89731476072031,54.8974382338082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Janinos Monkutės-Marks muziejus-galerija</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/zemyna0.jpg"/><a href="http://www.muziejai.lt/Kedainiai/kedainiuimages/zemyna0.jpg">http://www.muziejai.lt/Kedainiai/kedainiuimages/zemyna0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.97694,55.291842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jonavos krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Jonava/images2009/jonavos_muz01d.jpg"/><img src="http://www.muziejai.lt/Jonava/Jonavosimages/jonavos_ekspo2.jpg"/>
+
+<a href="http://www.muziejai.lt/Jonava/images2009/jonavos_muz01d.jpg">http://www.muziejai.lt/Jonava/images2009/jonavos_muz01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.82692659601504</longitude>
+				<latitude>56.04409859257184</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649668697615668</heading>
+				<tilt>0</tilt>
+				<range>2386.682160233564</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.2867,55.07804299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškio istorijos ir kultūros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Joniskis/joniskioimages/uniforma.jpg"/><img src="http://www.muziejai.lt/Joniskis/joniskioimages/Joniskis4.jpg"/>
+<a href="http://www.muziejai.lt/Joniskis/joniskioimages/Joniskis4.jpg">http://www.muziejai.lt/Joniskis/joniskioimages/Joniskis4.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.82692659601504</longitude>
+				<latitude>56.04409859257184</latitude>
+				<altitude>0</altitude>
+				<heading>-1.649668697615668</heading>
+				<tilt>0</tilt>
+				<range>2386.682160233564</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.61138100000001,56.23849599999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jurbarko krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Jurbarkas/jurbarkoimages/Jurbarknamas0.jpg"/><a href="http://www.muziejai.lt/Jurbarkas/jurbarkoimages/Jurbarknamas0.jpg">http://www.muziejai.lt/Jurbarkas/jurbarkoimages/Jurbarknamas0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.760169,55.07953199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jūrų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/zarasai/zarasu_images/juru_muz02d.jpg"/><a href="http://www.muziejai.lt/zarasai/zarasu_images/juru_muz02d.jpg">http://www.muziejai.lt/zarasai/zarasu_images/juru_muz02d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.6430901843959</longitude>
+				<latitude>55.28205910025402</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1411082283423835</heading>
+				<tilt>0</tilt>
+				<range>574698.1191792976</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.134059,55.58009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>K. Banio etnografinė žvejo sodyba-muziejus</name>
+			<description>K. Banio etnografinė žvejo sodyba-muziejus</description>
+			<LookAt>
+				<longitude>23.47277933090187</longitude>
+				<latitude>54.35542483649506</latitude>
+				<altitude>0</altitude>
+				<heading>0.2199709564900988</heading>
+				<tilt>0</tilt>
+				<range>2622.511960542033</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.36223,55.293945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaišiadorių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaisiadorys/Kaisiador_images/kirviai.jpg"/><img src="http://www.muziejai.lt/Kaisiadorys/Kaisiador_images/ruokiodaiktai_m.jpg"/>
+
+<a href="http://www.muziejai.lt/Kaisiadorys/Kaisiador_images/ruokiodaiktai_m.jpg">http://www.muziejai.lt/Kaisiadorys/Kaisiador_images/ruokiodaiktai_m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.442953,54.857157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalvystės muziejus</name>
+			<description>Kalvystės muziejus</description>
+			<LookAt>
+				<longitude>21.1410774616126</longitude>
+				<latitude>55.7068506847414</latitude>
+				<altitude>0</altitude>
+				<heading>-3.897292585745487</heading>
+				<tilt>0</tilt>
+				<range>534.1765893252417</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.13703834042198,55.70673714365345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kapčiamiesčio Emilijos Pliaterytės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Lazdijai/Lazdijuimages/kapciamiescio_pliaterytes_2.jpg"/><a href="http://www.muziejai.lt/Lazdijai/Lazdijuimages/kapciamiescio_pliaterytes_2.jpg">http://www.muziejai.lt/Lazdijai/Lazdijuimages/kapciamiescio_pliaterytes_2.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.660439,54.00437099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karo technikos ir transporto Vilniaus skyrius</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2011/VDKM_karo_tech_skyrius_02.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2011/VDKM_karo_tech_skyrius_02.jpg">http://www.muziejai.lt/Kaunas/images2011/VDKM_karo_tech_skyrius_02.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.30395670844204</longitude>
+				<latitude>54.69030829177049</latitude>
+				<altitude>0</altitude>
+				<heading>0.2268473576040576</heading>
+				<tilt>16.93264926767948</tilt>
+				<range>578.879440027738</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.30436340729692,54.69066099649989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Katinų muziejus</name>
+			<description>http://www.muziejai.lt/Siauliai/katinu_muziejus.htm</description>
+			<LookAt>
+				<longitude>25.1748788174376</longitude>
+				<latitude>55.25730844640297</latitude>
+				<altitude>0</altitude>
+				<heading>-1.398439917232831</heading>
+				<tilt>0</tilt>
+				<range>456925.614963653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.336302,55.92680609999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno IX forto muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306362.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.87578852236194</longitude>
+				<latitude>54.94434195053782</latitude>
+				<altitude>0</altitude>
+				<heading>3.241286390784278</heading>
+				<tilt>0</tilt>
+				<range>418.015125090084</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.87584421697384,54.94377804038479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno lėlių teatro muziejus</name>
+			<description><![CDATA[<a href="http://www.kaunoleles.lt">http://www.kaunoleles.lt</a><img src="http://static.panoramio.com/photos/medium/69306364.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.29041647282074</longitude>
+				<latitude>55.40048348507528</latitude>
+				<altitude>0</altitude>
+				<heading>0.7498834600837127</heading>
+				<tilt>0</tilt>
+				<range>3433.503367757674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.906975,54.8976575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno miesto muziejus</name>
+			<description><![CDATA[<a href="http://kaunomuziejus.lt">http://kaunomuziejus.lt</a><img src="http://static.panoramio.com/photos/medium/69306365.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.888251,54.897533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno paveikslų galerija</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionis4.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionis4.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionis4.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.923572,54.898651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno Tado Ivanausko zoologijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/zoo02d.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/zoo02d.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/zoo02d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.1748788174376</longitude>
+				<latitude>55.25730844640297</latitude>
+				<altitude>0</altitude>
+				<heading>-1.398439917232831</heading>
+				<tilt>0</tilt>
+				<range>456925.614963653</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.90365900000001,54.897773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kauno technologijos universiteto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2010/ktu2_d.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2010/ktu2_d.jpg">http://www.muziejai.lt/Kaunas/images2010/ktu2_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.91385018404921</longitude>
+				<latitude>54.89885935335195</latitude>
+				<altitude>0</altitude>
+				<heading>-3.885679455352331</heading>
+				<tilt>0</tilt>
+				<range>311.1843950159581</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.91303713181643,54.89901905802928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazlų Rūdos miško muziejus</name>
+			<description>Kazlų Rūdos miško muziejus</description>
+			<LookAt>
+				<longitude>26.19750994929473</longitude>
+				<latitude>56.00380854023261</latitude>
+				<altitude>0</altitude>
+				<heading>3.504648729013164</heading>
+				<tilt>0</tilt>
+				<range>692728.2663158719</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.509555,54.748352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Elektrenai/elektrimages/keliu_muz01.jpg"/><a href="http://www.muziejai.lt/Elektrenai/elektrimages/keliu_muz01.jpg">http://www.muziejai.lt/Elektrenai/elektrimages/keliu_muz01.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.81647532487159</longitude>
+				<latitude>54.77335834859152</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1903716383160058</heading>
+				<tilt>0</tilt>
+				<range>513.7197672250201</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.81452300498255,54.77323071752611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelmės krašto muziejus</name>
+			<description><![CDATA[<a href="http://www.kelmesmuziejus.lt">http://www.kelmesmuziejus.lt</a><img src="http://static.panoramio.com/photos/medium/69306368.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.809086,55.682511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keramikos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionio18n.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionio18n.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/ciurlionio18n.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.885567,54.897007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kernavės archeologijos ir istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.kernave.org/images/110_muz21.jpg"/><img src="http://www.kernave.org/images/110_muz40.gif"/>
+
+<a href="http://www.kernave.org">http://www.kernave.org</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.853721,54.886497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleboniškių kaimo buities ekspozicija ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Radviliskis/radviliskio_images/kleboniskes_ekspo01_m.jpg"/><a href="http://www.muziejai.lt/Radviliskis/radviliskio_images/kleboniskes_ekspo01_m.jpg">http://www.muziejai.lt/Radviliskis/radviliskio_images/kleboniskes_ekspo01_m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.85645150412893</longitude>
+				<latitude>55.77205308010232</latitude>
+				<altitude>0</altitude>
+				<heading>-1.19314994642339</heading>
+				<tilt>0</tilt>
+				<range>1793.420794812915</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.85563799041037,55.77018359134021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koplyčia-kamerinių menų centras</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_koplycia_d.jpg"/><a href="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_koplycia_d.jpg">http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_koplycia_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.098805,55.521907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krakių partizanų bunkeris ~ koordinatės</name>
+			<description><![CDATA[<a href="http://krakiai.webs.com">http://krakiai.webs.com</a><img src="http://static.panoramio.com/photos/medium/69306374.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.42129500427621</longitude>
+				<latitude>56.26565850295259</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9427127455985592</heading>
+				<tilt>0</tilt>
+				<range>1470.669565976169</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.41974618542408,56.26483301925019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kraštotyros radinių ekspozicija ~ koordinatės</name>
+			<description>Kraštotyros radinių ekspozicija</description>
+			<LookAt>
+				<longitude>23.89440848775366</longitude>
+				<latitude>55.8783736015213</latitude>
+				<altitude>0</altitude>
+				<heading>2.016863818746341</heading>
+				<tilt>0</tilt>
+				<range>2052.693673061175</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.88596045786202,55.87804098061976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kražių M. K. Sarbievijaus kultūros centro muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kelme/Kelmesimages/kraziu_kolegija1_d.jpg"/><a href="http://www.muziejai.lt/Kelme/Kelmesimages/kraziu_kolegija1_d.jpg">http://www.muziejai.lt/Kelme/Kelmesimages/kraziu_kolegija1_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.89440848775366</longitude>
+				<latitude>55.8783736015213</latitude>
+				<altitude>0</altitude>
+				<heading>2.016863818746341</heading>
+				<tilt>0</tilt>
+				<range>2052.693673061175</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.688661,55.605446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306377.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.89440848775366</longitude>
+				<latitude>55.8783736015213</latitude>
+				<altitude>0</altitude>
+				<heading>2.016863818746341</heading>
+				<tilt>0</tilt>
+				<range>2052.693673061175</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.574275,56.06005400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kriaunų istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Rokiskis/Rokiskio_images/kriaunu_muz01d.jpg"/><a href="http://www.muziejai.lt/Rokiskis/Rokiskio_images/kriaunu_muz01d.jpg">http://www.muziejai.lt/Rokiskis/Rokiskio_images/kriaunu_muz01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.80199069227938</longitude>
+				<latitude>55.85159257415089</latitude>
+				<altitude>0</altitude>
+				<heading>0.004795554287212007</heading>
+				<tilt>0</tilt>
+				<range>1473.296734232823</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.79738817621733,55.8508847805226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kukuliškių (Karklės) baterijos bunkeriai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306381.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.09162636991028</longitude>
+				<latitude>55.77965590388215</latitude>
+				<altitude>0</altitude>
+				<heading>0.1126414659358408</heading>
+				<tilt>0</tilt>
+				<range>2501.030456283508</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.07897905985121,55.77562844270912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kukuliškės vokiečių baterija</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306378.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.09162636991028</longitude>
+				<latitude>55.77965590388215</latitude>
+				<altitude>0</altitude>
+				<heading>0.1126414659358408</heading>
+				<tilt>0</tilt>
+				<range>2501.030456283508</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.07399814978135,55.77777638030925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kulių apylinkės muziejus</name>
+			<description>Kulių apylinkės muziejus</description>
+			<LookAt>
+				<longitude>25.79899652469895</longitude>
+				<latitude>55.85140260900166</latitude>
+				<altitude>0</altitude>
+				<heading>0.002317697030145782</heading>
+				<tilt>0</tilt>
+				<range>1469.159649180883</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.653841,55.804703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kupiškio etnografijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kupiskis/Kupiskioimages/kupiskio_muz5m.jpg"/><a href="http://www.muziejai.lt/Kupiskis/Kupiskioimages/kupiskio_muz5m.jpg">http://www.muziejai.lt/Kupiskis/Kupiskioimages/kupiskio_muz5m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.79899652469895</longitude>
+				<latitude>55.85140260900166</latitude>
+				<altitude>0</altitude>
+				<heading>0.002317697030145782</heading>
+				<tilt>0</tilt>
+				<range>1469.159649180883</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.98257200000001,55.839359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuršių nerijos nacionalinio parko gamtos ekspozicija</name>
+			<description><![CDATA[<a href="http://www.nerija.lt"><img src="http://static.panoramio.com/photos/medium/69306382.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.110139,55.70901500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuršėnų kalendorių muziejus</name>
+			<description>Kuršėnų kalendorių muziejus</description>
+			<LookAt>
+				<longitude>22.93055627143873</longitude>
+				<latitude>55.99970634376744</latitude>
+				<altitude>0</altitude>
+				<heading>-2.58307605485868</heading>
+				<tilt>0</tilt>
+				<range>229.3773345164101</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.92930655179558,55.99977346981058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/svirskio_kryziai.jpg"/><a href="http://www.muziejai.lt/Kedainiai/kedainiuimages/svirskio_kryziai.jpg">http://www.muziejai.lt/Kedainiai/kedainiuimages/svirskio_kryziai.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.38886878731332</longitude>
+				<latitude>55.5357891365305</latitude>
+				<altitude>0</altitude>
+				<heading>1.499878420904378</heading>
+				<tilt>0</tilt>
+				<range>336270.0347283146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.978624,55.286937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laikrodžių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/Laikrodziu_muz1m.jpg"/><a href="http://www.muziejai.lt/Klaipeda/Klaipedosimages/Laikrodziu_muz1m.jpg">http://www.muziejai.lt/Klaipeda/Klaipedosimages/Laikrodziu_muz1m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.13741258334927</longitude>
+				<latitude>55.71224203370076</latitude>
+				<altitude>0</altitude>
+				<heading>-3.64783416088284</heading>
+				<tilt>0</tilt>
+				<range>538.0919948809316</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.13470409477836,55.7125373254245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laisvės kovų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Lazdijai/Lazdijuimages/laisves_kovu2.jpg"/><a href="http://www.muziejai.lt/Lazdijai/Lazdijuimages/laisves_kovu2.jpg">http://www.muziejai.lt/Lazdijai/Lazdijuimages/laisves_kovu2.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.79899652469895</longitude>
+				<latitude>55.85140260900166</latitude>
+				<altitude>0</altitude>
+				<heading>0.002317697030145782</heading>
+				<tilt>0</tilt>
+				<range>1469.159649180883</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.688958,54.101215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laukminiškių kaimo muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kupiskis/Kupiskioimages/laukminiskiu_muz.jpg"/><a href="http://www.muziejai.lt/Kupiskis/Kupiskioimages/laukminiskiu_muz.jpg">http://www.muziejai.lt/Kupiskis/Kupiskioimages/laukminiskiu_muz.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.07818680687845</longitude>
+				<latitude>55.96113285497972</latitude>
+				<altitude>0</altitude>
+				<heading>0.01018644201641354</heading>
+				<tilt>0</tilt>
+				<range>3259.473168281505</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.06424821848857,55.95859205706157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lazdijų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Lazdijai/Lazdijuimages/lazdiju_krasto1.jpg"/><a href="http://www.muziejai.lt/Lazdijai/Lazdijuimages/lazdiju_krasto1.jpg">http://www.muziejai.lt/Lazdijai/Lazdijuimages/lazdiju_krasto1.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.79899652399547</longitude>
+				<latitude>55.85140260888358</latitude>
+				<altitude>0</altitude>
+				<heading>0.002317696447910262</heading>
+				<tilt>0</tilt>
+				<range>1469.160712789435</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.513054,54.230495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos aviacijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/aviac5m.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/aviac5m.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/aviac5m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.13741258334927</longitude>
+				<latitude>55.71224203370076</latitude>
+				<altitude>0</altitude>
+				<heading>-3.64783416088284</heading>
+				<tilt>0</tilt>
+				<range>538.0919948809316</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.891401,54.875629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos banko Pinigų muziejaus filialas Kaune</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2010/pinigu_lietuvos1_d.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2010/pinigu_lietuvos1_d.jpg">http://www.muziejai.lt/Vilnius/images2010/pinigu_lietuvos1_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.64616548057233</longitude>
+				<latitude>54.49288142391808</latitude>
+				<altitude>0</altitude>
+				<heading>0.3259459075639303</heading>
+				<tilt>0</tilt>
+				<range>108443.771732999</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.9098,54.89904300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos banko Pinigų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2010/pinigu_istorijos_sale_d.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2010/pinigu_istorijos_sale_d.jpg">http://www.muziejai.lt/Vilnius/images2010/pinigu_istorijos_sale_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.28275625372005</longitude>
+				<latitude>54.68644093443812</latitude>
+				<altitude>0</altitude>
+				<heading>-11.03950524033073</heading>
+				<tilt>26.04674477279879</tilt>
+				<range>197.7058244789558</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28258736331035,54.68635676531712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos dailės muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306383.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.290187,54.680813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos didžiojo kunigaikščio Vytenio Bendrosios paramos logistikos bataliono muziejus</name>
+			<description>nėra info</description>
+			<LookAt>
+				<longitude>25.0746230268825</longitude>
+				<latitude>55.73430917322902</latitude>
+				<altitude>0</altitude>
+				<heading>-1.488758901403252</heading>
+				<tilt>0</tilt>
+				<range>490760.4122769862</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.341513,54.53907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos etnokosmologijos muziejus</name>
+			<description><![CDATA[<a href="http://www.cosmos.lt">http://www.cosmos.lt</a><img src="http://static.panoramio.com/photos/medium/69306386.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.55800146591238</longitude>
+				<latitude>55.31522098335616</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02508496410713087</heading>
+				<tilt>0</tilt>
+				<range>504.6926870114762</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.55514740835613,55.31537501813514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos geologijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Elektrenai/elektrimages/Geologija5z.jpg"/><a href="http://www.muziejai.lt/Elektrenai/elektrimages/Geologija5z.jpg">http://www.muziejai.lt/Elektrenai/elektrimages/Geologija5z.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.816692,54.77386910000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos jūrų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/delfinai01d.jpg"/><a href="http://www.muziejai.lt/Klaipeda/Klaipedosimages/delfinai01d.jpg">http://www.muziejai.lt/Klaipeda/Klaipedosimages/delfinai01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.10853707913254</longitude>
+				<latitude>55.71646210008014</latitude>
+				<altitude>0</altitude>
+				<heading>0.03402302022314541</heading>
+				<tilt>13.2087690896673</tilt>
+				<range>1177.322360729357</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.10129487409011,55.71686570207939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos karo akademijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/vilnius/paveikslai/karo_akademijos2d.jpg"/><a href="http://www.muziejai.lt/vilnius/paveikslai/karo_akademijos2d.jpg">http://www.muziejai.lt/vilnius/paveikslai/karo_akademijos2d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.31556481013662</longitude>
+				<latitude>54.70394541619233</latitude>
+				<altitude>0</altitude>
+				<heading>1.515720725336727</heading>
+				<tilt>0</tilt>
+				<range>773.2409072404877</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.31251416070011,54.70428611600632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos laisvės kovų ir kančių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Varena/Varenaimages/merkine5m0.jpg"/><a href="http://www.muziejai.lt/Varena/Varenaimages/merkine5m0.jpg">http://www.muziejai.lt/Varena/Varenaimages/merkine5m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.34141388709349</longitude>
+				<latitude>54.53955990817514</latitude>
+				<altitude>0</altitude>
+				<heading>-2.513391701060205</heading>
+				<tilt>0</tilt>
+				<range>1850.502185584945</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.18313,54.163391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos liaudies buities muziejus - rumšiškės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaisiadorys/images2011/llbm_kepurinis_malunas.jpg"/><a href="http://www.muziejai.lt/Kaisiadorys/images2011/llbm_kepurinis_malunas.jpg">http://www.muziejai.lt/Kaisiadorys/images2011/llbm_kepurinis_malunas.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.19717076540589</longitude>
+				<latitude>54.86855601163536</latitude>
+				<altitude>0</altitude>
+				<heading>-1.080775389216889</heading>
+				<tilt>1.203249471661679</tilt>
+				<range>1685.064816226471</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.19300847326035,54.86581199695029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos medicinos ir farmacijos istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/farmuz5.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/farmuz5.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/farmuz5.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.887556,54.89711699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos muzikos akademijos muziejus</name>
+			<description>Lietuvos muzikos akademijos muziejus</description>
+			<LookAt>
+				<longitude>21.29041647282074</longitude>
+				<latitude>55.40048348507528</latitude>
+				<altitude>0</altitude>
+				<heading>0.7498834600837127</heading>
+				<tilt>0</tilt>
+				<range>3433.503367757674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.269963,54.688774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos nacionalinis muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987213.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.44503581153527</longitude>
+				<latitude>55.44265653169397</latitude>
+				<altitude>0</altitude>
+				<heading>1.603948597509369</heading>
+				<tilt>0</tilt>
+				<range>497865.4158391984</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.289026,54.68735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos partizanų vadų bunkeris Mėnaičių kaime</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306388.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.55476706070125</longitude>
+				<latitude>55.62799217689393</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9532818400529802</heading>
+				<tilt>0</tilt>
+				<range>1488.212201529688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.55209156703054,55.62758949326116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos radijo ir televizijos muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306391.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.56288703179248</longitude>
+				<latitude>55.31102320424485</latitude>
+				<altitude>0</altitude>
+				<heading>0.001037659884488467</heading>
+				<tilt>0</tilt>
+				<range>2184.235442695311</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.249816,54.677351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos sporto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/sporto_muz1m.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/sporto_muz1m.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/sporto_muz1m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.56288703179248</longitude>
+				<latitude>55.31102320424485</latitude>
+				<altitude>0</altitude>
+				<heading>0.001037659884488467</heading>
+				<tilt>0</tilt>
+				<range>2184.235442695311</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.88369700000001,54.89586099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lietuvos teatro, muzikos ir kino muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/vienos1m.jpg"/><a href="http://www.muziejai.lt/Vilnius/Vilniausimages/vienos1m.jpg">http://www.muziejai.lt/Vilnius/Vilniausimages/vienos1m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.11105463285874</longitude>
+				<latitude>55.31390619555761</latitude>
+				<altitude>0</altitude>
+				<heading>2.913521307706242</heading>
+				<tilt>0</tilt>
+				<range>447225.179463016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.280575,54.681716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>M. ir K. Petrauskų lietuvių muzikos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2009/petrausku2_d.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2009/petrausku2_d.jpg">http://www.muziejai.lt/Kaunas/images2009/petrausku2_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.11105463285874</longitude>
+				<latitude>55.31390619555761</latitude>
+				<altitude>0</altitude>
+				<heading>2.913521307706242</heading>
+				<tilt>0</tilt>
+				<range>447225.179463016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.931517,54.9010197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Macikų lagerio karceris-muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/silute/Silutimages/Macikumuznn1nm.jpg"/><a href="http://www.muziejai.lt/silute/Silutimages/Macikumuznn1nm.jpg">http://www.muziejai.lt/silute/Silutimages/Macikumuznn1nm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.52355516771056</longitude>
+				<latitude>55.35513570124652</latitude>
+				<altitude>0</altitude>
+				<heading>-1.673065459529124</heading>
+				<tilt>0</tilt>
+				<range>1366.071385379529</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.51976006000506,55.35641132909741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcinkonių etnografijos muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306394.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.40397485177141</longitude>
+				<latitude>54.05379422868852</latitude>
+				<altitude>0</altitude>
+				<heading>0.001841854663738582</heading>
+				<tilt>0</tilt>
+				<range>1707.932443351639</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.40146168216296,54.05239111313221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijampolės kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Marijampole/Marijampolesimages/tautos_dv_urnos0.jpg"/><img src="http://www.muziejai.lt/Marijampole/Marijampolesimages/tautos_dv_etno0.jpg"/>
+<a href="http://www.muziejai.lt/Marijampole/Marijampolesimages/tautos_dv_etno0.jpg">http://www.muziejai.lt/Marijampole/Marijampolesimages/tautos_dv_etno0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.34874915078932</longitude>
+				<latitude>54.55232544182729</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002461455466765398</heading>
+				<tilt>0</tilt>
+				<range>220.6315502395074</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.34842376423564,54.55211894693167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marijos Savickienės gamtos išdaigų muziejus</name>
+			<description>Marijos Savickienės gamtos išdaigų muziejus</description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.20392,55.60080000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažeikių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Mazeikiai/mazeikiai_images/Mazeikiai4.jpg"/><a href="http://www.muziejai.lt/Mazeikiai/mazeikiai_images/Mazeikiai4.jpg">http://www.muziejai.lt/Mazeikiai/mazeikiai_images/Mazeikiai4.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.11213812397652</longitude>
+				<latitude>55.36819442271616</latitude>
+				<altitude>0</altitude>
+				<heading>1.279803320758556</heading>
+				<tilt>0</tilt>
+				<range>444021.4638879609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.348099,56.31633599999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažosios Lietuvos istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/Muz_fasadas_m0.jpg"/><img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/lobis_m0.jpg"/>
+
+<a href="http://www.muziejai.lt/Klaipeda/Klaipedosimages/lobis_m0.jpg">http://www.muziejai.lt/Klaipeda/Klaipedosimages/lobis_m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.11213812397652</longitude>
+				<latitude>55.36819442271616</latitude>
+				<altitude>0</altitude>
+				<heading>1.279803320758556</heading>
+				<tilt>0</tilt>
+				<range>444021.4638879609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.135697,55.708044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Medicinos muziejus</name>
+			<description>Medicinos muziejus</description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.366288,55.733317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Medinis apžvalgos bokštas prie Šeimyniškėlių piliakalnio</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_seimyniskeliu_d.jpg"/><a href="http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_seimyniskeliu_d.jpg">http://www.muziejai.lt/Anyksciai/Anyksciuimages/anyks_seimyniskeliu_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.11213812397652</longitude>
+				<latitude>55.36819442271616</latitude>
+				<altitude>0</altitude>
+				<heading>1.279803320758556</heading>
+				<tilt>0</tilt>
+				<range>444021.4638879609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.141032,55.544068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merkinės kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306395.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.11213812397652</longitude>
+				<latitude>55.36819442271616</latitude>
+				<altitude>0</altitude>
+				<heading>1.279803320758556</heading>
+				<tilt>0</tilt>
+				<range>444021.4638879609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.184804,54.16300200000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miniatiūrų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Neringa/Neringa_images/miniatiura.gif"/><a href="http://www.muziejai.lt/Neringa/Neringa_images/miniatiura.gif">http://www.muziejai.lt/Neringa/Neringa_images/miniatiura.gif</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.117142,55.53294900000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minčios malūno muziejus</name>
+			<description>Minčios malūno muziejus</description>
+			<LookAt>
+				<longitude>25.98147458293192</longitude>
+				<latitude>55.47677755322246</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06501746174677772</heading>
+				<tilt>0</tilt>
+				<range>1387.81458294224</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.97951497529124,55.47656799664439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mosėdžio akmenų muziejus - respublikinis</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Skuodas/skuodimages/mosedis7_d.jpg"/><a href="http://www.muziejai.lt/Skuodas/skuodimages/mosedis7_d.jpg">http://www.muziejai.lt/Skuodas/skuodimages/mosedis7_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.58270997634866</longitude>
+				<latitude>56.16487619091241</latitude>
+				<altitude>0</altitude>
+				<heading>-2.231878091597189</heading>
+				<tilt>0</tilt>
+				<range>1557.182782149725</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.57417575297906,56.16549767804017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moėtų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Moletai/Moletu_images/Moletai3nm.jpg"/><img src="http://www.muziejai.lt/Moletai/Moletu_images/Moletai5nm.jpg"/>
+
+<a href="http://www.muziejai.lt/Moletai/Moletu_images/Moletai5nm.jpg">http://www.muziejai.lt/Moletai/Moletu_images/Moletai5nm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.42163024353163</longitude>
+				<latitude>55.23180626009277</latitude>
+				<altitude>0</altitude>
+				<heading>1.886608112495022</heading>
+				<tilt>0</tilt>
+				<range>341.3794802456403</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.42038434230787,55.23184337266788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muziejus &quot;soviet bunker&quot;</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/23924312.jpg"/>
+http://www.sovietbunker.com/]]></description>
+			<LookAt>
+				<longitude>25.53684857411366</longitude>
+				<latitude>54.83123966765783</latitude>
+				<altitude>0</altitude>
+				<heading>0.3508679421197098</heading>
+				<tilt>0</tilt>
+				<range>998.9417178092847</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.5355444301488,54.83098459090346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muziejus Čepkelių valstybiniame rezervate</name>
+			<description><![CDATA[<a href="http://www.zoomuziejus.lt">http://www.zoomuziejus.lt</a><img src="http://static.panoramio.com/photos/medium/69306397.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.28465858839146</longitude>
+				<latitude>55.26904680546425</latitude>
+				<altitude>0</altitude>
+				<heading>-15.00101683379932</heading>
+				<tilt>0</tilt>
+				<range>218741.0037084736</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.404337,54.046085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muziejus Žuvinto valstybiniame rezervate</name>
+			<description><![CDATA[<a href="ttp://www.zuvintas.lt">ttp://www.zuvintas.lt</a><img src="http://static.panoramio.com/photos/medium/69306398.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.65154322020693</longitude>
+				<latitude>54.46009786797189</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04298554284288154</heading>
+				<tilt>0</tilt>
+				<range>3098.469387219897</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.64010509261788,54.45677387746652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mėčionys - etnografinis kaimas</name>
+			<description>Tai gatvinis-rėžinis kaimas įsikūręs XVI a. vid.</description>
+			<LookAt>
+				<longitude>26.5011506111514</longitude>
+				<latitude>55.26934095484904</latitude>
+				<altitude>0</altitude>
+				<heading>-3.138443444152327</heading>
+				<tilt>0</tilt>
+				<range>1190.566508155604</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.49754998376332,55.26994251266562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nacionalinis M. K. Čiurlionio dailės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/Ciurlionis6z.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/Ciurlionis6z.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/Ciurlionis6z.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.912324,54.900667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nacionalinė dailės galerija</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2010/ndg_ekspo_d.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2010/ndg_ekspo_d.jpg">http://www.muziejai.lt/Vilnius/images2010/ndg_ekspo_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35498015316468</longitude>
+				<latitude>54.82568384357096</latitude>
+				<altitude>0</altitude>
+				<heading>-1.123976218882392e-010</heading>
+				<tilt>0</tilt>
+				<range>1069.954540236572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.271007,54.697496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nalšios muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Svencionys/Svenc_images/nalsia4z.jpg"/><a href="http://www.muziejai.lt/Svencionys/Svenc_images/nalsia4z.jpg">http://www.muziejai.lt/Svencionys/Svenc_images/nalsia4z.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29431218922531</longitude>
+				<latitude>54.68609431522796</latitude>
+				<altitude>0</altitude>
+				<heading>6.470202388501233e-011</heading>
+				<tilt>0</tilt>
+				<range>1153.829595467161</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.159805,55.13482400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujasis arsenalas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987213.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29315267448725</longitude>
+				<latitude>54.68836103321542</latitude>
+				<altitude>0</altitude>
+				<heading>-2.754680512698734</heading>
+				<tilt>0</tilt>
+				<range>713.0245769589284</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28928444181017,54.68756204554774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujasodžio muziejus ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Moletai/Moletu_images/Naujasodis1.jpg"/><a href="http://www.muziejai.lt/Moletai/Moletu_images/Naujasodis1.jpg">http://www.muziejai.lt/Moletai/Moletu_images/Naujasodis1.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.32492359479113</longitude>
+				<latitude>55.3442852524375</latitude>
+				<altitude>0</altitude>
+				<heading>0.001416246624550463</heading>
+				<tilt>0</tilt>
+				<range>1294.068965091052</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.32307110336926,55.34362155530003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nemuno deltos regioninio parko gamtos muziejus</name>
+			<description>Nemuno deltos regioninio parko gamtos muziejus</description>
+			<LookAt>
+				<longitude>24.49941027775917</longitude>
+				<latitude>54.98122560947049</latitude>
+				<altitude>0</altitude>
+				<heading>2.266641313605879</heading>
+				<tilt>0</tilt>
+				<range>429698.2884437057</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.462397,55.341518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neringos istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Neringa/Neringa_images/neringos_muz09d.jpg"/><a href="http://www.muziejai.lt/Neringa/Neringa_images/neringos_muz09d.jpg">http://www.muziejai.lt/Neringa/Neringa_images/neringos_muz09d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.32492359479113</longitude>
+				<latitude>55.3442852524375</latitude>
+				<altitude>0</altitude>
+				<heading>0.001416246624550463</heading>
+				<tilt>0</tilt>
+				<range>1294.068965091052</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.010122,55.31094699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Notigalės partizanų bunkeris ~ koordinatės</name>
+			<description>Notigalės partizanų bunkeris ~ koordinatės</description>
+			<LookAt>
+				<longitude>25.34263278323874</longitude>
+				<latitude>55.95384154605437</latitude>
+				<altitude>0</altitude>
+				<heading>-0.76838438471601</heading>
+				<tilt>0</tilt>
+				<range>4946.161332348002</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.31407692083661,55.9484644783642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Obelių istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Rokiskis/Rokiskio_images/obeliu_muz01d.jpg"/><a href="http://www.muziejai.lt/Rokiskis/Rokiskio_images/obeliu_muz01d.jpg">http://www.muziejai.lt/Rokiskis/Rokiskio_images/obeliu_muz01d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.43610486561788</longitude>
+				<latitude>55.24439230972482</latitude>
+				<altitude>0</altitude>
+				<heading>0.02036648192231408</heading>
+				<tilt>0</tilt>
+				<range>599551.2966929361</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.796583,55.938975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orvidų sodyba-muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kretinga/Kretingosimages/orvydu1m.jpg"/><img src="http://www.muziejai.lt/Kretinga/Kretingosimages/orvydu3m.jpg"/><img src="http://www.muziejai.lt/Kretinga/Kretingosimages/orvydu4m.jpg"/>
+
+<a href="http://www.muziejai.lt/Kretinga/Kretingosimages/orvydu1m.jpg">http://www.muziejai.lt/Kretinga/Kretingosimages/orvydu1m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.61308999922702</longitude>
+				<latitude>56.05176999790745</latitude>
+				<altitude>0</altitude>
+				<heading>-6.41317504306259e-010</heading>
+				<tilt>0</tilt>
+				<range>3250.338792200009</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.61308999922701,56.05176999790745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo dvaro rūmai</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Pakruojis/pakruojis_images/pakruojis6.jpg"/><a href="http://www.muziejai.lt/Pakruojis/pakruojis_images/pakruojis6.jpg">http://www.muziejai.lt/Pakruojis/pakruojis_images/pakruojis6.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.07134499353332</longitude>
+				<latitude>56.042554727318</latitude>
+				<altitude>0</altitude>
+				<heading>17.46091863569083</heading>
+				<tilt>0</tilt>
+				<range>42118.97343541601</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.88469695508564,55.99049899999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo krašto muziejus „Žiemgala“</name>
+			<description>Pakruojo krašto muziejus „Žiemgala“</description>
+			<LookAt>
+				<longitude>24.07134499353332</longitude>
+				<latitude>56.042554727318</latitude>
+				<altitude>0</altitude>
+				<heading>17.46091863569083</heading>
+				<tilt>0</tilt>
+				<range>42118.97343541601</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.998805,56.272496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palangos gintaro muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306401.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.05948740618232</longitude>
+				<latitude>55.90785220922727</latitude>
+				<altitude>0</altitude>
+				<heading>1.773094921403389</heading>
+				<tilt>9.786330774002359</tilt>
+				<range>462.2998779985032</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.05619794891725,55.90718276923095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panevėžio kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Panevezys/Panevezimages/pkm09d.jpg"/><a href="http://www.muziejai.lt/Panevezys/Panevezimages/pkm09d.jpg">http://www.muziejai.lt/Panevezys/Panevezimages/pkm09d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.17383932327721</longitude>
+				<latitude>54.97927847650993</latitude>
+				<altitude>0</altitude>
+				<heading>19.19194072092687</heading>
+				<tilt>0</tilt>
+				<range>380231.6420019792</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.3584869,55.730183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partizanų bunkeris - milių kaimas ~ koordinatės</name>
+			<description><![CDATA[<a href="http://www.mke.lt">http://www.mke.lt</a><img src="http://static.panoramio.com/photos/medium/69306405.jpg"/>
+Kryžius šalia bunkerio.]]></description>
+			<LookAt>
+				<longitude>22.44120508154566</longitude>
+				<latitude>56.26410722364029</latitude>
+				<altitude>0</altitude>
+				<heading>2.4057831178163</heading>
+				<tilt>0</tilt>
+				<range>2525.541483502957</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.45839247148829,56.26328109294391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partizanų bunkeris - Norulių kaimas ~ koordinatės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306408.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.24592905092707</longitude>
+				<latitude>54.11935460871519</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4322524611735278</heading>
+				<tilt>0</tilt>
+				<range>6219.262451174413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.22290747995226,54.11047797235585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partizanų bunkeris ~ koordinatės</name>
+			<description>Partizanų bunkeris ~ koordinatės</description>
+			<LookAt>
+				<longitude>22.87992505146486</longitude>
+				<latitude>55.19980615400289</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08749233411570592</heading>
+				<tilt>0</tilt>
+				<range>4573.159295873357</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.85734901519429,55.19601178490697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partiznų bunkeris - žibininkų kaimas ~ koordinatės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306411.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.14955602017694</longitude>
+				<latitude>55.96033210800088</latitude>
+				<altitude>0</altitude>
+				<heading>-5.433258620387226</heading>
+				<tilt>0</tilt>
+				<range>611.4934955892214</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.1519333224826,55.95953201101728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parubežio partizanų bunkeris ~ koordinatės</name>
+			<description><![CDATA[<a href="http://sovietika.lt">http://sovietika.lt</a><img src="http://static.panoramio.com/photos/medium/69306413.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.60573461518671</longitude>
+				<latitude>55.4783993135066</latitude>
+				<altitude>0</altitude>
+				<heading>1.636749947821829</heading>
+				<tilt>0</tilt>
+				<range>8206.105815136289</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.56537705911338,55.47970624968394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasieniečių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/pasienio_uniformos.jpg"/><a href="http://www.muziejai.lt/Vilnius/Vilniausimages/pasienio_uniformos.jpg">http://www.muziejai.lt/Vilnius/Vilniausimages/pasienio_uniformos.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.28086534233142</longitude>
+				<latitude>54.68956410614674</latitude>
+				<altitude>0</altitude>
+				<heading>3.605106377678513</heading>
+				<tilt>15.01210379846904</tilt>
+				<range>335.1770553158166</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28001191160883,54.68928654271931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasipriešinimo sovietinei okupacijai ir Sąjūdžio muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Panevezys/Panevezimages/sajudzio_muz.jpg"/><a href="http://www.muziejai.lt/Panevezys/Panevezimages/sajudzio_muz.jpg">http://www.muziejai.lt/Panevezys/Panevezimages/sajudzio_muz.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.61251537991985</longitude>
+				<latitude>55.77930844469404</latitude>
+				<altitude>0</altitude>
+				<heading>18.66916323754051</heading>
+				<tilt>0</tilt>
+				<range>41497.49440130947</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.359741,55.7295117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasvalio krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Pasvalys/Pasvalioimages/pasvalio1m.jpg"/><img src="http://www.muziejai.lt/Pasvalys/Pasvalioimages/pasvalio2m.jpg"/>
+
+<a href="http://www.muziejai.lt/Pasvalys/Pasvalioimages/pasvalio2m.jpg">http://www.muziejai.lt/Pasvalys/Pasvalioimages/pasvalio2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.61251537991985</longitude>
+				<latitude>55.77930844469404</latitude>
+				<altitude>0</altitude>
+				<heading>18.66916323754051</heading>
+				<tilt>0</tilt>
+				<range>41497.49440130947</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.39983,56.059998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilies muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/Klaipedosimages/Frydricho_fragmentas_m0.jpg"/><a href="http://www.muziejai.lt/Klaipeda/Klaipedosimages/Frydricho_fragmentas_m0.jpg">http://www.muziejai.lt/Klaipeda/Klaipedosimages/Frydricho_fragmentas_m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.41875039169004</longitude>
+				<latitude>54.21523978363783</latitude>
+				<altitude>0</altitude>
+				<heading>0.004153040950183271</heading>
+				<tilt>0</tilt>
+				<range>1711.833199385219</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.132647,55.705645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirmojo pasaulinio karo Vokietijos kariuomenės Bartkiškės bunkeris</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306416.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.45775812845977</longitude>
+				<latitude>55.6868601618183</latitude>
+				<altitude>0</altitude>
+				<heading>0.00826121895077327</heading>
+				<tilt>0</tilt>
+				<range>412.4500661497597</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.45764955901266,55.68648735797507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirmojo pasaulinio karo Vokietijos kariuomenės bunkeris</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306420.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.57921868050935</longitude>
+				<latitude>55.66877834034596</latitude>
+				<altitude>0</altitude>
+				<heading>-2.717547300327484</heading>
+				<tilt>4.320890627417692</tilt>
+				<range>2757.583398076935</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.56511258499914,55.66440083465064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirmojo pasaulinio karo Vokietijos kariuomenės Kimbartiškės bunkeris</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306423.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.55843112844143</longitude>
+				<latitude>55.66134037231412</latitude>
+				<altitude>0</altitude>
+				<heading>0.05093485664297617</heading>
+				<tilt>0</tilt>
+				<range>1615.939320691997</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.5536380847905,55.65938387453581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirmojo pasaulinio karo Vokietijos kariuomenės Kimbartiškės bunkeris II</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306422.jpg"/>]]></description>
+			<LookAt>
+				<longitude>26.48643618621206</longitude>
+				<latitude>55.68547239044049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008516773321229449</heading>
+				<tilt>0</tilt>
+				<range>1639.084607384723</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.48700633115586,55.68559003280943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plokštinės sovietinė požeminė termobranduolinių raketų bazė (šaltojo karo muziejus)</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306427.jpg"/>
+
+Dabar bazės prieigos sutvarkytos, bazė atrestauruota, įrengtas muziejus.]]></description>
+			<LookAt>
+				<longitude>21.91389379526439</longitude>
+				<latitude>56.03348604248256</latitude>
+				<altitude>0</altitude>
+				<heading>-3.059580239206261</heading>
+				<tilt>0</tilt>
+				<range>2225.820155171016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.90640058468575,56.03206078515341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pogrindžio spaustuvė „ab“ ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/kaunas/kaunoimages/spaustuve_ab.jpg"/><img src="http://www.muziejai.lt/kaunas/images2011/VDKM_ab_02.jpg"/>
+
+<a href="http://www.muziejai.lt/kaunas/images2011/VDKM_ab_02.jpg">http://www.muziejai.lt/kaunas/images2011/VDKM_ab_02.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93670475146766</longitude>
+				<latitude>54.96037998232156</latitude>
+				<altitude>0</altitude>
+				<heading>1.15074240593989</heading>
+				<tilt>0</tilt>
+				<range>355.315732223221</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.93669323777152,54.9603851507203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polderių muziejus ~ koordinatės</name>
+			<description>Polderių muziejus ~ koordinatės</description>
+			<LookAt>
+				<longitude>21.30718447472012</longitude>
+				<latitude>55.34247608109759</latitude>
+				<altitude>0</altitude>
+				<heading>0.004240441666985426</heading>
+				<tilt>0</tilt>
+				<range>2396.84385283607</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.30937086392536,55.34392634768504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Povilo Stulgos lietuvių tautinės muzikos instrumentų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/stulgos14d.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/stulgos14d.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/stulgos14d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.11105463285874</longitude>
+				<latitude>55.31390619555761</latitude>
+				<altitude>0</altitude>
+				<heading>2.913521307706242</heading>
+				<tilt>0</tilt>
+				<range>447225.179463016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.892847,54.89570800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prano Domšaičio galerija</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Klaipeda/images2011/PDG_2011.jpg"/><a href="http://www.muziejai.lt/Klaipeda/images2011/PDG_2011.jpg">http://www.muziejai.lt/Klaipeda/images2011/PDG_2011.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.05961686307997</longitude>
+				<latitude>55.90733999587984</latitude>
+				<altitude>0</altitude>
+				<heading>1.773202113366338</heading>
+				<tilt>9.786327771341792</tilt>
+				<range>460.3333577322496</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.140139,55.714343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prienų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Prienai/prienu_images/prienu06d.jpg"/><a href="http://www.muziejai.lt/Prienai/prienu_images/prienu06d.jpg">http://www.muziejai.lt/Prienai/prienu_images/prienu06d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.43610486561788</longitude>
+				<latitude>55.24439230972482</latitude>
+				<altitude>0</altitude>
+				<heading>0.02036648192231408</heading>
+				<tilt>0</tilt>
+				<range>599551.2966929361</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.944232,54.632215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Priešgaisrinės apsaugos muziejus</name>
+			<description>Priešgaisrinės apsaugos muziejus</description>
+			<LookAt>
+				<longitude>21.30908788416004</longitude>
+				<latitude>55.34247598540055</latitude>
+				<altitude>0</altitude>
+				<heading>4.143276777995708e-010</heading>
+				<tilt>0</tilt>
+				<range>2396.874110786389</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.316336,55.956127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Punios girininkijos muziejus</name>
+			<description>Punios girininkijos muziejus</description>
+			<LookAt>
+				<longitude>24.0399497009123</longitude>
+				<latitude>54.50705756070444</latitude>
+				<altitude>0</altitude>
+				<heading>-4.857750027921109</heading>
+				<tilt>6.368542309749492</tilt>
+				<range>535.0870924926358</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.03828745076581,54.50690339780032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radijo ir televizijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/siauliai/Siauliuimages/gramofonas0.jpg"/><a href="http://www.muziejai.lt/siauliai/Siauliuimages/gramofonas0.jpg">http://www.muziejai.lt/siauliai/Siauliuimages/gramofonas0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.30908788416004</longitude>
+				<latitude>55.34247598540055</latitude>
+				<altitude>0</altitude>
+				<heading>4.143276777995708e-010</heading>
+				<tilt>0</tilt>
+				<range>2396.874110786389</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.311491,55.933462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radvilų rūmų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2012/radvilu_rumu_pastatas_m.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28195641937381</longitude>
+				<latitude>54.6848481405996</latitude>
+				<altitude>0</altitude>
+				<heading>-9.577761730687422</heading>
+				<tilt>1.18635221444187</tilt>
+				<range>823.9198414162784</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.27997393716028,54.6834285985838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raganos kalno skulptūrų parkas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306429.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.11458931708978</longitude>
+				<latitude>55.53681480671254</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5300462833464777</heading>
+				<tilt>0</tilt>
+				<range>464.9325635933079</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.11357956513567,55.5372123411739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raginėnų archeologijos paminklų kompleksas</name>
+			<description>Kompleksą sudaro 12 objektų. Piliakalniai ir senovės gyvenvietės, pilkapynai, senkapiai, mitologiniai akmenys.</description>
+			<LookAt>
+				<longitude>23.86750464948914</longitude>
+				<latitude>55.79362352822724</latitude>
+				<altitude>0</altitude>
+				<heading>2.012010294877957</heading>
+				<tilt>0</tilt>
+				<range>1500.379072136304</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.86443506713948,55.79270736668784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raseinių krašto istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Raseiniai/Raseiniu_images/raseiniumuziejusnm.jpg"/><img src="http://www.muziejai.lt/Raseiniai/Raseiniu_images/raseiniai5nm.jpg"/>
+
+<a href="http://www.muziejai.lt/Raseiniai/Raseiniu_images/raseiniai5nm.jpg">http://www.muziejai.lt/Raseiniai/Raseiniu_images/raseiniai5nm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.03130654090274</longitude>
+				<latitude>55.4868451590554</latitude>
+				<altitude>0</altitude>
+				<heading>2.962393002503606</heading>
+				<tilt>0</tilt>
+				<range>401593.890103613</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.132996,55.385635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rietavo Oginskių kultūros istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Rietavas/Rietavas_images/rietavas7nm.jpg"/><img src="http://www.muziejai.lt/Rietavas/Rietavas_images/Rietavmuz2.nJPGm.jpg"/>
+
+<a href="http://www.muziejai.lt/Rietavas/Rietavas_images/Rietavmuz2.nJPGm.jpg">http://www.muziejai.lt/Rietavas/Rietavas_images/Rietavmuz2.nJPGm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.03130654090274</longitude>
+				<latitude>55.4868451590554</latitude>
+				<altitude>0</altitude>
+				<heading>2.962393002503606</heading>
+				<tilt>0</tilt>
+				<range>401593.890103613</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.930816,55.728565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokiškio krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Rokiskis/Rokiskio_images/rokiskis2011_2_d.jpg"/><a href="http://www.muziejai.lt/Rokiskis/Rokiskio_images/rokiskis2011_2_d.jpg">http://www.muziejai.lt/Rokiskis/Rokiskio_images/rokiskis2011_2_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.93700504748832</longitude>
+				<latitude>55.72682333595287</latitude>
+				<altitude>0</altitude>
+				<heading>1.024203426601087</heading>
+				<tilt>0</tilt>
+				<range>1215.754287882805</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.596865,55.964246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ryšių istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/kaunoimages/pastas4nm.jpg"/><a href="http://www.muziejai.lt/Kaunas/kaunoimages/pastas4nm.jpg">http://www.muziejai.lt/Kaunas/kaunoimages/pastas4nm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.30908788416004</longitude>
+				<latitude>55.34247598540055</latitude>
+				<altitude>0</altitude>
+				<heading>4.143276777995708e-010</heading>
+				<tilt>0</tilt>
+				<range>2396.874110786389</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.885686,54.897215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salos II - etnografinis kaimas ~ koordinatės</name>
+			<description>Salos II - etnografinis kaimas</description>
+			<LookAt>
+				<longitude>26.02607207887073</longitude>
+				<latitude>55.34967038133063</latitude>
+				<altitude>0</altitude>
+				<heading>-0.103154187422984</heading>
+				<tilt>0</tilt>
+				<range>3471.41602293164</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.02017042335359,55.34394495940452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senasis arsenalas</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/S_arsenalas0.jpg"/><img src="http://www.muziejai.lt/Vilnius/Vilniausimages/Eksponatas3n0.gif"/>
+
+<a href="http://www.muziejai.lt/Vilnius/Vilniausimages/Eksponatas3n0.gif">http://www.muziejai.lt/Vilnius/Vilniausimages/Eksponatas3n0.gif</a>]]></description>
+			<LookAt>
+				<longitude>25.29315267448725</longitude>
+				<latitude>54.68836103321542</latitude>
+				<altitude>0</altitude>
+				<heading>-2.754680512698734</heading>
+				<tilt>0</tilt>
+				<range>713.0245769589284</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29111786177943,54.68807443034714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seniausias Panevėžio pastatas - Kranto g. 21</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/panevezys/Panevezimages/seniausias_pastatas0.jpg"/><img src="http://www.muziejai.lt/panevezys/Panevezimages/pkm03d.jpg"/><a href="http://www.muziejai.lt/panevezys/Panevezimages/pkm03d.jpg">http://www.muziejai.lt/panevezys/Panevezimages/pkm03d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.36351446245134</longitude>
+				<latitude>55.73173775967126</latitude>
+				<altitude>0</altitude>
+				<heading>18.27644732685031</heading>
+				<tilt>0</tilt>
+				<range>618.903337442857</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.36060363790184,55.73211723795386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senosios Katinautiškės - etnografinis kaimas</name>
+			<description>Gatvinis kaimas šalia Erzvėto ežero. Susikūręs XVII a.</description>
+			<LookAt>
+				<longitude>26.52020823060494</longitude>
+				<latitude>55.29968453053567</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3280945668111038</heading>
+				<tilt>0</tilt>
+				<range>1268.885148584463</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.51723169314565,55.29835435807763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senovinės bitininkystės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Ignalina/Ignalinos_images/Bitininkystes_muz2m.jpg"/><a href="http://www.muziejai.lt/Ignalina/Ignalinos_images/Bitininkystes_muz2m.jpg">http://www.muziejai.lt/Ignalina/Ignalinos_images/Bitininkystes_muz2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.94497674607904,55.40878259858599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Senovinės technikos muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306433.jpg"/><a href="http://www.techmuziejus.lt">http://www.techmuziejus.lt</a>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.576452,55.074213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siauruko muziejus Anykščių geležinkelio stotyje</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306434.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.110636,55.533842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Signatarų namai</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/nuotraukos/signataru05d.jpg"/><a href="http://www.muziejai.lt/Vilnius/nuotraukos/signataru05d.jpg">http://www.muziejai.lt/Vilnius/nuotraukos/signataru05d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.45311706290381</longitude>
+				<latitude>55.65096384881121</latitude>
+				<altitude>0</altitude>
+				<heading>-1.824479663041658</heading>
+				<tilt>0</tilt>
+				<range>487001.3799042283</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.289164,54.68228400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skulptūrų parkas ir žibininkų dolmenai</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/57374911.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/57374911.jpg">http://mw2.google.com/mw-panoramio/photos/medium/57374911.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.15108144980388</longitude>
+				<latitude>55.95918705021089</latitude>
+				<altitude>0</altitude>
+				<heading>-5.431994604230249</heading>
+				<tilt>0</tilt>
+				<range>686.8434412699457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.14924862696989,55.95775620526478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skuodo muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Skuodas/skuodimages/senieji_kaimo_amatai_moteru_darbai_d.jpg"/><a href="http://www.muziejai.lt/Skuodas/skuodimages/senieji_kaimo_amatai_moteru_darbai_d.jpg">http://www.muziejai.lt/Skuodas/skuodimages/senieji_kaimo_amatai_moteru_darbai_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.45311706290381</longitude>
+				<latitude>55.65096384881121</latitude>
+				<altitude>0</altitude>
+				<heading>-1.824479663041658</heading>
+				<tilt>0</tilt>
+				<range>487001.3799042283</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.520618,56.269293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sovietinių skulptūrų Grūto parkas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306437.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.08190363856324</longitude>
+				<latitude>54.02747300726941</latitude>
+				<altitude>0</altitude>
+				<heading>0.003789618983621171</heading>
+				<tilt>0</tilt>
+				<range>2030.381709785937</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.07851632148991,54.02381410693545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stelmužės bažnytinio meno muziejus ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Zarasai/zarasu_images/baznycia.jpg"/><a href="http://www.muziejai.lt/Zarasai/zarasu_images/baznycia.jpg">http://www.muziejai.lt/Zarasai/zarasu_images/baznycia.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.22645057583186</longitude>
+				<latitude>55.82712798183551</latitude>
+				<altitude>0</altitude>
+				<heading>0.007194969464531905</heading>
+				<tilt>0</tilt>
+				<range>3266.525278672451</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.2181708908102,55.82604784182643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stiklo muziejus ir paveikslų galerija</name>
+			<description><![CDATA[<img src="http://muziejus.moletai.lt/Stiklo_muziejus/pav/Ekspozicijos_fragmentas.jpg"/><a href="http://muziejus.moletai.lt/Stiklo_muziejus/pav/Ekspozicijos_fragmentas.jpg">http://muziejus.moletai.lt/Stiklo_muziejus/pav/Ekspozicijos_fragmentas.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.22645057583186</longitude>
+				<latitude>55.82712798183551</latitude>
+				<altitude>0</altitude>
+				<heading>0.007194969464531905</heading>
+				<tilt>0</tilt>
+				<range>3266.525278672451</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.120065,55.293394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taikomosios dailės muziejus</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987241.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29529951977057</longitude>
+				<latitude>54.68736451228607</latitude>
+				<altitude>0</altitude>
+				<heading>0.000805715260474319</heading>
+				<tilt>0</tilt>
+				<range>1133.719580030489</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29199071960703,54.68833432843773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragnų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Utena/Utenosimages/Tauragnu1m.jpg"/><img src="http://www.muziejai.lt/Utena/Utenosimages/Tauragnu2m.jpg"/>
+
+<a href="http://www.muziejai.lt/Utena/Utenosimages/Tauragnu2m.jpg">http://www.muziejai.lt/Utena/Utenosimages/Tauragnu2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.23533060372231</longitude>
+				<latitude>55.10551825853775</latitude>
+				<altitude>0</altitude>
+				<heading>0.5280872627357875</heading>
+				<tilt>0</tilt>
+				<range>457109.4175639802</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.815313,55.44234300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauragės krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Taurage/taurages_images/taurage1m.jpg"/><img src="http://www.muziejai.lt/Taurage/taurages_images/taurage2m.jpg"/>
+
+<a href="http://www.muziejai.lt/Taurage/taurages_images/taurage2m.jpg">http://www.muziejai.lt/Taurage/taurages_images/taurage2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.73636860851198</longitude>
+				<latitude>55.45041072683436</latitude>
+				<altitude>0</altitude>
+				<heading>2.941380122054835</heading>
+				<tilt>0</tilt>
+				<range>608478.8260468923</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.285073,55.252307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauro apygardos partizanų ir tremties muziejus</name>
+			<description>Tauro apygardos partizanų ir tremties muziejus</description>
+			<LookAt>
+				<longitude>24.23533060372231</longitude>
+				<latitude>55.10551825853775</latitude>
+				<altitude>0</altitude>
+				<heading>0.5280872627357875</heading>
+				<tilt>0</tilt>
+				<range>457109.4175639802</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.348447,54.552189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Trakai/traku_images/trakai2m.jpg"/><img src="http://www.muziejai.lt/Trakai/traku_images/trakai3m.jpg"/>
+
+<a href="http://www.muziejai.lt/Trakai/traku_images/trakai3m.jpg">http://www.muziejai.lt/Trakai/traku_images/trakai3m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.595548,54.483304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tremties ir rezistencijos ekspozicija</name>
+			<description>Tremties ir rezistencijos ekspozicija</description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.92498888888889,54.8905455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuskulėnų rimties parko memorialinis kompleksas</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2009/tuskulenai5_d.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2009/tuskulenai5_d.jpg">http://www.muziejai.lt/Vilnius/images2009/tuskulenai5_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.30329,54.697954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tėvo Stanislovo liturginių rūbų ir reikmenų kolekcija ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kedainiai/kedainiuimages/paberze_liktarnos_b01.jpg"/><a href="http://www.muziejai.lt/Kedainiai/kedainiuimages/paberze_liktarnos_b01.jpg">http://www.muziejai.lt/Kedainiai/kedainiuimages/paberze_liktarnos_b01.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.96829771710178</longitude>
+				<latitude>55.50392949042431</latitude>
+				<altitude>0</altitude>
+				<heading>0.002030108121185498</heading>
+				<tilt>0</tilt>
+				<range>1793.189134181693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.96484612493162,55.50350754626984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukmergės kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Ukmerge/ukmerges_images/ukmerges2011_5_d.jpg"/><a href="http://www.muziejai.lt/Ukmerge/ukmerges_images/ukmerges2011_5_d.jpg">http://www.muziejai.lt/Ukmerge/ukmerges_images/ukmerges2011_5_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.766006,55.250397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Utenos kraštotyros muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Utena/Utenosimages/ukm1d.jpg"/><a href="http://www.muziejai.lt/Utena/Utenosimages/ukm1d.jpg">http://www.muziejai.lt/Utena/Utenosimages/ukm1d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.602416,55.486339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užupio kalvystės galerija-muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/paveikslai/vilniaus_kalviai03m0.jpg"/><a href="http://www.muziejai.lt/Vilnius/paveikslai/vilniaus_kalviai03m0.jpg">http://www.muziejai.lt/Vilnius/paveikslai/vilniaus_kalviai03m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29673,54.680738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>V. Svitojaus kaimo kapelos „Gegužio žiedai“ muziejus</name>
+			<description>V. Svitojaus kaimo kapelos „Gegužio žiedai“ muziejus</description>
+			<LookAt>
+				<longitude>24.11105463285874</longitude>
+				<latitude>55.31390619555761</latitude>
+				<altitude>0</altitude>
+				<heading>2.913521307706242</heading>
+				<tilt>0</tilt>
+				<range>447225.179463016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.227553,54.413811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vabalninko muziejus</name>
+			<description>Vabalninko muziejus</description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.741334,55.976319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valdovų rūmai</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987278.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.29430656410784</longitude>
+				<latitude>54.68609402419446</latitude>
+				<altitude>0</altitude>
+				<heading>-5.116309555169673</heading>
+				<tilt>0</tilt>
+				<range>1153.816157955992</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28905139312871,54.68589248389256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valstybinis Vilniaus Gaono žydų muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/images2011/vgzm20.jpg"/><a href="http://www.muziejai.lt/Vilnius/images2011/vgzm20.jpg">http://www.muziejai.lt/Vilnius/images2011/vgzm20.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.27684,54.677303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veisiejų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Lazdijai/Lazdijuimages/veisieju2.jpg"/><a href="http://www.muziejai.lt/Lazdijai/Lazdijuimages/veisieju2.jpg">http://www.muziejai.lt/Lazdijai/Lazdijuimages/veisieju2.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.696649,54.100797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veiverių krašto istorijos atminties muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Prienai/prienu_images/daumanto03d.jpg"/><a href="http://www.muziejai.lt/Prienai/prienu_images/daumanto03d.jpg">http://www.muziejai.lt/Prienai/prienu_images/daumanto03d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.891,54.892165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veliuonos krašto istorijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Jurbarkas/jurbarkoimages/veliuonrumai.jpg"/><a href="http://www.muziejai.lt/Jurbarkas/jurbarkoimages/veliuonrumai.jpg">http://www.muziejai.lt/Jurbarkas/jurbarkoimages/veliuonrumai.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93599599607199</longitude>
+				<latitude>54.91695991978597</latitude>
+				<altitude>0</altitude>
+				<heading>0.2828525174062166</heading>
+				<tilt>0</tilt>
+				<range>302293.642999592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.27869,55.081166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Velnių muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2012/uzgaveniu_kauke_m.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2012/uzgaveniu_kauke_m.jpg">http://www.muziejai.lt/Kaunas/images2012/uzgaveniu_kauke_m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.96829771710178</longitude>
+				<latitude>55.50392949042431</latitude>
+				<altitude>0</altitude>
+				<heading>0.002030108121185498</heading>
+				<tilt>0</tilt>
+				<range>1793.189134181693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.91102400000001,54.90073199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventės rago ornitologijos stotis ~ koordinatės</name>
+			<description>Ventės rago ornitologijos stotis ~ koordinatės</description>
+			<LookAt>
+				<longitude>21.29041647282074</longitude>
+				<latitude>55.40048348507528</latitude>
+				<altitude>0</altitude>
+				<heading>0.7498834600837127</heading>
+				<tilt>0</tilt>
+				<range>3433.503367757674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.28610641818404,55.39964875556488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veprių krašto muziejus ~ koordinatės</name>
+			<description>Veprių krašto muziejus ~ koordinatės</description>
+			<LookAt>
+				<longitude>24.57882315776843</longitude>
+				<latitude>55.15123179384139</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7098998504342859</heading>
+				<tilt>0</tilt>
+				<range>1680.835325343677</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.57367998297304,55.15059215999347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viekšnių pirmosios vaistinės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Mazeikiai/mazeikiai_images/vaistu_gamyba1m.jpg"/><a href="http://www.muziejai.lt/Mazeikiai/mazeikiai_images/vaistu_gamyba1m.jpg">http://www.muziejai.lt/Mazeikiai/mazeikiai_images/vaistu_gamyba1m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.29041647282074</longitude>
+				<latitude>55.40048348507528</latitude>
+				<altitude>0</altitude>
+				<heading>0.7498834600837127</heading>
+				<tilt>0</tilt>
+				<range>3433.503367757674</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.51731600000001,56.232604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkaviškio krašto muziejus ~ koordinatės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/vilkaviskis/vilkaviskimages/oficina_d.jpg"/><a href="http://www.muziejai.lt/vilkaviskis/vilkaviskimages/oficina_d.jpg">http://www.muziejai.lt/vilkaviskis/vilkaviskimages/oficina_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.9276011595983</longitude>
+				<latitude>54.63824161492602</latitude>
+				<altitude>0</altitude>
+				<heading>1.494223963092224</heading>
+				<tilt>0</tilt>
+				<range>2909.99993613142</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.92656134272595,54.63509740626342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus apskrities centrinio pašto muziejus -2 aukštas</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/pastas0.jpg"/><a href="http://www.muziejai.lt/Vilnius/Vilniausimages/pastas0.jpg">http://www.muziejai.lt/Vilnius/Vilniausimages/pastas0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.282608,54.68661300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus dailės akademijos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/vdamuz1m.jpg"/><img src="http://www.muziejai.lt/Vilnius/Vilniausimages/vdamuz2m.jpg"/><img src="http://www.muziejai.lt/Vilnius/Vilniausimages/vdamuz3m.jpg"/>
+
+<a href="http://www.muziejai.lt/Vilnius/Vilniausimages/vdamuz3m.jpg">http://www.muziejai.lt/Vilnius/Vilniausimages/vdamuz3m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.96829771710178</longitude>
+				<latitude>55.50392949042431</latitude>
+				<altitude>0</altitude>
+				<heading>0.002030108121185498</heading>
+				<tilt>0</tilt>
+				<range>1793.189134181693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.292972,54.68382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus gynybinės sienos Bastėja</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/Vilniausimages/basteja_am.jpg"/><a href="http://www.muziejai.lt/Vilnius/Vilniausimages/basteja_am.jpg">http://www.muziejai.lt/Vilnius/Vilniausimages/basteja_am.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.2940467246062</longitude>
+				<latitude>54.67746487215714</latitude>
+				<altitude>0</altitude>
+				<heading>0.2743966136780169</heading>
+				<tilt>0</tilt>
+				<range>506.7905172643413</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.29251355961582,54.67719066330226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus paveikslų galerija</name>
+			<description><![CDATA[<a href="http://www.ldm.lt">http://www.ldm.lt</a><img src="http://static.panoramio.com/photos/medium/69306441.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.96829771710178</longitude>
+				<latitude>55.50392949042431</latitude>
+				<altitude>0</altitude>
+				<heading>0.002030108121185498</heading>
+				<tilt>0</tilt>
+				<range>1793.189134181693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.288648,54.68062700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilniaus universiteto muziejus - senų knygų ekspozicija ir senoji observatorija</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/67987426.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.28892713454014</longitude>
+				<latitude>54.68259940427192</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05589292063165777</heading>
+				<tilt>0</tilt>
+				<range>453.8248083820131</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.28721462983668,54.68270404363764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vytauto Didžiojo karo muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kaunas/images2011/VDKM_4.jpg"/><a href="http://www.muziejai.lt/Kaunas/images2011/VDKM_4.jpg">http://www.muziejai.lt/Kaunas/images2011/VDKM_4.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.38007018366596</longitude>
+				<latitude>55.09152196891927</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04544740505647289</heading>
+				<tilt>0</tilt>
+				<range>414477.2000468406</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.910909,54.89916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vytauto Kazimiero Jonyno galerija</name>
+			<description>Vytauto Kazimiero Jonyno galerija</description>
+			<LookAt>
+				<longitude>24.94300999288519</longitude>
+				<latitude>55.82879256881432</latitude>
+				<altitude>0</altitude>
+				<heading>0.5011064754156424</heading>
+				<tilt>0</tilt>
+				<range>718571.5018792513</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.968292,54.01810699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vytauto Ulevičiaus medžio skulptūrų muziejus</name>
+			<description><![CDATA[<a href="http://www.kedainiumuziejus.lt">http://www.kedainiumuziejus.lt</a><img src="http://static.panoramio.com/photos/medium/69306444.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.94300999288519</longitude>
+				<latitude>55.82879256881432</latitude>
+				<altitude>0</altitude>
+				<heading>0.5011064754156424</heading>
+				<tilt>0</tilt>
+				<range>718571.5018792513</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.974032,55.288078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vytauto Valiušio keramikos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Utena/Utenosimages/Valiusio_keramika2m0.jpg"/><img src="http://www.muziejai.lt/Utena/Utenosimages/Valiusio_keramika3m0.jpg"/>
+
+<a href="http://www.muziejai.lt/Utena/Utenosimages/Valiusio_keramika3m0.jpg">http://www.muziejai.lt/Utena/Utenosimages/Valiusio_keramika3m0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.97798542847778</longitude>
+				<latitude>55.03512790099798</latitude>
+				<altitude>0</altitude>
+				<heading>-9.442735033440282</heading>
+				<tilt>0</tilt>
+				<range>239188.3440116463</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.392702,55.475471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zanavykų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Sakiai/sakiuimages/zanavyku2m.jpg"/><img src="http://www.muziejai.lt/Sakiai/sakiuimages/zanav_ekspoz2.jpg"/><img src="http://www.muziejai.lt/Sakiai/sakiuimages/zanav_ekspoz6.jpg"/>
+
+<a href="http://www.muziejai.lt/Sakiai/sakiuimages/zanav_ekspoz6.jpg">http://www.muziejai.lt/Sakiai/sakiuimages/zanav_ekspoz6.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.93670475146766</longitude>
+				<latitude>54.96037998232156</latitude>
+				<altitude>0</altitude>
+				<heading>1.15074240593989</heading>
+				<tilt>0</tilt>
+				<range>355.315732223221</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.060518,54.950998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zarasų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Zarasai/zarasu_images/pastatas0.jpg"/><img src="http://www.muziejai.lt/Zarasai/zarasu_images/zarasain2m.jpg"/>
+
+<a href="http://www.muziejai.lt/Zarasai/zarasu_images/zarasain2m.jpg">http://www.muziejai.lt/Zarasai/zarasu_images/zarasain2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.19723429701805</longitude>
+				<latitude>55.3855812148907</latitude>
+				<altitude>0</altitude>
+				<heading>2.286580969717823</heading>
+				<tilt>0</tilt>
+				<range>435034.6611809578</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>26.24466,55.730724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zervynos - etnografinis gatvinis kaimas</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306448.jpg"/>]]></description>
+			<LookAt>
+				<longitude>24.49987647057778</longitude>
+				<latitude>54.10958945240559</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08780410812564196</heading>
+				<tilt>0</tilt>
+				<range>1274.507716207444</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.49793993936771,54.10991272938317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čekoniškių verbų ir buities seklyčia ~ koordinatės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69306347.jpg"/>]]></description>
+			<LookAt>
+				<longitude>25.09316115899713</longitude>
+				<latitude>54.74115988538569</latitude>
+				<altitude>0</altitude>
+				<heading>2.629867728825779</heading>
+				<tilt>0</tilt>
+				<range>3376.438911885042</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.085186282021,54.7356550831016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>šaukėnų krašto muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Kelme/Kelmesimages/Saukenai_c0.jpg"/><a href="http://www.muziejai.lt/Kelme/Kelmesimages/Saukenai_c0.jpg">http://www.muziejai.lt/Kelme/Kelmesimages/Saukenai_c0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.87680100042357</longitude>
+				<latitude>55.81104000054483</latitude>
+				<altitude>0</altitude>
+				<heading>3.5028084817894e-010</heading>
+				<tilt>0</tilt>
+				<range>2417.384131530127</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.87680100042358,55.81104000054483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šeduvos kraštotyros ekspozicija</name>
+			<description>Šeduvos kraštotyros ekspozicija</description>
+			<LookAt>
+				<longitude>24.02532428770581</longitude>
+				<latitude>55.80704596596446</latitude>
+				<altitude>0</altitude>
+				<heading>1.81944229327575</heading>
+				<tilt>0</tilt>
+				<range>14108.78063405769</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.756049,55.752967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių geležinkelio muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Virtualios/litrail11.jpg"/><a href="http://www.muziejai.lt/Virtualios/litrail11.jpg">http://www.muziejai.lt/Virtualios/litrail11.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.313724,55.923778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių „Aušros“ muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/siauliai/Siauliuimages/ausra2m.jpg"/><a href="http://www.muziejai.lt/siauliai/Siauliuimages/ausra2m.jpg">http://www.muziejai.lt/siauliai/Siauliuimages/ausra2m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.31695480373007</longitude>
+				<latitude>55.92784715032324</latitude>
+				<altitude>0</altitude>
+				<heading>0.3961425290473534</heading>
+				<tilt>0</tilt>
+				<range>314.326693947574</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.31627235140786,55.92763948750307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilalės Vlado Statkevičiaus muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Silale/images2009/silales_muz02d.jpg"/><a href="http://www.muziejai.lt/Silale/images2009/silales_muz02d.jpg">http://www.muziejai.lt/Silale/images2009/silales_muz02d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.74184398766393</longitude>
+				<latitude>55.21519394286806</latitude>
+				<altitude>0</altitude>
+				<heading>1.565517279229062</heading>
+				<tilt>0</tilt>
+				<range>452679.813528506</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.181223,55.490815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės MSV istorijos muziejus</name>
+			<description>Šilutės MSV istorijos muziejus</description>
+			<LookAt>
+				<longitude>25.94574237838965</longitude>
+				<latitude>55.40943662295084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6926716410633804</heading>
+				<tilt>0</tilt>
+				<range>1106.371723406609</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.280625,54.702349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Silute/Silutimages/silute4nm.jpg"/><img src="http://www.muziejai.lt/Silute/Silutimages/silutes_muz_interjeras0.jpg"/>
+
+<a href="http://www.muziejai.lt/Silute/Silutimages/silutes_muz_interjeras0.jpg">http://www.muziejai.lt/Silute/Silutimages/silutes_muz_interjeras0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.76705340791262</longitude>
+				<latitude>54.66759164038892</latitude>
+				<altitude>0</altitude>
+				<heading>0.002982827690791302</heading>
+				<tilt>0</tilt>
+				<range>1686.539170780817</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.469908,55.34278700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiluvos muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Raseiniai/Raseiniu_images/siluva7_d.jpg"/><a href="http://www.muziejai.lt/Raseiniai/Raseiniu_images/siluva7_d.jpg">http://www.muziejai.lt/Raseiniai/Raseiniu_images/siluva7_d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.76705340791262</longitude>
+				<latitude>54.66759164038892</latitude>
+				<altitude>0</altitude>
+				<heading>0.002982827690791302</heading>
+				<tilt>0</tilt>
+				<range>1686.539170780817</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.22391,55.530606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėkšnos muziejus</name>
+			<description>Švėkšnos muziejus</description>
+			<LookAt>
+				<longitude>25.08002197233319</longitude>
+				<latitude>55.20186023744122</latitude>
+				<altitude>0</altitude>
+				<heading>0.8463601446581943</heading>
+				<tilt>0</tilt>
+				<range>640215.9791595639</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.62189,55.513799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žaliūkų malūnininko sodyba</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Siauliai/Siauliuimages/malunas0.jpg"/><a href="http://www.muziejai.lt/Siauliai/Siauliuimages/malunas0.jpg">http://www.muziejai.lt/Siauliai/Siauliuimages/malunas0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.27554525757967</longitude>
+				<latitude>55.92339772431765</latitude>
+				<altitude>0</altitude>
+				<heading>0.01070468741453469</heading>
+				<tilt>0</tilt>
+				<range>750.695813877496</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>23.27122504359925,55.92363401203897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaitijos kaimo muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Telsiai/telsiai_images/malunas0.jpg"/><img src="http://www.muziejai.lt/Telsiai/telsiai_images/arkliukai0.jpg"/>
+
+<a href="http://www.muziejai.lt/Telsiai/telsiai_images/arkliukai0.jpg">http://www.muziejai.lt/Telsiai/telsiai_images/arkliukai0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.2957279952764</longitude>
+				<latitude>56.10835867476784</latitude>
+				<altitude>0</altitude>
+				<heading>0.6812341587855263</heading>
+				<tilt>0</tilt>
+				<range>773.4833945896621</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.29277058706657,56.10855072723572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių dailės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Plunge/images2010/zdm04.jpg"/><a href="http://www.muziejai.lt/Plunge/images2010/zdm04.jpg">http://www.muziejai.lt/Plunge/images2010/zdm04.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.97798542847778</longitude>
+				<latitude>55.03512790099798</latitude>
+				<altitude>0</altitude>
+				<heading>-9.442735033440282</heading>
+				<tilt>0</tilt>
+				<range>239188.3440116463</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.815024,56.042458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių krašto etnokultūros centro muziejus</name>
+			<description>Žemaičių krašto etnokultūros centro muziejus</description>
+			<LookAt>
+				<longitude>25.19723429701805</longitude>
+				<latitude>55.3855812148907</latitude>
+				<altitude>0</altitude>
+				<heading>2.286580969717823</heading>
+				<tilt>0</tilt>
+				<range>435034.6611809578</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.700592,55.359252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių muziejus „Alka“</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Telsiai/telsiai_images/Telsiumuzn1nm.jpg"/><a href="http://www.muziejai.lt/Telsiai/telsiai_images/Telsiumuzn1nm.jpg">http://www.muziejai.lt/Telsiai/telsiai_images/Telsiumuzn1nm.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.48972957249996</longitude>
+				<latitude>55.28668695526798</latitude>
+				<altitude>0</altitude>
+				<heading>2.356080788982029</heading>
+				<tilt>0</tilt>
+				<range>454708.3322332517</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.235314,55.975877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemaičių vyskupystės muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Telsiai/telsiai_images/Vyskupvidutine0.jpg"/><a href="http://www.muziejai.lt/Telsiai/telsiai_images/Vyskupvidutine0.jpg">http://www.muziejai.lt/Telsiai/telsiai_images/Vyskupvidutine0.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.48972957249996</longitude>
+				<latitude>55.28668695526798</latitude>
+				<altitude>0</altitude>
+				<heading>2.356080788982029</heading>
+				<tilt>0</tilt>
+				<range>454708.3322332517</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>22.372445,55.744469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žemdirbio muziejus</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Skuodas/skuodimages/aleksandrijos_muz02m.jpg"/><a href="http://www.muziejai.lt/Skuodas/skuodimages/aleksandrijos_muz02m.jpg">http://www.muziejai.lt/Skuodas/skuodimages/aleksandrijos_muz02m.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.68092989050964</longitude>
+				<latitude>56.29063017573709</latitude>
+				<altitude>0</altitude>
+				<heading>3.409115162086276</heading>
+				<tilt>19.62103987984165</tilt>
+				<range>1977.485864008457</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>21.67580918366049,56.2906055857874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žydų kapinės</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/medium/69410404.jpg"/><img src="http://static.panoramio.com/photos/medium/69410374.jpg"/>Žydų kapinės]]></description>
+			<LookAt>
+				<longitude>24.03632264732924</longitude>
+				<latitude>54.37986840780638</latitude>
+				<altitude>0</altitude>
+				<heading>-3.018301001048414</heading>
+				<tilt>12.69776674040899</tilt>
+				<range>2058.762690831617</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>24.04210149716137,54.37848904641395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>„Vitražo manufaktūros“ galerija-dirbtuvės</name>
+			<description><![CDATA[<img src="http://www.muziejai.lt/Vilnius/paveikslai/vitrazo_manufaktura_05d.jpg"/><a href="http://www.muziejai.lt/Vilnius/paveikslai/vitrazo_manufaktura_05d.jpg">http://www.muziejai.lt/Vilnius/paveikslai/vitrazo_manufaktura_05d.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.96829771710178</longitude>
+				<latitude>55.50392949042431</latitude>
+				<altitude>0</altitude>
+				<heading>0.002030108121185498</heading>
+				<tilt>0</tilt>
+				<range>1793.189134181693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin000</styleUrl>
+			<Point>
+				<coordinates>25.286736,54.679716,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

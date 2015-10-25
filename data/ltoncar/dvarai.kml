@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dvaraib.kmz</name>
+	<StyleMap id="msn_red-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_red-pushpin20">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_red-pushpin10">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_red-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_red-pushpin100">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_red-pushpin2">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Dvarai</name>
+		<Placemark>
+			<name>Alantės dvaras</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/1074385.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/1074385.jpg">http://mw2.google.com/mw-panoramio/photos/medium/1074385.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.55633199720641</longitude>
+				<latitude>55.52018406741923</latitude>
+				<altitude>0</altitude>
+				<heading>4.377767064745553</heading>
+				<tilt>0</tilt>
+				<range>1222.189520628095</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.55226810390301,55.52124156323856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žeimių dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jona_zeim_095.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jona_zeim_095.jpg">http://www.heritage.lt/dvarai/images/b_jona_zeim_095.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.22104800023609</longitude>
+				<latitude>55.18051000050111</latitude>
+				<altitude>0</altitude>
+				<heading>1.937466689760316e-010</heading>
+				<tilt>0</tilt>
+				<range>5707.431145199556</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.22880143332987,55.18227541771363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adomynės dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kupi_adomy_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kupi_adomy_006.jpg">http://www.heritage.lt/dvarai/images/b_kupi_adomy_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.31183395815044</longitude>
+				<latitude>55.74957225083848</latitude>
+				<altitude>0</altitude>
+				<heading>7.318578674759727</heading>
+				<tilt>0</tilt>
+				<range>1183.674433870291</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.30445517341037,55.74947704199903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujasodžio dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_mole_alan_043.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_mole_alan_043.jpg">http://www.heritage.lt/dvarai/images/b_mole_alan_043.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.32383927241935</longitude>
+				<latitude>55.34545766754749</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005242109478679744</heading>
+				<tilt>0</tilt>
+				<range>3563.083494973689</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.32383927241935,55.3454576675475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aleksandrijos dvaras</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=15049&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=15049&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=15049&width=400</a>]]></description>
+			<LookAt>
+				<longitude>23.37762328237912</longitude>
+				<latitude>55.92167233315313</latitude>
+				<altitude>0</altitude>
+				<heading>8.737634108167017</heading>
+				<tilt>0</tilt>
+				<range>2342.131557842755</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.37688447134237,55.92040746133713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antašavos dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kupi_antasav_068.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kupi_antasav_068.jpg">http://www.heritage.lt/dvarai/images/b_kupi_antasav_068.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.81112730934488</longitude>
+				<latitude>55.90808347674333</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08000543715050756</heading>
+				<tilt>0</tilt>
+				<range>2996.866149478215</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.80094766509897,55.90600030688334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antavilių dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_antavil_056.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_antavil_056.jpg">http://www.heritage.lt/dvarai/images/b_viln_antavil_056.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.39984064853207</longitude>
+				<latitude>54.79598680287214</latitude>
+				<altitude>0</altitude>
+				<heading>0.01958993577096273</heading>
+				<tilt>0</tilt>
+				<range>3399.584860843249</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.39672027739803,54.79351102001186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antazavės dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_zara_antaz_019.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_zara_antaz_019.jpg">http://www.heritage.lt/dvarai/images/b_zara_antaz_019.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.92632688400085</longitude>
+				<latitude>55.81055986797894</latitude>
+				<altitude>0</altitude>
+				<heading>0.001126569478416362</heading>
+				<tilt>0</tilt>
+				<range>1635.707067861326</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.92600257001806,55.80866941112333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bubių dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_bubi_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_bubi_006.jpg">http://www.heritage.lt/dvarai/images/b_siau_bubi_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.15993424019887</longitude>
+				<latitude>55.85382738609196</latitude>
+				<altitude>0</altitude>
+				<heading>0.01069276616634953</heading>
+				<tilt>0</tilt>
+				<range>2906.644222182621</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.14639678853812,55.85330075258017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apytalaukio dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_apytal_037.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_apytal_037.jpg">http://www.heritage.lt/dvarai/images/b_keda_apytal_037.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.02334400019807</longitude>
+				<latitude>55.33259599952065</latitude>
+				<altitude>0</altitude>
+				<heading>1.628603024643393e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00014999743</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.02334400019807,55.33259599952065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ariogalos dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_rase_ariog_014.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_rase_ariog_014.jpg">http://www.heritage.lt/dvarai/images/b_rase_ariog_014.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.50842620337228</longitude>
+				<latitude>55.26211792240196</latitude>
+				<altitude>0</altitude>
+				<heading>0.03266749618723946</heading>
+				<tilt>0</tilt>
+				<range>2442.720134606344</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.50380630245122,55.26201721357512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arnionių dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_mole_arnio_004.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_mole_arnio_004.jpg">http://www.heritage.lt/dvarai/images/b_mole_arnio_004.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.7324931762582</longitude>
+				<latitude>55.04890824184007</latitude>
+				<altitude>0</altitude>
+				<heading>0.02870721282142309</heading>
+				<tilt>0</tilt>
+				<range>5139.305480910572</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.71641633453966,55.04974693074478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aštriosios Kirsnos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_lazd_astrkirs_064.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_lazd_astrkirs_064.jpg">http://www.heritage.lt/dvarai/images/b_lazd_astrkirs_064.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.39122125698282</longitude>
+				<latitude>54.30612643115499</latitude>
+				<altitude>0</altitude>
+				<heading>1.034417627677024</heading>
+				<tilt>0</tilt>
+				<range>2093.677485240796</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.38849707687448,54.30427801598936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astravo dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_birz_astrav_035.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_birz_astrav_035.jpg">http://www.heritage.lt/dvarai/images/b_birz_astrav_035.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.77499849937481</longitude>
+				<latitude>56.2186459124469</latitude>
+				<altitude>0</altitude>
+				<heading>0.04285654962175344</heading>
+				<tilt>0</tilt>
+				<range>11810.44329550465</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.76591740658319,56.2198020776633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštadvario dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_trak_aukstad_010.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_trak_aukstad_010.jpg">http://www.heritage.lt/dvarai/images/b_trak_aukstad_010.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.55161441493907</longitude>
+				<latitude>54.58052695131283</latitude>
+				<altitude>0</altitude>
+				<heading>0.01918865746685894</heading>
+				<tilt>0</tilt>
+				<range>9604.577384051594</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.51895747423369,54.57307393300956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aukštosios Fredos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kaun_auksfred_001.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kaun_auksfred_001.jpg">http://www.heritage.lt/dvarai/images/b_kaun_auksfred_001.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.91287515612653</longitude>
+				<latitude>54.87140743472006</latitude>
+				<altitude>0</altitude>
+				<heading>0.002424068972353774</heading>
+				<tilt>0</tilt>
+				<range>597.5081483167144</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.91007116835446,54.87145797405304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Babtyno dvaro sodyba, vad. Žemaitkiemio</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kaun_zemaitk_038.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kaun_zemaitk_038.jpg">http://www.heritage.lt/dvarai/images/b_kaun_zemaitk_038.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.79060581393016</longitude>
+				<latitude>55.06823947450607</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002105459855277372</heading>
+				<tilt>0</tilt>
+				<range>1814.134790167009</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.79098821143928,55.06626023696858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bagdoniškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_bagdon_046.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_bagdon_046.jpg">http://www.heritage.lt/dvarai/images/b_roki_bagdon_046.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.7287387453203</longitude>
+				<latitude>55.89212877576237</latitude>
+				<altitude>0</altitude>
+				<heading>0.002775190133333044</heading>
+				<tilt>0</tilt>
+				<range>2508.535570922393</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.72747656709371,55.89187041317095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baisiogalos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/50941119.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/50941119.jpg">http://mw2.google.com/mw-panoramio/photos/medium/50941119.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.72239090194203</longitude>
+				<latitude>55.64173099665089</latitude>
+				<altitude>0</altitude>
+				<heading>3.154562848413289</heading>
+				<tilt>0</tilt>
+				<range>16207.20467883046</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.71068726954291,55.63664148227527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bartkuškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sirv_bartkusk_019.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sirv_bartkusk_019.jpg">http://www.heritage.lt/dvarai/images/b_sirv_bartkusk_019.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.93481004802993</longitude>
+				<latitude>54.94024040477576</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004186083710280912</heading>
+				<tilt>0</tilt>
+				<range>3345.685913506918</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.93467922775386,54.9413363822877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beinoravos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_bein_002.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_bein_002.jpg">http://www.heritage.lt/dvarai/images/b_radv_bein_002.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.0176049479982</longitude>
+				<latitude>55.74896202764072</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0293865005601463</heading>
+				<tilt>0</tilt>
+				<range>2254.316527515739</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.01264019866258,55.74729546473238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belvederio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jurb_belv_046.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jurb_belv_046.jpg">http://www.heritage.lt/dvarai/images/b_jurb_belv_046.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.39818673484993</longitude>
+				<latitude>55.08934070424466</latitude>
+				<altitude>0</altitude>
+				<heading>0.006526385459218321</heading>
+				<tilt>0</tilt>
+				<range>7043.247645065485</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.39194487081979,55.07976300317037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beržėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kelm_berz_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kelm_berz_021.jpg">http://www.heritage.lt/dvarai/images/b_kelm_berz_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.81670813788956</longitude>
+				<latitude>55.82780929496108</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7908408673980132</heading>
+				<tilt>0</tilt>
+				<range>1640.224161013275</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.80995653586586,55.82563314691559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bijotų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sila_baub_072.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sila_baub_072.jpg">http://www.heritage.lt/dvarai/images/b_sila_baub_072.jpg</a><img src="http://www.heritage.lt/dvarai/images/b_sila_baub_055.jpg"/>]]></description>
+			<LookAt>
+				<longitude>22.58613569444423</longitude>
+				<latitude>55.47131467361201</latitude>
+				<altitude>0</altitude>
+				<heading>0.00685378082055001</heading>
+				<tilt>0</tilt>
+				<range>3957.79610754791</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.56879427720657,55.46802615138905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bikuškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_uten_bikus_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_uten_bikus_006.jpg">http://www.heritage.lt/dvarai/images/b_uten_bikus_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.68910965835077</longitude>
+				<latitude>55.60541437966342</latitude>
+				<altitude>0</altitude>
+				<heading>0.01004117615347929</heading>
+				<tilt>0</tilt>
+				<range>3293.074398452706</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.68965848599074,55.60575380895145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biliūnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_rase_biliun_033.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_rase_biliun_033.jpg">http://www.heritage.lt/dvarai/images/b_rase_biliun_033.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.1846352615835</longitude>
+				<latitude>55.33592828943135</latitude>
+				<altitude>0</altitude>
+				<heading>-1.098842056204243</heading>
+				<tilt>0</tilt>
+				<range>7748.114125245332</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.18152451648287,55.33224899801208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biržuvėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_tels_birz_069.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_tels_birz_069.jpg">http://www.heritage.lt/dvarai/images/b_tels_birz_069.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.46252572343134</longitude>
+				<latitude>55.89315577748834</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006969525817301463</heading>
+				<tilt>0</tilt>
+				<range>1874.56391280998</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.45393255886378,55.89237346074752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buivydiškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_buivydisk_001.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_buivydisk_001.jpg">http://www.heritage.lt/dvarai/images/b_viln_buivydisk_001.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.20645472781849</longitude>
+				<latitude>54.72494755683377</latitude>
+				<altitude>0</altitude>
+				<heading>-3.848881253984087</heading>
+				<tilt>0</tilt>
+				<range>6468.621630610129</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.1987747872397,54.71955986074585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buktos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=51340&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=51340&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=51340&width=400</a>]]></description>
+			<LookAt>
+				<longitude>23.3951802374652</longitude>
+				<latitude>54.4514756646508</latitude>
+				<altitude>0</altitude>
+				<heading>-1.098123307912757</heading>
+				<tilt>0</tilt>
+				<range>3461.663194129725</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.39466609542788,54.45005671624843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bulakavo buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_lazd_bula_036.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_lazd_bula_036.jpg">http://www.heritage.lt/dvarai/images/b_lazd_bula_036.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.41851399238302</longitude>
+				<latitude>54.28150334750569</latitude>
+				<altitude>0</altitude>
+				<heading>0.01741181507258757</heading>
+				<tilt>0</tilt>
+				<range>6142.627619854569</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.39186394442462,54.2784376312698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burbiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_burbis_011.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_burbis_011.jpg">http://www.heritage.lt/dvarai/images/b_anyk_burbis_011.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.22289823350009</longitude>
+				<latitude>55.50321140570259</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001958063740379937</heading>
+				<tilt>0</tilt>
+				<range>1621.521237852786</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.21667370924488,55.50139405928852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burbiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_burb_031.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_burb_031.jpg">http://www.heritage.lt/dvarai/images/b_radv_burb_031.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.910419126242</longitude>
+				<latitude>55.78586923274512</latitude>
+				<altitude>0</altitude>
+				<heading>0.02943775202551011</heading>
+				<tilt>0</tilt>
+				<range>7542.465590186825</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.89917524741715,55.7818495909506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burbiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_rase_burbis_002.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_rase_burbis_002.jpg">http://www.heritage.lt/dvarai/images/b_rase_burbis_002.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.35651244539008</longitude>
+				<latitude>55.36810114541969</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01002277211327674</heading>
+				<tilt>0</tilt>
+				<range>6184.176760844528</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.32133075189312,55.36516434067267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cirkliškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sven_cirklis_082.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sven_cirklis_082.jpg">http://www.heritage.lt/dvarai/images/b_sven_cirklis_082.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.14289676624172</longitude>
+				<latitude>55.11910674051244</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1223475887721228</heading>
+				<tilt>0</tilt>
+				<range>805.9612130367826</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.13860392579399,55.11890757574966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čiobiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sirv_ciobisk_070.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sirv_ciobisk_070.jpg">http://www.heritage.lt/dvarai/images/b_sirv_ciobisk_070.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.66177427190396</longitude>
+				<latitude>54.95459726985361</latitude>
+				<altitude>0</altitude>
+				<heading>0.1551738230949511</heading>
+				<tilt>0</tilt>
+				<range>2994.482104935882</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.65332959407121,54.95274483478493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Čiulų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_mole_ciul_010.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_mole_ciul_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_mole_ciul_006.jpg">http://www.heritage.lt/dvarai/images/b_mole_ciul_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.63641520521911</longitude>
+				<latitude>55.23551484837078</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003119956567692459</heading>
+				<tilt>0</tilt>
+				<range>5302.818482402325</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.63345449171173,55.23249478775968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dautarų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_maze_daut_033.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_maze_daut_033.jpg">http://www.heritage.lt/dvarai/images/b_maze_daut_033.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.03846788218277</longitude>
+				<latitude>56.39290995498513</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6393228692046287</heading>
+				<tilt>0</tilt>
+				<range>4261.319002126997</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.01408715741766,56.38620969983408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Didvyžių (Geišterų) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_vilk_didv_034.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_vilk_didv_034.jpg">http://www.heritage.lt/dvarai/images/b_vilk_didv_034.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.03551102018168</longitude>
+				<latitude>54.7308115302052</latitude>
+				<altitude>0</altitude>
+				<heading>0.05986382776991093</heading>
+				<tilt>0</tilt>
+				<range>8920.859840884032</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.03972887543058,54.72740999339603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diktariškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_dikt_102.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_dikt_102.jpg">http://www.heritage.lt/dvarai/images/b_radv_dikt_102.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.46627427801278</longitude>
+				<latitude>55.65793816181632</latitude>
+				<altitude>0</altitude>
+				<heading>0.00853185700153131</heading>
+				<tilt>0</tilt>
+				<range>6575.232234258268</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.44679685952898,55.65101504690507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dūkšto dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_igna_duks_029.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_igna_duks_029.jpg">http://www.heritage.lt/dvarai/images/b_igna_duks_029.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.3274026317613</longitude>
+				<latitude>55.55316004872242</latitude>
+				<altitude>0</altitude>
+				<heading>0.00325032975959916</heading>
+				<tilt>0</tilt>
+				<range>7944.174502439182</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.3202789041039,55.54420872172344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daugėlų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jurb_daug_013.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jurb_daug_013.jpg">http://www.heritage.lt/dvarai/images/b_jurb_daug_013.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.78784854716666</longitude>
+				<latitude>55.33306627382677</latitude>
+				<altitude>0</altitude>
+				<heading>0.3813830282394076</heading>
+				<tilt>0</tilt>
+				<range>1326.352267388693</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.78649722126863,55.3327327288559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Džiuginėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_tels_dziug_042.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_tels_dziug_042.jpg">http://www.heritage.lt/dvarai/images/b_tels_dziug_042.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.18788744772965</longitude>
+				<latitude>55.9843128835387</latitude>
+				<altitude>0</altitude>
+				<heading>0.009537907526717309</heading>
+				<tilt>0</tilt>
+				<range>1841.0834298972</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.17800127180093,55.98194791826813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galinės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_galin_023.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_galin_023.jpg">http://www.heritage.lt/dvarai/images/b_viln_galin_023.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.17106285765973</longitude>
+				<latitude>54.81064451424582</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004264885162334633</heading>
+				<tilt>0</tilt>
+				<range>1677.903677884659</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.16835628150917,54.80953682597278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gelgaudiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_saki_gelg_017.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_saki_gelg_017.jpg">http://www.heritage.lt/dvarai/images/b_saki_gelg_017.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.98421001476629</longitude>
+				<latitude>55.07926789225034</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6613360282910741</heading>
+				<tilt>0</tilt>
+				<range>720.6584629482612</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.98045643443827,55.07846546115894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geručių (Glebavos) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pakr_geru_013.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pakr_geru_013.jpg">http://www.heritage.lt/dvarai/images/b_pakr_geru_013.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.9996743643928</longitude>
+				<latitude>56.3289650834919</latitude>
+				<altitude>0</altitude>
+				<heading>0.01104983537214655</heading>
+				<tilt>0</tilt>
+				<range>6455.422055130567</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.98834743231459,56.32430657969083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glitiškių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_glitisk_063.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_glitisk_063.jpg">http://www.heritage.lt/dvarai/images/b_viln_glitisk_063.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.22934750170644</longitude>
+				<latitude>54.98541069558837</latitude>
+				<altitude>0</altitude>
+				<heading>0.004623663477077763</heading>
+				<tilt>0</tilt>
+				<range>1952.746430728206</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.22202363059655,54.98515639328053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gornostajiškių dvaro sodyba, vad. Senadvario</name>
+			<description><![CDATA[<img src="http://mw2.google.com/mw-panoramio/photos/medium/11831028.jpg"/><a href="http://mw2.google.com/mw-panoramio/photos/medium/11831028.jpg">http://mw2.google.com/mw-panoramio/photos/medium/11831028.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.0370730005267</longitude>
+				<latitude>54.17674399992497</latitude>
+				<altitude>0</altitude>
+				<heading>4.270435354160621e-010</heading>
+				<tilt>0</tilt>
+				<range>1703.169532209163</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.0370730005267,54.17674399992497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gruzdžių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_gruz_029.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_gruz_029.jpg">http://www.heritage.lt/dvarai/images/b_siau_gruz_029.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.25123089235496</longitude>
+				<latitude>56.09235333118383</latitude>
+				<altitude>0</altitude>
+				<heading>-0.359713940136988</heading>
+				<tilt>0</tilt>
+				<range>3924.874235496548</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.23837924952081,56.08873766065699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gulbinėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pasv_gulb_024.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pasv_gulb_024.jpg">http://www.heritage.lt/dvarai/images/b_pasv_gulb_024.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.66090476680442</longitude>
+				<latitude>56.0839619448563</latitude>
+				<altitude>0</altitude>
+				<heading>0.01156652165015317</heading>
+				<tilt>0</tilt>
+				<range>3252.64737577153</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.64845896407173,56.07873625119279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ilzenbergo dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_ilzen_043.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_ilzen_043.jpg">http://www.heritage.lt/dvarai/images/b_roki_ilzen_043.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.52474100041166</longitude>
+				<latitude>56.15982899968861</latitude>
+				<altitude>0</altitude>
+				<heading>3.418523782730617e-010</heading>
+				<tilt>0</tilt>
+				<range>3241.266043983583</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.52474100041166,56.15982899968861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jakiškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_joni_jaki_066.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_joni_jaki_066.jpg">http://www.heritage.lt/dvarai/images/b_joni_jaki_066.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.52755524841842</longitude>
+				<latitude>56.17861212952507</latitude>
+				<altitude>0</altitude>
+				<heading>12.90004412066632</heading>
+				<tilt>0</tilt>
+				<range>4087.11848667385</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.5301017163683,56.18044962753129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jakšiškio buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_jaksis_107.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_jaksis_107.jpg">http://www.heritage.lt/dvarai/images/b_anyk_jaksis_107.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.91958391663824</longitude>
+				<latitude>55.36192038078706</latitude>
+				<altitude>0</altitude>
+				<heading>0.001163291283769155</heading>
+				<tilt>0</tilt>
+				<range>1466.151261604661</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.91890186247627,55.36178240198705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jašiūnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_salc_jasiunu_014.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_salc_jasiunu_014.jpg">http://www.heritage.lt/dvarai/images/b_salc_jasiunu_014.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.31312074772263</longitude>
+				<latitude>54.43568309669853</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01291255007528957</heading>
+				<tilt>0</tilt>
+				<range>4057.557429951942</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.29803142735381,54.43337229801576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joniškėlio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pasv_jonis_013.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pasv_jonis_013.jpg">http://www.heritage.lt/dvarai/images/b_pasv_jonis_013.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.18681416811121</longitude>
+				<latitude>56.04048319355237</latitude>
+				<altitude>0</altitude>
+				<heading>0.01490658225299755</heading>
+				<tilt>0</tilt>
+				<range>5935.367604062811</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.16315226737405,56.03178734148694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jurbarko dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jurb_jurb_064.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jurb_jurb_064.jpg">http://www.heritage.lt/dvarai/images/b_jurb_jurb_064.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.77312523573689</longitude>
+				<latitude>55.08636161853917</latitude>
+				<altitude>0</altitude>
+				<heading>-1.116944961411327</heading>
+				<tilt>0</tilt>
+				<range>6155.108458082655</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.7558593020848,55.07772130766983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kairėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_kairen_005.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_kairen_005.jpg">http://www.heritage.lt/dvarai/images/b_viln_kairen_005.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.484960495748</longitude>
+				<latitude>54.74845944005013</latitude>
+				<altitude>0</altitude>
+				<heading>0.08991967314926436</heading>
+				<tilt>0</tilt>
+				<range>32267.0766774452</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.50963584779928,54.7066253932394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalnaberžės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_kalnab_063.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_kalnab_063.jpg">http://www.heritage.lt/dvarai/images/b_keda_kalnab_063.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.00794518313638</longitude>
+				<latitude>55.39763491211898</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001105482692537484</heading>
+				<tilt>0</tilt>
+				<range>2477.089661012131</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.0052735292446,55.39481061522305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kamariškių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_zara_kamar_029.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_zara_kamar_029.jpg">http://www.heritage.lt/dvarai/images/b_zara_kamar_029.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.06077379137997</longitude>
+				<latitude>55.92453179312582</latitude>
+				<altitude>0</altitude>
+				<heading>-4.175801540740028</heading>
+				<tilt>0</tilt>
+				<range>2688.024393047327</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.04815564455185,55.92044469826346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazimieravo buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_kazimierav_036.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_kazimierav_036.jpg">http://www.heritage.lt/dvarai/images/b_viln_kazimierav_036.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.1814502580324</longitude>
+				<latitude>54.92817660180044</latitude>
+				<altitude>0</altitude>
+				<heading>0.001067504180335053</heading>
+				<tilt>0</tilt>
+				<range>3355.615693894065</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.17860567500053,54.92681198630487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kėdainių dvaro fragmentai</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_kedain_013.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_kedain_013.jpg">http://www.heritage.lt/dvarai/images/b_keda_kedain_013.jpg</a><img src="http://www.heritage.lt/dvarai/images/b_keda_kedain_003.jpg"/>]]></description>
+			<LookAt>
+				<longitude>23.99474819568107</longitude>
+				<latitude>55.31166205489693</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1422294776830635</heading>
+				<tilt>0</tilt>
+				<range>6032.055181810807</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.97690603134775,55.30405150053024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelmės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kelm_kelm_061.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kelm_kelm_061.jpg">http://www.heritage.lt/dvarai/images/b_kelm_kelm_061.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.93844881256637</longitude>
+				<latitude>55.63942531423135</latitude>
+				<altitude>0</altitude>
+				<heading>-3.888811970031715</heading>
+				<tilt>0</tilt>
+				<range>2678.959015102124</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.93673395856768,55.63860058482178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kidulių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_saki_kidu_070.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_saki_kidu_070.jpg">http://www.heritage.lt/dvarai/images/b_saki_kidu_070.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.78714619129519</longitude>
+				<latitude>55.06789393437212</latitude>
+				<altitude>0</altitude>
+				<heading>0.00206123171016082</heading>
+				<tilt>0</tilt>
+				<range>2493.868488308463</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.78182008336778,55.06595312246537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klemiškės I dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_klai_klem_029.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_klai_klem_029.jpg">http://www.heritage.lt/dvarai/images/b_klai_klem_029.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.21546524582086</longitude>
+				<latitude>55.72605390058394</latitude>
+				<altitude>0</altitude>
+				<heading>0.05066596418657594</heading>
+				<tilt>0</tilt>
+				<range>2898.822204485265</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.20686437950731,55.7219441447905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Klovainių (Krivaičių) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pakr_klov_084.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pakr_klov_084.jpg">http://www.heritage.lt/dvarai/images/b_pakr_klov_084.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.94156623639098</longitude>
+				<latitude>55.94441077967253</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001294114868458918</heading>
+				<tilt>0</tilt>
+				<range>4708.212264882892</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.93550061194395,55.93987388099234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kraštų dvaro sodybos fragmentai</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_birz_krast_098.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_birz_krast_098.jpg">http://www.heritage.lt/dvarai/images/b_birz_krast_098.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.04792089499304</longitude>
+				<latitude>56.14446718081951</latitude>
+				<altitude>0</altitude>
+				<heading>0.002080231854302036</heading>
+				<tilt>0</tilt>
+				<range>6484.199111139956</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.04160590057683,56.15135720286015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kretingos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kret_kret_082.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kret_kret_082.jpg">http://www.heritage.lt/dvarai/images/b_kret_kret_082.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.24909797177253</longitude>
+				<latitude>55.89838440940852</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6325258505425346</heading>
+				<tilt>0</tilt>
+				<range>1403.823471038727</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.24816496984867,55.89948256110844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kučių dvaro sodyba, vad. Bistrampolio</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_bistram_004.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_bistram_004.jpg">http://www.heritage.lt/dvarai/images/b_pane_bistram_004.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.37018000686923</longitude>
+				<latitude>55.59891936723412</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002755241323071982</heading>
+				<tilt>0</tilt>
+				<range>3287.911735713407</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.35563029200115,55.59693275384289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuršėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_kurs_027.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_kurs_027.jpg">http://www.heritage.lt/dvarai/images/b_siau_kurs_027.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.94727127073295</longitude>
+				<latitude>56.00354724254908</latitude>
+				<altitude>0</altitude>
+				<heading>0.008213728867219987</heading>
+				<tilt>0</tilt>
+				<range>4574.004298383359</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.93153640267239,56.00028659657426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lančiūnavos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_lanc_010.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_lanc_010.jpg">http://www.heritage.lt/dvarai/images/b_keda_lanc_010.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.15672287472272</longitude>
+				<latitude>55.34719006311758</latitude>
+				<altitude>0</altitude>
+				<heading>4.514039608273956e-005</heading>
+				<tilt>0</tilt>
+				<range>3720.343421360101</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.15423008352332,55.34657304147818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kurtuvėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_kurt_008.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_kurt_008.jpg">http://www.heritage.lt/dvarai/images/b_siau_kurt_008.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.05118960600888</longitude>
+				<latitude>55.83144897162188</latitude>
+				<altitude>0</altitude>
+				<heading>0.001215918096987443</heading>
+				<tilt>0</tilt>
+				<range>3137.57856887161</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.04896426915787,55.82553663378335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lankininkų dvaro sodyba vad. Teodoravu</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_taur_teod_085.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_taur_teod_085.jpg">http://www.heritage.lt/dvarai/images/b_taur_teod_085.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.52966454632536</longitude>
+				<latitude>55.33794075378693</latitude>
+				<altitude>0</altitude>
+				<heading>0.008875986484006067</heading>
+				<tilt>0</tilt>
+				<range>1446.269547006866</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.52672480331917,55.33626923178675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapgirių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jurb_lapg_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jurb_lapg_021.jpg">http://www.heritage.lt/dvarai/images/b_jurb_lapg_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.87553704799</longitude>
+				<latitude>55.25789089831562</latitude>
+				<altitude>0</altitude>
+				<heading>0.007720688407307315</heading>
+				<tilt>0</tilt>
+				<range>6632.838790920645</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.8659856641334,55.25316193099474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lašmenpamūšio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pakr_lasm_077.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pakr_lasm_077.jpg">http://www.heritage.lt/dvarai/images/b_pakr_lasm_077.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.99581460642376</longitude>
+				<latitude>56.02919445147729</latitude>
+				<altitude>0</altitude>
+				<heading>0.009651854413731641</heading>
+				<tilt>0</tilt>
+				<range>3252.287538301526</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.98650042030516,56.0248069999681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lėbartų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_klai_leba_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_klai_leba_021.jpg">http://www.heritage.lt/dvarai/images/b_klai_leba_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.30223176761151</longitude>
+				<latitude>55.66760053822324</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01901759543556587</heading>
+				<tilt>0</tilt>
+				<range>3289.323001490616</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.29817995658237,55.66454628191817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leipalingio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_lazd_leip_014.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_lazd_leip_014.jpg">http://www.heritage.lt/dvarai/images/b_lazd_leip_014.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.87245235273177</longitude>
+				<latitude>54.09612234703281</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4419653686972074</heading>
+				<tilt>0</tilt>
+				<range>8655.140872282553</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.85989771773688,54.09959655507076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lentvario dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_traku_lentvar_078.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_traku_lentvar_078.jpg">http://www.heritage.lt/dvarai/images/b_traku_lentvar_078.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.04345480096772</longitude>
+				<latitude>54.66098824268595</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007181117749088002</heading>
+				<tilt>0</tilt>
+				<range>7564.691332877547</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.03906425687555,54.65885428734872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leonpolio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_ukme_leonpol_063.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_ukme_leonpol_063.jpg">http://www.heritage.lt/dvarai/images/b_ukme_leonpol_063.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.71641577540104</longitude>
+				<latitude>55.21818907363569</latitude>
+				<altitude>0</altitude>
+				<heading>0.00637317906622685</heading>
+				<tilt>0</tilt>
+				<range>1662.534973266643</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.7162187514545,55.21531233074305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liberiškio buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_liber_072.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_liber_072.jpg">http://www.heritage.lt/dvarai/images/b_pane_liber_072.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.11209147977143</longitude>
+				<latitude>55.69875352586845</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005457385150380884</heading>
+				<tilt>0</tilt>
+				<range>1423.928988853071</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.10888598189637,55.69787221771377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linkavičių (Linkaučių, Slabados) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_linkav_084.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_linkav_084.jpg">http://www.heritage.lt/dvarai/images/b_pane_linkav_084.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.07277541797086</longitude>
+				<latitude>55.51740458556427</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003228347311019104</heading>
+				<tilt>0</tilt>
+				<range>1649.70703874376</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.07365043979456,55.5165986293337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liubavo dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_liubav_032.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_liubav_032.jpg">http://www.heritage.lt/dvarai/images/b_viln_liubav_032.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35632185526736</longitude>
+				<latitude>54.85790370469694</latitude>
+				<altitude>0</altitude>
+				<heading>0.004850131818157601</heading>
+				<tilt>0</tilt>
+				<range>8538.637569234581</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.34204341803942,54.85128969609378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liubiškės (Liubakavo) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sven_liubis_034.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sven_liubis_034.jpg">http://www.heritage.lt/dvarai/images/b_sven_liubis_034.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.06073661604424</longitude>
+				<latitude>55.16239935021171</latitude>
+				<altitude>0</altitude>
+				<heading>0.002568714872554559</heading>
+				<tilt>0</tilt>
+				<range>1656.363860231533</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.05942346049644,55.16279302229339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lomių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_taur_lomi_071.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_taur_lomi_071.jpg">http://www.heritage.lt/dvarai/images/b_taur_lomi_071.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.41713545097793</longitude>
+				<latitude>55.38077195468082</latitude>
+				<altitude>0</altitude>
+				<heading>0.007377627519561029</heading>
+				<tilt>0</tilt>
+				<range>1252.760418833624</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.41356178830924,55.37866376231013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luodžių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_zara_luod_002.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_zara_luod_002.jpg">http://www.heritage.lt/dvarai/images/b_zara_luod_002.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.18581935394731</longitude>
+				<latitude>55.56826314366264</latitude>
+				<altitude>0</altitude>
+				<heading>0.007691659620655209</heading>
+				<tilt>0</tilt>
+				<range>3074.219162494211</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.17755141204433,55.57183520800879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Macikų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_maci_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_maci_006.jpg">http://www.heritage.lt/dvarai/images/b_silu_maci_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.51636569104939</longitude>
+				<latitude>55.35296430230898</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001152123069968527</heading>
+				<tilt>0</tilt>
+				<range>2241.520312898668</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.51306342898188,55.35064488536603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maldžiūnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_mald_103.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_mald_103.jpg">http://www.heritage.lt/dvarai/images/b_radv_mald_103.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.80847367067318</longitude>
+				<latitude>55.86428199692253</latitude>
+				<altitude>0</altitude>
+				<heading>0.001155134308286495</heading>
+				<tilt>0</tilt>
+				<range>2700.539027886826</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.80802076670711,55.86453615463415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Markutiškių  dvaro sodybos griuvėsiai</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jona_markutis_072.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jona_markutis_072.jpg">http://www.heritage.lt/dvarai/images/b_jona_markutis_072.jpg</a>
+
+Išlikę tik buvusios kalvės kolnos kolonos]]></description>
+			<LookAt>
+				<longitude>24.40153904734449</longitude>
+				<latitude>55.13823190908384</latitude>
+				<altitude>0</altitude>
+				<heading>0.005995801157604621</heading>
+				<tilt>0</tilt>
+				<range>3326.504638746392</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.39671279031427,55.13926102753152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mažojo Tauralaukio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_klai_zemg_017.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_klai_zemg_017.jpg">http://www.heritage.lt/dvarai/images/b_klai_zemg_017.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.14943132045298</longitude>
+				<latitude>55.75482362852494</latitude>
+				<altitude>0</altitude>
+				<heading>0.003219118572046328</heading>
+				<tilt>0</tilt>
+				<range>1824.386731489214</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.14556694281823,55.75323990973391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meikštų buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_igna_meiks_020.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_igna_meiks_020.jpg">http://www.heritage.lt/dvarai/images/b_igna_meiks_020.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.50234658972937</longitude>
+				<latitude>55.44589465403063</latitude>
+				<altitude>0</altitude>
+				<heading>0.002330355929747438</heading>
+				<tilt>0</tilt>
+				<range>1765.916953813047</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.49676767763938,55.44618661914916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mozūriškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_mozurisk_061.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_mozurisk_061.jpg">http://www.heritage.lt/dvarai/images/b_viln_mozurisk_061.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.08023977686024</longitude>
+				<latitude>54.73911037303729</latitude>
+				<altitude>0</altitude>
+				<heading>0.02753590624371134</heading>
+				<tilt>0</tilt>
+				<range>5923.957772250846</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.07042179389886,54.73131962773081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merknės (Pavlovo) dvaro liekanos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_salc_merkin_122.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_salc_merkin_074.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_salc_merkin_074.jpg">http://www.heritage.lt/dvarai/images/b_salc_merkin_074.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.47708571738771</longitude>
+				<latitude>54.45698891176546</latitude>
+				<altitude>0</altitude>
+				<heading>0.2146513849724983</heading>
+				<tilt>0</tilt>
+				<range>2218.136021444927</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.47357547712259,54.45612485306899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Narvydiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sirv_narvyd_081.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sirv_narvyd_081.jpg">http://www.heritage.lt/dvarai/images/b_sirv_narvyd_081.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.83083641520891</longitude>
+				<latitude>54.9799358369125</latitude>
+				<altitude>0</altitude>
+				<heading>0.02110514456075705</heading>
+				<tilt>0</tilt>
+				<range>3341.048387874615</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.82631885339148,54.97668613051892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naudvario dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_naudv_081.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_naudv_081.jpg">http://www.heritage.lt/dvarai/images/b_pane_naudv_081.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.10725213000025</longitude>
+				<latitude>55.74387169802318</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005133818286934493</heading>
+				<tilt>0</tilt>
+				<range>1000.065679970362</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.10420523906016,55.74255063049106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naujanerių (Viljanovos) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_naujaner_012.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_naujaner_012.jpg">http://www.heritage.lt/dvarai/images/b_viln_naujaner_012.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.34695665690273</longitude>
+				<latitude>54.8081172869347</latitude>
+				<altitude>0</altitude>
+				<heading>0.4440782741478934</heading>
+				<tilt>0</tilt>
+				<range>2686.842609939147</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.34363664270408,54.80582580634334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Noriūnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kupi_noriun_003.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kupi_noriun_003.jpg">http://www.heritage.lt/dvarai/images/b_kupi_noriun_003.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.88705319074306</longitude>
+				<latitude>55.79872306058803</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003037838338710303</heading>
+				<tilt>0</tilt>
+				<range>1898.06919116178</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.88431818930166,55.79562219050393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Obelių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_obel_007.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_roki_obel_001.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_obel_001.jpg">http://www.heritage.lt/dvarai/images/b_roki_obel_001.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.81196086312871</longitude>
+				<latitude>55.92734937030297</latitude>
+				<altitude>0</altitude>
+				<heading>0.3399081891684117</heading>
+				<tilt>22.31500582778252</tilt>
+				<range>1125.56795754501</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.8075857111009,55.92658873168346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Onuškio dvaro liekanos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_onus_063.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_roki_onus_059.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_onus_059.jpg">http://www.heritage.lt/dvarai/images/b_roki_onus_059.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.54105134166029</longitude>
+				<latitude>56.14379260351994</latitude>
+				<altitude>0</altitude>
+				<heading>4.54019339800417</heading>
+				<tilt>0</tilt>
+				<range>3524.856275747091</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.53292649832059,56.13898963073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paežerių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_vilk_paez_082.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_vilk_paez_082.jpg">http://www.heritage.lt/dvarai/images/b_vilk_paez_082.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.99152516628324</longitude>
+				<latitude>54.64385923792143</latitude>
+				<altitude>0</altitude>
+				<heading>7.049412586210637</heading>
+				<tilt>0</tilt>
+				<range>4490.760343118906</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.97847891490952,54.63966542290132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pagryžuvio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kelm_pagr_005.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kelm_pagr_005.jpg">http://www.heritage.lt/dvarai/images/b_kelm_pagr_005.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.13239089425067</longitude>
+				<latitude>55.60524826955907</latitude>
+				<altitude>0</altitude>
+				<heading>0.001221907155805821</heading>
+				<tilt>0</tilt>
+				<range>1734.426016485058</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.13091739632504,55.60524049972382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pajiešmenės buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pasv_pajies_092.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pasv_pajies_092.jpg">http://www.heritage.lt/dvarai/images/b_pasv_pajies_092.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.48902961838125</longitude>
+				<latitude>56.11038325730856</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001430957428534673</heading>
+				<tilt>0</tilt>
+				<range>3099.669690378487</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.4956682133157,56.10659789604469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pajuostės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=110159&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=110159&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=110159&width=400</a><img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=110238&width=400"/>]]></description>
+			<LookAt>
+				<longitude>24.43604311399181</longitude>
+				<latitude>55.74052667744628</latitude>
+				<altitude>0</altitude>
+				<heading>0.007172925509928305</heading>
+				<tilt>0</tilt>
+				<range>6983.725330363825</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.43176026660987,55.73523598252476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pajūrio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sila_paju_093.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sila_paju_093.jpg">http://www.heritage.lt/dvarai/images/b_sila_paju_093.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.03858147474778</longitude>
+				<latitude>55.4535228068479</latitude>
+				<altitude>0</altitude>
+				<heading>0.0088609446992199</heading>
+				<tilt>0</tilt>
+				<range>2212.134181675111</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.03653798214681,55.45208705471008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pakruojo dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pakr_pakr_096.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pakr_pakr_096.jpg">http://www.heritage.lt/dvarai/images/b_pakr_pakr_096.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.88446345815345</longitude>
+				<latitude>55.98645207500424</latitude>
+				<altitude>0</altitude>
+				<heading>1.453680554717378</heading>
+				<tilt>0</tilt>
+				<range>1855.452202698903</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.87860271613192,55.98579644458559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palangos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kret_pala_004.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kret_pala_004.jpg">http://www.heritage.lt/dvarai/images/b_kret_pala_004.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.06957592263182</longitude>
+				<latitude>55.91771125080001</latitude>
+				<altitude>0</altitude>
+				<heading>0.5990038946152846</heading>
+				<tilt>0</tilt>
+				<range>4371.667957682756</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.05439247780288,55.91593648295049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palėvenės dvaro liekanos, vad. Palėvenės, Pauliankos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kupi_palev_036.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kupi_palev_036.jpg">http://www.heritage.lt/dvarai/images/b_kupi_palev_036.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.83651738165406</longitude>
+				<latitude>55.78191065303474</latitude>
+				<altitude>0</altitude>
+				<heading>0.00155724219228602</heading>
+				<tilt>0</tilt>
+				<range>1631.464057086322</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.82970927764857,55.78197670378321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paliesiaus dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_igna_palie_002.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_igna_palie_002.jpg">http://www.heritage.lt/dvarai/images/b_igna_palie_002.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.49412009149897</longitude>
+				<latitude>55.25628001662034</latitude>
+				<altitude>0</altitude>
+				<heading>-5.358849365757926</heading>
+				<tilt>0</tilt>
+				<range>4415.756407256364</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.47884628491419,55.25019853319903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palonių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_palo_039.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_palo_039.jpg">http://www.heritage.lt/dvarai/images/b_radv_palo_039.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.84318153026894</longitude>
+				<latitude>55.64923514882418</latitude>
+				<altitude>0</altitude>
+				<heading>0.01478955867239716</heading>
+				<tilt>0</tilt>
+				<range>3161.097656406688</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.84134832784342,55.64800296566009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pamiškės dvaro sodyba vad. Paliesės</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_pamis_043.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_pamis_043.jpg">http://www.heritage.lt/dvarai/images/b_pane_pamis_043.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.2501089785461</longitude>
+				<latitude>55.85069082762227</latitude>
+				<altitude>0</altitude>
+				<heading>0.006708170310200823</heading>
+				<tilt>0</tilt>
+				<range>1413.936251145729</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.24761546707997,55.84951932051637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panemunio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_panem_012.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_panem_012.jpg">http://www.heritage.lt/dvarai/images/b_roki_panem_012.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29569540170275</longitude>
+				<latitude>56.06881686323852</latitude>
+				<altitude>0</altitude>
+				<heading>0.00952216281827592</heading>
+				<tilt>0</tilt>
+				<range>3250.418975575721</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.28762601715637,56.0643424153673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paragių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_akme_para_079.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_akme_para_079.jpg">http://www.heritage.lt/dvarai/images/b_akme_para_079.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.63047099959998</longitude>
+				<latitude>56.1075880006343</latitude>
+				<altitude>0</altitude>
+				<heading>-3.321230615024647e-010</heading>
+				<tilt>0</tilt>
+				<range>3245.636321698765</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.62658346014618,56.10611841418472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parovėjos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_birz_parov_003.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_birz_parov_003.jpg">http://www.heritage.lt/dvarai/images/b_birz_parov_003.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.03554420543733</longitude>
+				<latitude>56.11241969027888</latitude>
+				<altitude>0</altitude>
+				<heading>0.005805146700974176</heading>
+				<tilt>0</tilt>
+				<range>2150.818589638191</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.03044843312606,56.11167827040477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavandenio (Sakelinės) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kelm_pava_031.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kelm_pava_031.jpg">http://www.heritage.lt/dvarai/images/b_kelm_pava_031.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.50893999963201</longitude>
+				<latitude>55.78063899889077</latitude>
+				<altitude>0</altitude>
+				<heading>-3.044045274535102e-010</heading>
+				<tilt>0</tilt>
+				<range>3273.152197198828</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.50947692977533,55.78065409616455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavermenio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_paver_084.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_paver_084.jpg">http://www.heritage.lt/dvarai/images/b_keda_paver_084.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.23911110660956</longitude>
+				<latitude>55.42079955656207</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001787313021115957</heading>
+				<tilt>0</tilt>
+				<range>1334.657321152994</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.23776789868083,55.41942854671498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavilkijo (Mikytų, Nosiedo) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_saki_pavi_016.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_saki_pavi_016.jpg">http://www.heritage.lt/dvarai/images/b_saki_pavi_016.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.56799937111466</longitude>
+				<latitude>55.03292022411437</latitude>
+				<altitude>0</altitude>
+				<heading>0.003260932654688752</heading>
+				<tilt>0</tilt>
+				<range>5005.748171117539</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.55728293596063,55.03529817267484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pavirvyčio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_tels_pavi_019.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_tels_pavi_019.jpg">http://www.heritage.lt/dvarai/images/b_tels_pavi_019.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.566289014124</longitude>
+				<latitude>56.0545920407531</latitude>
+				<altitude>0</altitude>
+				<heading>0.005225358269030934</heading>
+				<tilt>0</tilt>
+				<range>1033.509910128205</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.56347911340334,56.05287579498459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pempynės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_pemp_073.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_pemp_073.jpg">http://www.heritage.lt/dvarai/images/b_silu_pemp_073.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.10045644663452</longitude>
+				<latitude>55.07727601824794</latitude>
+				<altitude>0</altitude>
+				<heading>0.004458745613833717</heading>
+				<tilt>0</tilt>
+				<range>2088.829300301136</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.09483857980659,55.07634213203767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Petešos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_petes_023.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_viln_petes_024.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_petes_024.jpg">http://www.heritage.lt/dvarai/images/b_viln_petes_024.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.35183637444809</longitude>
+				<latitude>54.56610309967647</latitude>
+				<altitude>0</altitude>
+				<heading>0.004331638728318312</heading>
+				<tilt>0</tilt>
+				<range>3374.404641394605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.34780653208293,54.56509079675755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pienionių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_pienio_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_pienio_021.jpg">http://www.heritage.lt/dvarai/images/b_anyk_pienio_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.89968083738088</longitude>
+				<latitude>55.46687535202552</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006016394886627038</heading>
+				<tilt>0</tilt>
+				<range>7312.316506195517</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.89152918010256,55.46703846259333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirma Bubių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=4776&width=400"/><a href="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=4776&width=400">http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=4776&width=400</a><img src="http://kvr.kpd.lt/heritage/Pages/ImageFrame.aspx?fileID=4731&width=400"/>]]></description>
+			<LookAt>
+				<longitude>23.14701400106807</longitude>
+				<latitude>55.8540729999625</latitude>
+				<altitude>0</altitude>
+				<heading>8.83911132080207e-010</heading>
+				<tilt>0</tilt>
+				<range>2907.098142518064</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.14299359223584,55.854138154452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platelių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_plun_plat_084.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_plun_plat_084.jpg">http://www.heritage.lt/dvarai/images/b_plun_plat_084.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.82916048981018</longitude>
+				<latitude>56.04091774654016</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02179898844978438</heading>
+				<tilt>0</tilt>
+				<range>2838.751179806633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.81446894316382,56.03734973248253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plungės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_plun_plun_033.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_plun_plun_033.jpg">http://www.heritage.lt/dvarai/images/b_plun_plun_033.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.8410783691314</longitude>
+				<latitude>55.91795626389688</latitude>
+				<altitude>0</altitude>
+				<heading>0.03058577239938078</heading>
+				<tilt>0</tilt>
+				<range>2143.15601488816</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.8438266322808,55.91827703332183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plinkšių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_maze_plin_080.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_maze_plin_080.jpg">http://www.heritage.lt/dvarai/images/b_maze_plin_080.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.18766127027493</longitude>
+				<latitude>56.14530361828783</latitude>
+				<altitude>0</altitude>
+				<heading>0.009166621230329516</heading>
+				<tilt>0</tilt>
+				<range>3981.278534620056</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.16955675818025,56.14205674986216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polekėlės (Daujotavos) dvaro griuvėsiai</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_pole_053.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_pole_053.jpg">http://www.heritage.lt/dvarai/images/b_radv_pole_053.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.37117997839232</longitude>
+				<latitude>55.7640461336076</latitude>
+				<altitude>0</altitude>
+				<heading>0.07234139636962134</heading>
+				<tilt>0</tilt>
+				<range>3797.369919607208</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.36755722883242,55.76572576658974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Priekulės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_klai_prie_015.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_klai_prie_015.jpg">http://www.heritage.lt/dvarai/images/b_klai_prie_015.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.33149290240309</longitude>
+				<latitude>55.56282099412427</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00301166396143871</heading>
+				<tilt>0</tilt>
+				<range>3093.518729444605</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.32071263296628,55.56022133267811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Punžionių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sven_punzion_018.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sven_punzion_018.jpg">http://www.heritage.lt/dvarai/images/b_sven_punzion_018.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.75672896587721</longitude>
+				<latitude>54.87921250810396</latitude>
+				<altitude>0</altitude>
+				<heading>0.1632162461126194</heading>
+				<tilt>0</tilt>
+				<range>5297.70962014293</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.74882959232579,54.87577561253027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puziniškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_puzin_054.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_puzin_054.jpg">http://www.heritage.lt/dvarai/images/b_pane_puzin_054.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.07954459426497</longitude>
+				<latitude>55.86562791398986</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09772709800864238</heading>
+				<tilt>0</tilt>
+				<range>3671.366957956835</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.06482372794571,55.86887117698809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raguvėlės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_raguv_031.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_raguv_031.jpg">http://www.heritage.lt/dvarai/images/b_anyk_raguv_031.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.66835783676893</longitude>
+				<latitude>55.65666620002797</latitude>
+				<altitude>0</altitude>
+				<heading>0.004701837575308379</heading>
+				<tilt>0</tilt>
+				<range>1921.573766656735</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.66736502605967,55.65511752109164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rasių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_vilk_rasi_060.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_vilk_rasi_060.jpg">http://www.heritage.lt/dvarai/images/b_vilk_rasi_060.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.05913163393733</longitude>
+				<latitude>54.46068481344857</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002225209403817544</heading>
+				<tilt>0</tilt>
+				<range>2130.536229074633</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.06126369023898,54.46100434570226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudondvario  dvaro buvusi sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_raudondvnemenc_080.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_raudondvnemenc_080.jpg">http://www.heritage.lt/dvarai/images/b_viln_raudondvnemenc_080.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.58297708770483</longitude>
+				<latitude>54.88085289232163</latitude>
+				<altitude>0</altitude>
+				<heading>4.385233658253394</heading>
+				<tilt>0</tilt>
+				<range>7271.717459168963</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.54155103422965,54.87319688613187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudondvario dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kaun_raudondv_017.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kaun_raudondv_017.jpg">http://www.heritage.lt/dvarai/images/b_kaun_raudondv_017.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.78910121036228</longitude>
+				<latitude>54.94625641765969</latitude>
+				<altitude>0</altitude>
+				<heading>0.01175186981055598</heading>
+				<tilt>0</tilt>
+				<range>2917.368346859944</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.78176968979318,54.94357643066388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raudondvario dvaro sodyba -radviliškis</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_radv_raudon_090.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_radv_raudon_090.jpg">http://www.heritage.lt/dvarai/images/b_radv_raudon_090.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.80099300027487</longitude>
+				<latitude>55.74965800070899</latitude>
+				<altitude>0</altitude>
+				<heading>2.271965625609834e-010</heading>
+				<tilt>0</tilt>
+				<range>2053.713170381156</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.79628440454265,55.75080521357682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rėkyvos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_reky_052.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_reky_052.jpg">http://www.heritage.lt/dvarai/images/b_siau_reky_052.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.33477449437614</longitude>
+				<latitude>55.85885111462436</latitude>
+				<altitude>0</altitude>
+				<heading>-0.537086238173313</heading>
+				<tilt>0</tilt>
+				<range>1149.658753864592</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.32955707006545,55.85846629029065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Renavo dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_maze_rena_049.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_maze_rena_049.jpg">http://www.heritage.lt/dvarai/images/b_maze_rena_049.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.06052707797244</longitude>
+				<latitude>56.2311556167321</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2165774608734219</heading>
+				<tilt>0</tilt>
+				<range>3894.820143467644</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.05524181976246,56.22834997643248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rietavo dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_plun_riet_047.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_plun_riet_047.jpg">http://www.heritage.lt/dvarai/images/b_plun_riet_047.jpg</a><img src="http://www.heritage.lt/dvarai/images/b_plun_riet_064.jpg"/>]]></description>
+			<LookAt>
+				<longitude>21.94013905854579</longitude>
+				<latitude>55.7298181726805</latitude>
+				<altitude>0</altitude>
+				<heading>-1.461675339632571</heading>
+				<tilt>0</tilt>
+				<range>3615.872514828483</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.93182069098858,55.72807453599582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rodų II dvaro sodybos fragmentai</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pane_rodu_075.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pane_rodu_075.jpg">http://www.heritage.lt/dvarai/images/b_pane_rodu_075.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.15808871026282</longitude>
+				<latitude>55.57541873981258</latitude>
+				<altitude>0</altitude>
+				<heading>0.01725835695373986</heading>
+				<tilt>0</tilt>
+				<range>3101.077424345751</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.14787840174092,55.57414931743593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rokiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_rokis_103.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_rokis_103.jpg">http://www.heritage.lt/dvarai/images/b_roki_rokis_103.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.5993715759286</longitude>
+				<latitude>55.9642120262104</latitude>
+				<altitude>0</altitude>
+				<heading>0.002077149863392402</heading>
+				<tilt>0</tilt>
+				<range>2366.28373413801</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.60031195521652,55.96569725091393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saldutiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_uten_saldu_024.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_uten_saldu_024.jpg">http://www.heritage.lt/dvarai/images/b_uten_saldu_024.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.81490174017812</longitude>
+				<latitude>55.35026666252193</latitude>
+				<altitude>0</altitude>
+				<heading>4.548883774305735</heading>
+				<tilt>0</tilt>
+				<range>811.0619652311436</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.81140417258317,55.35025949259156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_salu_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_salu_021.jpg">http://www.heritage.lt/dvarai/images/b_roki_salu_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.37739826706777</longitude>
+				<latitude>55.81581722443047</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1631027590245586</heading>
+				<tilt>0</tilt>
+				<range>3577.356295092694</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.3710572105715,55.81106733797842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Savičiūnų dvaro liekanos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_savic_008.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_savic_008.jpg">http://www.heritage.lt/dvarai/images/b_anyk_savic_008.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.44157098206018</longitude>
+				<latitude>55.71019200975827</latitude>
+				<altitude>0</altitude>
+				<heading>-1.482187780159561e-008</heading>
+				<tilt>0</tilt>
+				<range>3279.093248216956</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.44286473903033,55.71105041741724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siesikų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_ukme_siesik_027.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_ukme_siesik_027.jpg">http://www.heritage.lt/dvarai/images/b_ukme_siesik_027.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.51559040380943</longitude>
+				<latitude>55.28806142420699</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02503421535705948</heading>
+				<tilt>0</tilt>
+				<range>5486.114255180201</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.5128799895942,55.2850522696733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siraičių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_tels_sira_016.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_tels_sira_016.jpg">http://www.heritage.lt/dvarai/images/b_tels_sira_016.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.21605000969812</longitude>
+				<latitude>55.97280551007901</latitude>
+				<altitude>0</altitude>
+				<heading>0.869240094102017</heading>
+				<tilt>0</tilt>
+				<range>4237.250781976138</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.19628328544489,55.9699930005577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sirutiškio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_sirutis_063.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_sirutis_063.jpg">http://www.heritage.lt/dvarai/images/b_keda_sirutis_063.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.98698674193175</longitude>
+				<latitude>55.35342025195425</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3696993587945742</heading>
+				<tilt>0</tilt>
+				<range>965.1485412001905</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.98621241190249,55.35301265246623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skaistakalnio (Jasnagurkos) dvaro sodyba</name>
+			<description>Apleisti, apgriuvę pastatai. Nuotraukų nėra.</description>
+			<LookAt>
+				<longitude>24.38071629846221</longitude>
+				<latitude>55.73461155634046</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1936660053076741</heading>
+				<tilt>0</tilt>
+				<range>1859.661357955984</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.38071629846221,55.73461155634045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skaraitiškės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_rase_skarait_085.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_rase_skarait_085.jpg">http://www.heritage.lt/dvarai/images/b_rase_skarait_085.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.22189081419138</longitude>
+				<latitude>55.47289980629554</latitude>
+				<altitude>0</altitude>
+				<heading>0.008355827918205862</heading>
+				<tilt>0</tilt>
+				<range>3303.54391573628</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.21189199694583,55.47184963098782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stasinės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_keda_stasyn_035.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_keda_stasyn_035.jpg">http://www.heritage.lt/dvarai/images/b_keda_stasyn_035.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.1286871946279</longitude>
+				<latitude>55.32626601886683</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007079718596732082</heading>
+				<tilt>0</tilt>
+				<range>1658.567317583741</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.13460150255918,55.32508533261962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stelmužės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_zara_stel_009.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_zara_stel_009.jpg">http://www.heritage.lt/dvarai/images/b_zara_stel_009.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.21702161078028</longitude>
+				<latitude>55.82815494881066</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006059266340781113</heading>
+				<tilt>0</tilt>
+				<range>3268.74013777255</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>26.21694332393721,55.82608708954352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sužionių buv. dvaro sodyba</name>
+			<description><![CDATA[Bažnyčia dvaro sodyboje
+
+<img src="http://www.heritage.lt/dvarai/images/b_viln_suzion_091.jpg"/>
+<a href="http://www.heritage.lt/dvarai/images/b_viln_suzion_091.jpg">http://www.heritage.lt/dvarai/images/b_viln_suzion_091.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.51169641346422</longitude>
+				<latitude>54.99151643681038</latitude>
+				<altitude>0</altitude>
+				<heading>0.002831031847980606</heading>
+				<tilt>0</tilt>
+				<range>1399.741340252664</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.51020844925621,54.99023917595571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Svirnų I dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_svir_016.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_svir_016.jpg">http://www.heritage.lt/dvarai/images/b_anyk_svir_016.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.9170476706977</longitude>
+				<latitude>55.40557232626924</latitude>
+				<altitude>0</altitude>
+				<heading>0.008906505766276119</heading>
+				<tilt>0</tilt>
+				<range>1647.514439342639</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.90611305048827,55.40596498358301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šateikių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_plun_sate_018.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_plun_sate_018.jpg">http://www.heritage.lt/dvarai/images/b_plun_sate_018.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.68511403304306</longitude>
+				<latitude>55.99878638552658</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3170439846658556</heading>
+				<tilt>0</tilt>
+				<range>1589.557095903003</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.6816981382757,55.99963287891302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šereitlaukio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_sere_104.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_sere_104.jpg">http://www.heritage.lt/dvarai/images/b_silu_sere_104.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.12667271692759</longitude>
+				<latitude>55.0536246876026</latitude>
+				<altitude>0</altitude>
+				<heading>0.007358975315104336</heading>
+				<tilt>0</tilt>
+				<range>6675.319839205986</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.12087681112482,55.05449235936709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šešuolėlių I dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_sirv_sesuolel1_073.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_sirv_sesuolel1_073.jpg">http://www.heritage.lt/dvarai/images/b_sirv_sesuolel1_073.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.06716360570445</longitude>
+				<latitude>55.07260258752247</latitude>
+				<altitude>0</altitude>
+				<heading>0.001710788917765466</heading>
+				<tilt>0</tilt>
+				<range>3328.245195793661</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.06291721129366,55.07610756262397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šiaulių dvaro sodyba, vad. Didžiadvariu</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_siau_031.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_siau_031.jpg">http://www.heritage.lt/dvarai/images/b_siau_siau_031.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.31241599955803</longitude>
+				<latitude>55.9358960000724</latitude>
+				<altitude>0</altitude>
+				<heading>-3.661549965941244e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000239461553</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>23.31472849244421,55.93560465154607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilgalių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_sila_023.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_sila_023.jpg">http://www.heritage.lt/dvarai/images/b_silu_sila_023.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.80565845072485</longitude>
+				<latitude>55.17001243743272</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004510197163098011</heading>
+				<tilt>0</tilt>
+				<range>1662.926164458358</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.80269455446924,55.16954257065888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šilutės dvaro sodyba, vad. Šojaus</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_silu_007.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_silu_007.jpg">http://www.heritage.lt/dvarai/images/b_silu_silu_007.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.46555286334572</longitude>
+				<latitude>55.34187168413416</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004634014336842519</heading>
+				<tilt>0</tilt>
+				<range>1410.055130026349</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.45969027815401,55.34039750766839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Škilinpamūšio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_pasv_skilin_004.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_pasv_skilin_004.jpg">http://www.heritage.lt/dvarai/images/b_pasv_skilin_004.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.38458839524678</longitude>
+				<latitude>56.26282760673347</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001296766684130425</heading>
+				<tilt>0</tilt>
+				<range>3488.535095682975</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.36851415211967,56.26684400186504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Šumsko dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_sumsk_013.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_sumsk_013.jpg">http://www.heritage.lt/dvarai/images/b_viln_sumsk_013.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.73365905812119</longitude>
+				<latitude>54.5978302844043</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05929022282183524</heading>
+				<tilt>0</tilt>
+				<range>5674.860185724852</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.71906847018998,54.59337574329191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Švėkšnos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_svek_058.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_svek_058.jpg">http://www.heritage.lt/dvarai/images/b_silu_svek_058.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.62121303415234</longitude>
+				<latitude>55.51459412823252</latitude>
+				<altitude>0</altitude>
+				<heading>-0.522401592066026</heading>
+				<tilt>0</tilt>
+				<range>903.6493036471076</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>21.61892366037248,55.51425441599278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taujėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_ukme_taujen_039.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_ukme_taujen_039.jpg">http://www.heritage.lt/dvarai/images/b_ukme_taujen_039.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.78187038666016</longitude>
+				<latitude>55.39399180131822</latitude>
+				<altitude>0</altitude>
+				<heading>0.01732597143423419</heading>
+				<tilt>0</tilt>
+				<range>5167.918981740923</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.7602810508112,55.3967981598826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trakų Vokės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_trakvok_005.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_trakvok_005.jpg">http://www.heritage.lt/dvarai/images/b_viln_trakvok_005.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.12904719584765</longitude>
+				<latitude>54.63916191463819</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09762327647433652</heading>
+				<tilt>0</tilt>
+				<range>5631.422738278353</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.11238940551917,54.63064738078344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antanašės</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_roki_antanas_004.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_roki_antanas_004.jpg">http://www.heritage.lt/dvarai/images/b_roki_antanas_004.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.81783603948389</longitude>
+				<latitude>55.92286449655887</latitude>
+				<altitude>0</altitude>
+				<heading>0.5501319893812221</heading>
+				<tilt>22.31582733980815</tilt>
+				<range>1134.371140264164</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>25.81485401328724,55.92218018421467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tryškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_tels_trys_012.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_tels_trys_012.jpg">http://www.heritage.lt/dvarai/images/b_tels_trys_012.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.57857276966628</longitude>
+				<latitude>56.05625031582704</latitude>
+				<altitude>0</altitude>
+				<heading>0.1486387360065878</heading>
+				<tilt>0</tilt>
+				<range>846.2150345781398</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>22.57598450172545,56.05593771052262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Troškūnų (Smėlynės) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_anyk_trosk_081.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_anyk_trosk_081.jpg">http://www.heritage.lt/dvarai/images/b_anyk_trosk_081.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.91750413515041</longitude>
+				<latitude>55.57919759496055</latitude>
+				<altitude>0</altitude>
+				<heading>0.01522226967280876</heading>
+				<tilt>0</tilt>
+				<range>3289.888825142245</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin10</styleUrl>
+			<Point>
+				<coordinates>24.8993707727376,55.57770938381803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žudiškių buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_zudis_053.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_zudis_053.jpg">http://www.heritage.lt/dvarai/images/b_viln_zudis_053.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.21942284608337</longitude>
+				<latitude>54.82855848087949</latitude>
+				<altitude>0</altitude>
+				<heading>0.5517555817464708</heading>
+				<tilt>0</tilt>
+				<range>601.9732936049604</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.21754845186882,54.82878093595767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vaitkuškio dvaro liekanos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_ukme_vaitkusk_025.jpg"/><img src="http://www.heritage.lt/dvarai/images/b_ukme_vaitkusk_022.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_ukme_vaitkusk_022.jpg">http://www.heritage.lt/dvarai/images/b_ukme_vaitkusk_022.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.80482303303387</longitude>
+				<latitude>55.20943085562545</latitude>
+				<altitude>0</altitude>
+				<heading>0.9761102195507119</heading>
+				<tilt>0</tilt>
+				<range>2141.22958014847</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.79839136447366,55.20893228511518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palūkščio dvaro liekanos</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_rase_paluks_066.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_rase_paluks_066.jpg">http://www.heritage.lt/dvarai/images/b_rase_paluks_066.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.36957645543422</longitude>
+				<latitude>55.33163202047332</latitude>
+				<altitude>0</altitude>
+				<heading>-2.284131230705409</heading>
+				<tilt>0</tilt>
+				<range>10904.03373412842</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.32411628009448,55.3374825240411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vasaknų dvaras</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_zara_vasa_022.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_zara_vasa_022.jpg">http://www.heritage.lt/dvarai/images/b_zara_vasa_022.jpg</a>
+
+Išlikęs tik svirnas.]]></description>
+			<LookAt>
+				<longitude>25.79518480138585</longitude>
+				<latitude>55.68694298413497</latitude>
+				<altitude>0</altitude>
+				<heading>2.349152212537391</heading>
+				<tilt>0</tilt>
+				<range>1071.504675823734</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.79095111886868,55.68575282257017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Žagarės dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_joni_zagadavr_059.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_joni_zagadavr_059.jpg">http://www.heritage.lt/dvarai/images/b_joni_zagadavr_059.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.26132799126176</longitude>
+				<latitude>56.3622086333316</latitude>
+				<altitude>0</altitude>
+				<heading>0.005508862437181589</heading>
+				<tilt>0</tilt>
+				<range>2880.393164780182</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.26447345786608,56.36263433209565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užpalių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_uten_uzpa_002.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_uten_uzpa_002.jpg">http://www.heritage.lt/dvarai/images/b_uten_uzpa_002.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.58523675178017</longitude>
+				<latitude>55.64259539314171</latitude>
+				<altitude>0</altitude>
+				<heading>0.003048455209314052</heading>
+				<tilt>0</tilt>
+				<range>2394.663535931747</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.58064153414133,55.64120730615309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrinų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_maze_ukri2_006.jpg"/><a href=""></a><a href="http://www.heritage.lt/dvarai/images/b_maze_ukri2_006.jpg">http://www.heritage.lt/dvarai/images/b_maze_ukri2_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.08836179265162</longitude>
+				<latitude>56.30902798890084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.009784575494326042</heading>
+				<tilt>0</tilt>
+				<range>2341.103825029546</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.08362266417441,56.30985479744678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užutrakio dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_traku_uzutrak_032.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_traku_uzutrak_032.jpg">http://www.heritage.lt/dvarai/images/b_traku_uzutrak_032.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.94712017998441</longitude>
+				<latitude>54.65948450427202</latitude>
+				<altitude>0</altitude>
+				<heading>0.01618838693798362</heading>
+				<tilt>0</tilt>
+				<range>5689.946500871215</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.94558075812922,54.66378978900876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užugirio dvaro sodyba, vad. Užugirio kiemu</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_ukme_lenodvar_046.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_ukme_lenodvar_046.jpg">http://www.heritage.lt/dvarai/images/b_ukme_lenodvar_046.jpg</a>]]></description>
+			<LookAt>
+				<longitude>24.56780759734</longitude>
+				<latitude>55.42524409999897</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01056025467117196</heading>
+				<tilt>0</tilt>
+				<range>3305.07584678902</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>24.56313791431349,55.425584009366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Užvenčio buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_kelm_uzve_071.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_kelm_uzve_071.jpg">http://www.heritage.lt/dvarai/images/b_kelm_uzve_071.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.64709672101828</longitude>
+				<latitude>55.79038919805051</latitude>
+				<altitude>0</altitude>
+				<heading>0.2533208309665457</heading>
+				<tilt>0</tilt>
+				<range>2651.689550581325</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.65375105519486,55.78804994584738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varputėnų dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_siau_varp_043.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_siau_varp_043.jpg">http://www.heritage.lt/dvarai/images/b_siau_varp_043.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.8760690551754</longitude>
+				<latitude>55.87255045562286</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01061231213806376</heading>
+				<tilt>0</tilt>
+				<range>5313.932529502406</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.86770622109899,55.87314469465505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veriškių (Verusavos) buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_verisk_061.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_verisk_061.jpg">http://www.heritage.lt/dvarai/images/b_viln_verisk_061.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.47974161357328</longitude>
+				<latitude>54.89905768445532</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2777325704962506</heading>
+				<tilt>0</tilt>
+				<range>682.5707184284055</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.47924584779028,54.8992305103792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veliuonos dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_jurb_veli_006.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_jurb_veli_006.jpg">http://www.heritage.lt/dvarai/images/b_jurb_veli_006.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.28103150038734</longitude>
+				<latitude>55.08181435554494</latitude>
+				<altitude>0</altitude>
+				<heading>0.005953189356961167</heading>
+				<tilt>0</tilt>
+				<range>2015.149635908978</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.27820200329775,55.08030353707944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vėžaičių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_klai_veza_097.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_klai_veza_097.jpg">http://www.heritage.lt/dvarai/images/b_klai_veza_097.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.47695744824387</longitude>
+				<latitude>55.7156501854648</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002148709407845314</heading>
+				<tilt>0</tilt>
+				<range>2271.070483163267</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.47418986177344,55.71400946447865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Verkių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_viln_verk_026.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_viln_verk_026.jpg">http://www.heritage.lt/dvarai/images/b_viln_verk_026.jpg</a>]]></description>
+			<LookAt>
+				<longitude>25.29725887986017</longitude>
+				<latitude>54.7468634048239</latitude>
+				<altitude>0</altitude>
+				<heading>0.003889486721338754</heading>
+				<tilt>0</tilt>
+				<range>1929.264925762423</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.2919639441818,54.7480000889989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkėno dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_vilken_031.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_vilken_031.jpg">http://www.heritage.lt/dvarai/images/b_silu_vilken_031.jpg</a>]]></description>
+			<LookAt>
+				<longitude>21.63725884758862</longitude>
+				<latitude>55.49923931073536</latitude>
+				<altitude>0</altitude>
+				<heading>0.9342801038904202</heading>
+				<tilt>0</tilt>
+				<range>2952.73962515209</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>21.63033734271802,55.49881219923138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vilkyškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_silu_vilkys_029.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_silu_vilkys_029.jpg">http://www.heritage.lt/dvarai/images/b_silu_vilkys_029.jpg</a>]]></description>
+			<LookAt>
+				<longitude>22.13430467949008</longitude>
+				<latitude>55.11816770110616</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2989572386483598</heading>
+				<tilt>0</tilt>
+				<range>2116.47478709705</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>22.13022251360036,55.11754022978726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vidiškių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_igna_vidis_021.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_igna_vidis_021.jpg">http://www.heritage.lt/dvarai/images/b_igna_vidis_021.jpg</a>]]></description>
+			<LookAt>
+				<longitude>26.21423628928143</longitude>
+				<latitude>55.36992124337837</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002945903035855874</heading>
+				<tilt>0</tilt>
+				<range>3736.328385453408</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>26.20815899397386,55.37297405591923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyžuonų buv. dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_uten_vyzuon_010.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_uten_vyzuon_010.jpg">http://www.heritage.lt/dvarai/images/b_uten_vyzuon_010.jpg</a><img src="http://www.heritage.lt/dvarai/images/b_uten_vyzuon_008.jpg"/>
+
+Svirnas ir spirito varykla]]></description>
+			<LookAt>
+				<longitude>25.50468688434146</longitude>
+				<latitude>55.57296455481271</latitude>
+				<altitude>0</altitude>
+				<heading>0.0887859930486414</heading>
+				<tilt>0</tilt>
+				<range>1008.167996975568</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>25.49912626144344,55.5726509372234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zyplių dvaro sodyba</name>
+			<description><![CDATA[<img src="http://www.heritage.lt/dvarai/images/b_saki_zypl_001.jpg"/><a href="http://www.heritage.lt/dvarai/images/b_saki_zypl_001.jpg">http://www.heritage.lt/dvarai/images/b_saki_zypl_001.jpg</a>]]></description>
+			<LookAt>
+				<longitude>23.19854010102626</longitude>
+				<latitude>54.94062142062239</latitude>
+				<altitude>0</altitude>
+				<heading>0.002866603868715123</heading>
+				<tilt>0</tilt>
+				<range>3352.410640190049</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin1</styleUrl>
+			<Point>
+				<coordinates>23.19438407965851,54.94054639586717,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
